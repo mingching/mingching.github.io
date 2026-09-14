@@ -1,0 +1,1850 @@
+[
+  {
+    "title": "In ictu oculi: Exposing ai created fake videos by detecting eye blinking",
+    "authors": "Y Li, MC Chang, S Lyu",
+    "venue": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
+    "year": "2018",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Mojj43d5GZwC"
+  },
+  {
+    "title": "The visual object tracking vot2015 challenge results",
+    "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
+    "venue": "Proceedings of the IEEE international conference on computer vision …, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LPZeul_q3PIC"
+  },
+  {
+    "title": "UA-DETRAC: A new benchmark and protocol for multi-object detection and tracking",
+    "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
+    "venue": "Computer Vision and Image Understanding 193, 102907, 2020",
+    "year": "2020",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:dfsIfKJdRG4C"
+  },
+  {
+    "title": "Multi-scale structure-aware network for human pose estimation",
+    "authors": "L Ke, MC Chang, H Qi, S Lyu",
+    "venue": "European Conference on Computer Vision, 731-746, 2018",
+    "year": "2018",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:olpn-zPbct0C"
+  },
+  {
+    "title": "The 7th ai city challenge",
+    "authors": "M Naphade, S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, ...",
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2023",
+    "year": "2023",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:z_wVstp3MssC"
+  },
+  {
+    "title": "Smiletrack: Similarity learning for occlusion-aware multiple object tracking",
+    "authors": "YH Wang, JW Hsieh, PY Chen, MC Chang, HH So, X Li",
+    "venue": "Proceedings of the AAAI conference on artificial intelligence 38 (6), 5740-5748, 2024",
+    "year": "2024",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:OTTXONDVkokC"
+  },
+  {
+    "title": "The thermal infrared visual object tracking VOT-TIR2015 challenge results",
+    "authors": "M Felsberg, A Berg, G Hager, J Ahlberg, M Kristan, J Matas, A Leonardis, ...",
+    "venue": "Proceedings of the ieee international conference on computer vision …, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:eMMeJKvmdy0C"
+  },
+  {
+    "title": "Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge",
+    "authors": "W Huang, X Li, Y Chen, X Li, MC Chang, MJ Oborski, DI Malyarenko, ...",
+    "venue": "Translational oncology 7 (1), 153-166, 2014",
+    "year": "2014",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:q3oQSFYPqjQC"
+  },
+  {
+    "title": "UA-DETRAC 2017: Report of AVSS2017 & IWT4S challenge on advanced traffic monitoring",
+    "authors": "S Lyu, MC Chang, D Du, L Wen, H Qi, Y Li, Y Wei, L Ke, T Hu, M Del Coco, ...",
+    "venue": "2017 14th IEEE international conference on advanced video and signal based …, 2017",
+    "year": "2017",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:BrmTIyaxlBUC"
+  },
+  {
+    "title": "Parallel residual bi-fusion feature pyramid network for accurate single-shot object detection",
+    "authors": "PY Chen, MC Chang, JW Hsieh, YS Chen",
+    "venue": "IEEE transactions on Image Processing 30, 9099-9111, 2021",
+    "year": "2021",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:AvfA0Oy_GE0C"
+  },
+  {
+    "title": "Spatio-temporal phrases for activity recognition",
+    "authors": "Y Zhang, X Liu, MC Chang, W Ge, T Chen",
+    "venue": "European Conference on Computer Vision, 707-721, 2012",
+    "year": "2012",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:8k81kl-MbHgC"
+  },
+  {
+    "title": "Gan-generated faces detection: A survey and new perspectives",
+    "authors": "X Wang, H Guo, S Hu, MC Chang, S Lyu",
+    "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+    "year": "2023",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kuK5TVdYjLIC"
+  },
+  {
+    "title": "Eyes tell all: Irregular pupil shapes reveal gan-generated faces",
+    "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
+    "venue": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …, 2022",
+    "year": "2022",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4MWp96NkSFoC"
+  },
+  {
+    "title": "Robust adversarial perturbation on deep proposal-based models",
+    "authors": "Y Li, D Tian, MC Chang, X Bian, S Lyu",
+    "venue": "arXiv preprint arXiv:1809.05962, 2018",
+    "year": "2018",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ipzZ9siozwsC"
+  },
+  {
+    "title": "Adaptive RNN tree for large-scale human action recognition",
+    "authors": "W Li, L Wen, MC Chang, S Nam Lim, S Lyu",
+    "venue": "Proceedings of the IEEE international conference on computer vision, 1444-1452, 2017",
+    "year": "2017",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:5Ul4iDaHHb8C"
+  },
+  {
+    "title": "The 2019 AI city challenge.",
+    "authors": "M Naphade, Z Tang, MC Chang, DC Anastasiu, A Sharma, R Chellappa, ...",
+    "venue": "CVPR workshops 8, 2, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kzcrU_BdoSEC"
+  },
+  {
+    "title": "The 2018 nvidia ai city challenge",
+    "authors": "M Naphade, MC Chang, A Sharma, DC Anastasiu, V Jagarlamudi, ...",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2018",
+    "year": "2018",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:WA5NYHcadZ8C"
+  },
+  {
+    "title": "Probabilistic group-level motion analysis and scenario recognition",
+    "authors": "MC Chang, N Krahnstoever, W Ge",
+    "venue": "2011 International Conference on Computer Vision, 747-754, 2011",
+    "year": "2011",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:WF5omc3nYNoC"
+  },
+  {
+    "title": "The 8th ai city challenge",
+    "authors": "S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, MS Rahman, ...",
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
+    "year": "2024",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:cWzG1nlazyYC"
+  },
+  {
+    "title": "Fisheye8k: A benchmark and dataset for fisheye camera object detection",
+    "authors": "M Gochoo, ME Otgonbold, E Ganbold, JW Hsieh, MC Chang, PY Chen, ...",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
+    "year": "2023",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:GtLg2Ama23sC"
+  },
+  {
+    "title": "Robust attentive deep neural network for detecting gan-generated faces",
+    "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
+    "venue": "Ieee Access 10, 32574-32583, 2022",
+    "year": "2022",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:BwyfMAYsbu0C"
+  },
+  {
+    "title": "Multi-camera multi-target tracking with space-time-view hyper-graph",
+    "authors": "L Wen, Z Lei, MC Chang, H Qi, S Lyu",
+    "venue": "International Journal of Computer Vision 122 (2), 313-333, 2017",
+    "year": "2017",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Tiz5es2fbqcC"
+  },
+  {
+    "title": "Group level activity recognition in crowded environments across multiple cameras",
+    "authors": "MC Chang, N Krahnstoever, S Lim, T Yu",
+    "venue": "2010 7th IEEE International Conference on Advanced Video and Signal Based …, 2010",
+    "year": "2010",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+    "title": "Multimodal sensor system for pressure ulcer wound assessment and care",
+    "authors": "MC Chang, T Yu, J Luo, K Duan, P Tu, Y Zhao, N Nagraj, V Rajiv, ...",
+    "venue": "IEEE Transactions on Industrial Informatics 14 (3), 1186-1196, 2017",
+    "year": "2017",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:1qzjygNMrQYC"
+  },
+  {
+    "title": "The nvidia ai city challenge",
+    "authors": "M Naphade, DC Anastasiu, A Sharma, V Jagrlamudi, H Jeon, K Liu, ...",
+    "venue": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced …, 2017",
+    "year": "2017",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:fQNAKQ3IYiAC"
+  },
+  {
+    "title": "DETRAC: A new benchmark and protocol for multi-object tracking",
+    "authors": "L Wen, D Du, Z Cai, Z Lei, M Chang, H Qi, J Lim, M Yang, S Lyu",
+    "venue": "arXiv preprint arXiv:1511.04136 2 (4), 7, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:WC23djZS0W4C"
+  },
+  {
+    "title": "Surface reconstruction from point clouds by transforming the medial scaffold",
+    "authors": "MC Chang, FF Leymarie, BB Kimia",
+    "venue": "Computer Vision and Image Understanding 113 (11), 1130-1146, 2009",
+    "year": "2009",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:u-x6o8ySG0sC"
+  },
+  {
+    "title": "Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation",
+    "authors": "TY Tsai, L Lin, S Hu, MC Chang, H Zhu, X Wang",
+    "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
+    "year": "2024",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:yqoGN6RLRZoC"
+  },
+  {
+    "title": "Measuring 3D shape similarity by graph-based matching of the medial scaffolds",
+    "authors": "MC Chang, BB Kimia",
+    "venue": "Computer Vision and Image Understanding 115 (5), 707-720, 2011",
+    "year": "2011",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Tyk-4Ss8FVUC"
+  },
+  {
+    "title": "PreAugNet: improve data augmentation for industrial defect classification with small-scale training data",
+    "authors": "I Farady, CY Lin, MC Chang",
+    "venue": "Journal of Intelligent Manufacturing 35 (3), 1233-1246, 2024",
+    "year": "2024",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4fGpz3EwCPoC"
+  },
+  {
+    "title": "AI City Challenge 2020–Computer vision for smart transportation applications",
+    "authors": "MC Chang, CK Chiang, CM Tsai, YK Chang, HL Chiang, YA Wang, ...",
+    "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2020",
+    "year": "2020",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:XD-gHx7UXLsC"
+  },
+  {
+    "title": "Exploring the vulnerability of single shot module in object detectors via imperceptible background patches",
+    "authors": "Y Li, X Bian, MC Chang, S Lyu",
+    "venue": "arXiv preprint arXiv:1809.05966, 2018",
+    "year": "2018",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tKAzc9rXhukC"
+  },
+  {
+    "title": "DetPoseNet: Improving multi-person pose estimation via coarse-pose filtering",
+    "authors": "L Ke, MC Chang, H Qi, S Lyu",
+    "venue": "IEEE Transactions on Image Processing 31, 2782-2795, 2022",
+    "year": "2022",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:VaXvl8Fpj5cC"
+  },
+  {
+    "title": "A machine learning inversion scheme for determining interaction from scattering",
+    "authors": "MC Chang, CH Tung, SY Chang, JM Carrillo, Y Wang, BG Sumpter, ...",
+    "venue": "Communications Physics 5 (1), 46, 2022",
+    "year": "2022",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:b1wdh0AR-JQC"
+  },
+  {
+    "title": "A new benchmark and model for challenging image manipulation detection",
+    "authors": "Z Zhang, M Li, MC Chang",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (7), 7405-7413, 2024",
+    "year": "2024",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:sNmaIFBj_lkC"
+  },
+  {
+    "title": "Video analytics in smart transportation for the AIC’18 challenge",
+    "authors": "MC Chang, Y Wei, N Song, S Lyu",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2018",
+    "year": "2018",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:t6usbXjVLHcC"
+  },
+  {
+    "title": "AI City Challenge 2019-City-Scale Video Analytics for Smart Transportation.",
+    "authors": "MC Chang, J Wei, ZA Zhu, YM Chen, CS Hu, MX Jiang, CK Chiang",
+    "venue": "CVPR workshops, 99-108, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:NJ774b8OgUMC"
+  },
+  {
+    "title": "A skull stripping method using deformable surface and tissue classification",
+    "authors": "X Tao, MC Chang",
+    "venue": "Medical Imaging 2010: Image Processing 7623, 1095-1102, 2010",
+    "year": "2010",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Y0pCki6q_DkC"
+  },
+  {
+    "title": "Quantitative pharmacokinetic analysis of prostate cancer DCE-MRI at 3 T: comparison of two arterial input functions on cancer detection with digitized whole mount …",
+    "authors": "FM Fennessy, A Fedorov, T Penzkofer, KW Kim, MS Hirsch, MG Vangel, ...",
+    "venue": "Magnetic resonance imaging 33 (7), 886-894, 2015",
+    "year": "2015",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:eflP2zaiRacC"
+  },
+  {
+    "title": "Group context learning for event recognition",
+    "authors": "Y Zhang, W Ge, MC Chang, X Liu",
+    "venue": "2012 IEEE Workshop on the Applications of Computer Vision (WACV), 249-255, 2012",
+    "year": "2012",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "title": "Maggan: High-resolution face attribute editing with mask-guided generative adversarial network",
+    "authors": "Y Wei, Z Gan, W Li, S Lyu, MC Chang, L Zhang, J Gao, P Zhang",
+    "venue": "Asian Conference on Computer Vision, 661-678, 2020",
+    "year": "2020",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:vDijr-p_gm4C"
+  },
+  {
+    "title": "Person tracking and interactive advertising",
+    "authors": "NO Krahnstoever, PH Tu, MC Chang, W Ge",
+    "venue": "US Patent App. 13/221,896, 2013",
+    "year": "2013",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:3fE2CSJIrl8C"
+  },
+  {
+    "title": "Vocbench: A neural vocoder benchmark for speech synthesis",
+    "authors": "EA AlBadawy, A Gibiansky, Q He, J Wu, MC Chang, S Lyu",
+    "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+    "year": "2022",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:hMsQuOkrut0C"
+  },
+  {
+    "title": "Pseudoprop: Robust pseudo-label generation for semi-supervised object detection in autonomous driving systems",
+    "authors": "S Hu, CH Liu, J Dutta, MC Chang, S Lyu, N Ramakrishnan",
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LI9QrySNdTsC"
+  },
+  {
+    "title": "Learnable discrete wavelet pooling (LDW-Pooling) for convolutional networks",
+    "authors": "BS Wang, JW Hsieh, MC Chang, PY Chen, L Ke, S Lyu",
+    "venue": "arXiv preprint arXiv:2109.06638, 2021",
+    "year": "2021",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:p__nRnzSRKYC"
+  },
+  {
+    "title": "E4: Energy-efficient DNN inference for edge video analytics via early exiting and DVFS",
+    "authors": "Z Zhang, Y Zhao, MC Chang, C Lin, J Liu",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (1), 1165-1173, 2025",
+    "year": "2025",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:fbc8zXXH2BUC"
+  },
+  {
+    "title": "Mixnet: toward accurate detection of challenging scene text in the wild",
+    "authors": "YX Zeng, JW Hsieh, X Li, MC Chang",
+    "venue": "arXiv preprint arXiv:2308.12817, 2023",
+    "year": "2023",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:8d8msizDQcsC"
+  },
+  {
+    "title": "Cloud tracking for solar irradiance prediction",
+    "authors": "MC Chang, Y Yao, G Li, Y Tong, P Tu",
+    "venue": "2017 IEEE International Conference on Image Processing (ICIP), 4387-4391, 2017",
+    "year": "2017",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:eJXPG6dFmWUC"
+  },
+  {
+    "title": "Gaze and body pose estimation from a distance",
+    "authors": "N Krahnstoever, MC Chang, W Ge",
+    "venue": "2011 8th IEEE International Conference on Advanced Video and Signal Based …, 2011",
+    "year": "2011",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LkGwnXOMwfcC"
+  },
+  {
+    "title": "Tracking gaze direction from far-field surveillance cameras",
+    "authors": "K Sankaranarayanan, MC Chang, N Krahnstoever",
+    "venue": "2011 IEEE Workshop on Applications of Computer Vision (WACV), 519-526, 2011",
+    "year": "2011",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:qjMakFHDy7sC"
+  },
+  {
+    "title": "3D shape registration using regularized medial scaffolds",
+    "authors": "MC Chang, FF Leymarie, BB Kimia",
+    "venue": "Proceedings. 2nd International Symposium on 3D Data Processing …, 2004",
+    "year": "2004",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:u5HHmVD_uO8C"
+  },
+  {
+    "title": "Explain black-box image classifications using superpixel-based interpretation",
+    "authors": "Y Wei, MC Chang, Y Ying, SN Lim, S Lyu",
+    "venue": "2018 24th International Conference on Pattern Recognition (ICPR), 1640-1645, 2018",
+    "year": "2018",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Y5dfb0dijaUC"
+  },
+  {
+    "title": "Efficient algorithms for graph regularized PLSA for probabilistic topic modeling",
+    "authors": "X Wang, MC Chang, L Wang, S Lyu",
+    "venue": "Pattern Recognition 86, 236-247, 2019",
+    "year": "2019",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:WqliGbK-hY8C"
+  },
+  {
+    "title": "Apparatus and method for predicting solar irradiance variation",
+    "authors": "Y Yao, P Tu, MC Chang, L Guan, Y Tong",
+    "venue": "US Patent 8,923,567, 2014",
+    "year": "2014",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:qxL8FJ1GzNcC"
+  },
+  {
+    "title": "Gpu acceleration for fhew/tfhe bootstrapping",
+    "authors": "Y Xiao, FH Liu, YT Ku, MC Ho, CF Hsu, MC Chang, SH Hung, WC Chen",
+    "venue": "Ruhr-University of Bochum, 2024",
+    "year": "2024",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Ehil0879vHcC"
+  },
+  {
+    "title": "Systems and methods for analyzing time series data based on event transitions",
+    "authors": "J Chen, PH Tu, MC Chang, Y Kim, S Lyu",
+    "venue": "US Patent 9,984,154, 2018",
+    "year": "2018",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:K3LRdlH-MEoC"
+  },
+  {
+    "title": "Street object detection/tracking for AI city traffic analysis",
+    "authors": "Y Wei, N Song, L Ke, MC Chang, S Lyu",
+    "venue": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced …, 2017",
+    "year": "2017",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:VOx2b1Wkg3QC"
+  },
+  {
+    "title": "Open-eye: An open platform to study human performance on identifying ai-synthesized faces",
+    "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
+    "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
+    "year": "2022",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:-FonjvnnhkoC"
+  },
+  {
+    "title": "Deep learning-based super-resolution for small-angle neutron scattering data: attempt to accelerate experimental workflow",
+    "authors": "MC Chang, Y Wei, WR Chen, C Do",
+    "venue": "MRS Communications 10 (1), 11-17, 2020",
+    "year": "2020",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:fEOibwPWpKIC"
+  },
+  {
+    "title": "Text-image de-contextualization detection using vision-language models",
+    "authors": "M Huang, S Jia, MC Chang, S Lyu",
+    "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+    "year": "2022",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:MLfJN-KU85MC"
+  },
+  {
+    "title": "Lightning YOLOv4 for a surface defect detection system for sawn lumber",
+    "authors": "F Akhyar, L Novamizanti, T Putra, EN Furqon, MC Chang, CY Lin",
+    "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
+    "year": "2022",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Ug5p-4gJ2f0C"
+  },
+  {
+    "title": "Multi-Teacher Single-Student Visual Transformer with Multi-Level Attention for Face Spoofing Detection.",
+    "authors": "YH Huang, JW Hsieh, MC Chang, L Ke, S Lyu, AS Santra",
+    "venue": "BMVC, 125, 2021",
+    "year": "2021",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ILKRHgRFtOwC"
+  },
+  {
+    "title": "Fast search algorithms for industrial inspection",
+    "authors": "MC Chang, CS Fuh, HY Chen",
+    "venue": "International journal of pattern recognition and artificial intelligence 15 …, 2001",
+    "year": "2001",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+    "title": "Image and video capture architecture for three-dimensional reconstruction",
+    "authors": "MC Chang, J Ping, EM Gros, A Jain, PH Tu",
+    "venue": "US Patent 10,600,194, 2020",
+    "year": "2020",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:uLbwQdceFCQC"
+  },
+  {
+    "title": "Modeling transition patterns between events for temporal human action segmentation and classification",
+    "authors": "Y Kim, J Chen, MC Chang, X Wang, EM Provost, S Lyu",
+    "venue": "2015 11th IEEE International Conference and Workshops on Automatic Face and …, 2015",
+    "year": "2015",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:isC4tDSrTZIC"
+  },
+  {
+    "title": "Occupancy sensing and activity recognition with cameras and wireless sensors",
+    "authors": "Y Zhao, P Tu, MC Chang",
+    "venue": "Proceedings of the 2nd Workshop on Data Acquisition to Analysis, 1-6, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_Re3VWB3Y0AC"
+  },
+  {
+    "title": "Who did what at where and when: simultaneous multi-person tracking and activity recognition",
+    "authors": "W Li, MC Chang, S Lyu",
+    "venue": "arXiv preprint arXiv:1807.01253, 2018",
+    "year": "2018",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tkaPQYYpVKoC"
+  },
+  {
+    "title": "Training-free image manipulation localization using diffusion models",
+    "authors": "Z Zhang, MC Chang, X Li",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (10), 10376 …, 2025",
+    "year": "2025",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:vDZJ-YLwNdEC"
+  },
+  {
+    "title": "Open-set occluded person identification with mmWave radar",
+    "authors": "T Wang, Y Zhao, MC Chang, J Liu",
+    "venue": "IEEE Transactions on Mobile Computing 24 (6), 5229-5244, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:NyGDZy8z5eUC"
+  },
+  {
+    "title": "Inferring colloidal interaction from scattering by machine learning",
+    "authors": "CH Tung, SY Chang, MC Chang, JM Carrillo, BG Sumpter, C Do, ...",
+    "venue": "Carbon Trends 10, 100252, 2023",
+    "year": "2023",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:bz8QjSJIRt4C"
+  },
+  {
+    "title": "Three-dimensional modeling of an object",
+    "authors": "EM Gros, J Ping, A Jain, MC Chang, PH Tu",
+    "venue": "US Patent 10,679,338, 2020",
+    "year": "2020",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:JQOojiI6XY0C"
+  },
+  {
+    "title": "Regularizing 3D medial axis using medial scaffold transforms",
+    "authors": "MC Chang, BB Kimia",
+    "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8, 2008",
+    "year": "2008",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+    "title": "Spotting the fakes: A deep dive into GAN-generated face detection",
+    "authors": "X Wang, TY Tsai, L Lin, H Guo, S Hu, MC Chang, PK Atrey, S Lyu",
+    "venue": "ACM Transactions on Multimedia Computing, Communications and Applications 21 …, 2025",
+    "year": "2025",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:2tRrZ1ZAMYUC"
+  },
+  {
+    "title": "Unveiling mesoscopic structures in distorted lamellar phases through deep learning-based small angle neutron scattering analysis",
+    "authors": "CH Tung, YJ Hsiao, HL Chen, GR Huang, L Porcar, MC Chang, ...",
+    "venue": "Journal of Colloid and Interface Science 659, 739-750, 2024",
+    "year": "2024",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:2VqYfGB8ITEC"
+  },
+  {
+    "title": "Image classification for historical documents: a study on Chinese local gazetteers",
+    "authors": "JA Chen, JC Hou, RTH Tsai, HM Liao, SP Chen, MC Chang",
+    "venue": "Digital Scholarship in the Humanities 39 (1), 61-73, 2024",
+    "year": "2024",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:umqufdRvDiIC"
+  },
+  {
+    "title": "Railcar detection, identification and tracking for rail yard management",
+    "authors": "MC Chang, G Zhao, AK Pandey, A Pulver, P Tu",
+    "venue": "2020 IEEE International Conference on Image Processing (ICIP), 2271-2275, 2020",
+    "year": "2020",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:zLWjf1WUPmwC"
+  },
+  {
+    "title": "Modeling Latent Comorbidity for Health Risk Prediction Using Graph Convolutional Network.",
+    "authors": "R Wang, MC Chang, M Radigan",
+    "venue": "FLAIRS, 341-346, 2020",
+    "year": "2020",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:t7zJ5fGR-2UC"
+  },
+  {
+    "title": "Bridging computer vision and social science: A multi-camera vision system for social interaction training analysis",
+    "authors": "J Chen, MC Chang, TP Tian, T Yu, P Tu",
+    "venue": "2015 IEEE International Conference on Image Processing (ICIP), 823-826, 2015",
+    "year": "2015",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:EUQCXRtRnyEC"
+  },
+  {
+    "title": "Semi-supervised learning for topographic map analysis over time: a study of bridge segmentation",
+    "authors": "CS Wong, HM Liao, RTH Tsai, MC Chang",
+    "venue": "Scientific Reports 12 (1), 18997, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:86PQX7AUzd4C"
+  },
+  {
+    "title": "In-bed patient motion and pose analysis using depth videos for pressure ulcer prevention",
+    "authors": "MC Chang, T Yi, K Duan, J Luo, P Tu, M Priebe, E Wood, M Stachura",
+    "venue": "2017 IEEE International Conference on Image Processing (ICIP), 4118-4122, 2017",
+    "year": "2017",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:D_sINldO8mEC"
+  },
+  {
+    "title": "A semantically impactful image manipulation dataset: Characterizing image manipulations using semantic significance",
+    "authors": "Y Chen, MC Chang, M Kirchner, Z Zhang, X Li, A Basharat, A Hoogs",
+    "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
+    "year": "2025",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:artPoR2Yc-kC"
+  },
+  {
+    "title": "Scattering-based structural inversion of soft materials via Kolmogorov–Arnold networks",
+    "authors": "CH Tung, L Ding, MC Chang, GR Huang, L Porcar, Y Wang, JMY Carrillo, ...",
+    "venue": "The Journal of Chemical Physics 162 (7), 2025",
+    "year": "2025",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:8xutWZnSdmoC"
+  },
+  {
+    "title": "Video analytics for detecting motorcyclist helmet rule violations",
+    "authors": "CM Tsai, JW Hsieh, MC Chang, GL He, PY Chen, WT Chang, YK Hsieh",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
+    "year": "2023",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_FM0Bhl9EiAC"
+  },
+  {
+    "title": "Two-stage dual augmentation with clip for improved text-to-sketch synthesis",
+    "authors": "Z Zhang, MC Chang",
+    "venue": "2023 IEEE 6th International Conference on Multimedia Information Processing …, 2023",
+    "year": "2023",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4hFrxpcac9AC"
+  },
+  {
+    "title": "Drone-based vehicle flow estimation and its application to traffic conflict hotspot detection at intersections",
+    "authors": "PY Chen, JW Hsieh, M Gochoo, MC Chang, CY Wang, YS Chen, ...",
+    "venue": "2020 IEEE International Conference on Image Processing (ICIP), 1521-1525, 2020",
+    "year": "2020",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:epqYDVWIO7EC"
+  },
+  {
+    "title": "3d single-person concurrent activity detection using stacked relation network",
+    "authors": "Y Wei, W Li, Y Fan, L Xu, MC Chang, S Lyu",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (07), 12329 …, 2020",
+    "year": "2020",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:-_dYPAW6P2MC"
+  },
+  {
+    "title": "Automated determination of arterial input function for DCE-MRI of the prostate",
+    "authors": "Y Zhu, MC Chang, S Gupta",
+    "venue": "Medical Imaging 2011: Computer-Aided Diagnosis 7963, 266-273, 2011",
+    "year": "2011",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:UebtZRa9Y70C"
+  },
+  {
+    "title": "Measuring 3D shape similarity by matching the medial scaffolds",
+    "authors": "MC Chang, BB Kimia",
+    "venue": "2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV …, 2009",
+    "year": "2009",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "title": "Fisheye multiple object tracking by learning distortions without dewarping",
+    "authors": "PY Chen, JW Hsieh, MC Chang, M Gochoo, FP Lin, YS Chen",
+    "venue": "2023 IEEE International Conference on Image Processing (ICIP), 1855-1859, 2023",
+    "year": "2023",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LO7wyVUgiFcC"
+  },
+  {
+    "title": "Multi-camera tracking by candidate intersection ratio tracklet matching",
+    "authors": "YL Li, ZY Chin, MC Chang, CK Chiang",
+    "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2021",
+    "year": "2021",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Z5m8FVwuT1cC"
+  },
+  {
+    "title": "The 2020 low-power computer vision challenge",
+    "authors": "X Hu, MC Chang, Y Chen, R Sridhar, Z Hu, Y Xue, Z Wu, P Pi, J Shen, ...",
+    "venue": "2021 IEEE 3rd International Conference on Artificial Intelligence Circuits …, 2021",
+    "year": "2021",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:L7CI7m0gUJcC"
+  },
+  {
+    "title": "Usage measurent techniques and systems for interactive advertising",
+    "authors": "PH Tu, ML Grabb, X Liu, T Yu, Y Yao, D Gao, MC Chang",
+    "venue": "US Patent App. 13/308,386, 2013",
+    "year": "2013",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4TOpqqG69KYC"
+  },
+  {
+    "title": "Subvoxel segmentation and representation of brain cortex using fuzzy clustering and gradient vector diffusion",
+    "authors": "MC Chang, X Tao",
+    "venue": "Medical Imaging 2010: Image Processing 7623, 507-517, 2010",
+    "year": "2010",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "title": "In ictu oculi: Exposing AI generated fake face videos by detecting eye blinking. 2018",
+    "authors": "Y Li, MC Chang, S Lyu",
+    "venue": "arXiv preprint arXiv:1806.02877, 1806",
+    "year": "1806",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:1taIhTC69MYC"
+  },
+  {
+    "title": "Who brings the frisbee: Probing hidden hallucination factors in large vision-language model via causality analysis",
+    "authors": "PH Huang, JL Li, CP Chen, MC Chang, WC Chen",
+    "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
+    "year": "2025",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:nZcligLrVowC"
+  },
+  {
+    "title": "Uu-mamba: Uncertainty-aware u-mamba for cardiovascular segmentation",
+    "authors": "TY Tsai, L Lin, S Hu, CW Tsao, X Li, MC Chang, H Zhu, X Wang",
+    "venue": "arXiv e-prints, arXiv: 2409.14305, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:OcBU2YAGkTUC"
+  },
+  {
+    "title": "Pushing the limit of fine-tuning for few-shot learning: where feature reusing meets cross-scale attention",
+    "authors": "YY Chen, JW Hsieh, X Li, MC Chang",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (10), 11434 …, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:dBIO0h50nwkC"
+  },
+  {
+    "title": "Prb-fpn+: Video analytics for enforcing motorcycle helmet laws",
+    "authors": "BS Wang, PY Chen, YK Hsieh, JW Hsieh, MC Chang, JX He, SY Teng, ...",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
+    "year": "2023",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:FAceZFleit8C"
+  },
+  {
+    "title": "Fedtrust: Towards building secure robust and trustworthy moderators for federated learning",
+    "authors": "CF Hsu, JL Huang, FH Liu, MC Chang, WC Chen",
+    "venue": "2022 IEEE 5th international conference on multimedia information processing …, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:q3CdL3IzO_QC"
+  },
+  {
+    "title": "Improving class activation map for weakly supervised object localization",
+    "authors": "Z Zhang, MC Chang, TD Bui",
+    "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+    "year": "2022",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tuHXwOkdijsC"
+  },
+  {
+    "title": "Transrpn: Towards the transferable adversarial perturbations using region proposal networks and beyond",
+    "authors": "Y Li, MC Chang, P Sun, H Qi, J Dong, S Lyu",
+    "venue": "Computer Vision and Image Understanding 213, 103302, 2021",
+    "year": "2021",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:vbGhcppDl1QC"
+  },
+  {
+    "title": "Efficient large-scale photometric reconstruction using Divide-Recon-Fuse 3D Structure from Motion",
+    "authors": "Y Yang, MC Chang, L Wen, P Tu, H Qi, S Lyu",
+    "venue": "2016 13th IEEE International Conference on Advanced Video and Signal Based …, 2016",
+    "year": "2016",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tOudhMTPpwUC"
+  },
+  {
+    "title": "Seeing as it happens: Real time 3D video event visualization",
+    "authors": "Y Yang, MC Chang, P Tu, S Lyu",
+    "venue": "2015 IEEE International Conference on Image Processing (ICIP), 2875-2879, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:b0M2c_1WBrUC"
+  },
+  {
+    "title": "Fast Online Upper Body Pose Estimation from Video.",
+    "authors": "MC Chang, H Qi, X Wang, H Cheng, S Lyu",
+    "venue": "BMVC, 104.1-104.12, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:g5m5HwL7SMYC"
+  },
+  {
+    "title": "Apparatus and method for spatially relating views of sky images acquired at spaced apart locations",
+    "authors": "L Guan, PH Tu, Y Yao, MC Chang",
+    "venue": "US Patent 8,750,566, 2014",
+    "year": "2014",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Wp0gIr-vW9MC"
+  },
+  {
+    "title": "Reliable fusion of knee bone laser scans to establish ground truth for cartilage thickness measurement",
+    "authors": "MC Chang, NH Trinh, BC Fleming, BB Kimia",
+    "venue": "Medical Imaging 2010: Image Processing 7623, 818-825, 2010",
+    "year": "2010",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:MXK_kJrjxJIC"
+  },
+  {
+    "title": "The 10th AI city challenge",
+    "authors": "Z Tang, S Wang, DC Anastasiu, MC Chang, A Sharma, Q Kong, ...",
+    "venue": "arXiv preprint arXiv:2608.17044, 2026",
+    "year": "2026",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:owLR8QvbtFgC"
+  },
+  {
+    "title": "Inferring effective electrostatic interaction of charge-stabilized colloids from scattering using deep learning",
+    "authors": "CH Tung, MZ Chen, HL Chen, GR Huang, L Porcar, MC Chang, ...",
+    "venue": "Applied Crystallography 57 (4), 1047-1058, 2024",
+    "year": "2024",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HtS1dXgVpQUC"
+  },
+  {
+    "title": "An efficient ckks-fhew/tfhe hybrid encrypted inference framework",
+    "authors": "TL Liu, YT Ku, MC Ho, FH Liu, MC Chang, CF Hsu, WC Chen, SH Hung",
+    "venue": "European Symposium on Research in Computer Security, 535-551, 2023",
+    "year": "2023",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:QYdC8u9Cj1oC"
+  },
+  {
+    "title": "FlagDetSeg: Multi-nation flag detection and segmentation in the wild",
+    "authors": "SF Wu, MC Chang, S Lyu, CS Wong, AK Pandey, PC Su",
+    "venue": "2021 17th IEEE International Conference on Advanced Video and Signal Based …, 2021",
+    "year": "2021",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:KUbvn5osdkgC"
+  },
+  {
+    "title": "MOTE-NAS: Multi-objective training-based estimate for efficient neural architecture search",
+    "authors": "YM Zhang, JW Hsieh, X Li, MC Chang, CC Lee, KC Fan",
+    "venue": "Advances in Neural Information Processing Systems 37, 100845-100869, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:F9fV5C73w3QC"
+  },
+  {
+    "title": "Image manipulation detection with implicit neural representation and limited supervision",
+    "authors": "Z Zhang, M Li, X Li, MC Chang, JW Hsieh",
+    "venue": "European Conference on Computer Vision, 255-273, 2024",
+    "year": "2024",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:OR75R8vi5nAC"
+  },
+  {
+    "title": "A comprehensive review of machine learning advances on data change: A cross-field perspective",
+    "authors": "JL Li, CF Hsu, MC Chang, WC Chen",
+    "venue": "arXiv preprint arXiv:2402.12627, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:IRz6iEL74y4C"
+  },
+  {
+    "title": "Pixel offset regression (por) for single-shot instance segmentation",
+    "authors": "Y Li, X Bian, M Chang, L Wen, S Lyu",
+    "venue": "2018 15th IEEE International Conference on Advanced Video and Signal Based …, 2018",
+    "year": "2018",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ye4kPcJQO24C"
+  },
+  {
+    "title": "The Medial Scaffold for 3D Shape Modeling and Recognition",
+    "authors": "MC Chang",
+    "venue": "PhD thesis, 2008",
+    "year": "2008",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:J-pR_7NvFogC"
+  },
+  {
+    "title": "TextSleuth: a new dataset and baseline for scene text manipulation detection",
+    "authors": "AK Pandey, MC Chang, X Li",
+    "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
+    "year": "2024",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:r_AWSJRzSzQC"
+  },
+  {
+    "title": "Mean-shift based differentiable architecture search",
+    "authors": "JW Hsieh, CH Chou, MC Chang, PY Chen, S Santra, CS Huang",
+    "venue": "IEEE Transactions on Artificial Intelligence 5 (3), 1235-1246, 2023",
+    "year": "2023",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:XvxMoLDsR5gC"
+  },
+  {
+    "title": "Region-aware photo assurance system for image authentication",
+    "authors": "KH Li, CF Hsu, MC Chang, FH Liu, SY Chien, WC Chen",
+    "venue": "2023 IEEE 6th International Conference on Multimedia Information Processing …, 2023",
+    "year": "2023",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:a9-T7VOCCH8C"
+  },
+  {
+    "title": "A video analytic system for rail crossing point protection",
+    "authors": "G Zhao, AK Pandey, MC Chang, S Lyu",
+    "venue": "2021 17th IEEE International Conference on Advanced Video and Signal Based …, 2021",
+    "year": "2021",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tYavs44e6CUC"
+  },
+  {
+    "title": "Deep intelligent network for device-free people tracking: WIP abstract",
+    "authors": "Y Zhao, MC Chang, P Tu",
+    "venue": "Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical …, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:W5xh706n7nkC"
+  },
+  {
+    "title": "IC printed mark quality inspection algorithms",
+    "authors": "MC Chang, HY Chen, CS Fuh",
+    "venue": "Proc. Conf. Computer Vision, Graphics, Image Processing, Taichung, Taiwan …, 1997",
+    "year": "1997",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:UeHWp8X0CEIC"
+  },
+  {
+    "title": "Learning multi-manifold embedding for out-of-distribution detection",
+    "authors": "JL Li, MC Chang, WC Chen",
+    "venue": "European Conference on Computer Vision, 417-433, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:OP4eGU-M3BUC"
+  },
+  {
+    "title": "Improving limited supervised foot ulcer segmentation using cross-domain augmentation",
+    "authors": "SJ Kuo, PH Huang, CC Lin, JL Li, MC Chang",
+    "venue": "arXiv preprint arXiv:2401.08422, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:WJVC3Jt7v1AC"
+  },
+  {
+    "title": "Observation of attention mechanism baseline for pcb surface inspection system",
+    "authors": "F Akhyar, L Novamizanti, MA Imaddudin, IH Pratama, SR Firmansyach, ...",
+    "venue": "2022 IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob), 1-6, 2022",
+    "year": "2022",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:rmuvC79q63oC"
+  },
+  {
+    "title": "Simultaneous multi-person tracking and activity recognition based on cohesive cluster search",
+    "authors": "W Li, Y Wei, S Lyu, MC Chang",
+    "venue": "Computer Vision and Image Understanding 214, 103301, 2022",
+    "year": "2022",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:EYYDruWGBe4C"
+  },
+  {
+    "title": "Fast online video pose estimation by dynamic Bayesian modeling of mode transitions",
+    "authors": "MC Chang, L Ke, H Qi, L Wen, S Lyu",
+    "venue": "IEEE Transactions on Cybernetics 51 (1), 2-15, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:2KloaMYe4IUC"
+  },
+  {
+    "title": "IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification",
+    "authors": "TY Tsai, A Yu, MS Maadugundu, IJ Mohima, UH Barsha, MHF Chen, ...",
+    "venue": "2025 IEEE 8th International Conference on Multimedia Information Processing …, 2025",
+    "year": "2025",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Bg7qf7VwUHIC"
+  },
+  {
+    "title": "Unsupervised domain adaptation for cross-style, cross-year land use understanding from historical maps",
+    "authors": "JH Wang, ADY Wang, HM Liao, MC Chang, RTH Tsai",
+    "venue": "International Journal of Geographical Information Science 39 (8), 1750-1769, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:gKiMpY-AVTkC"
+  },
+  {
+    "title": "Improving limited supervised foot ulcer segmentation using cross-domain augmentation strategies",
+    "authors": "SJ Kuo, PH Huang, CC Lin, JL Li, MC Chang",
+    "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "year": "2024",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HIFyuExEbWQC"
+  },
+  {
+    "title": "Using vocoder artifacts for audio deepfakes detection",
+    "authors": "C Sun, E AlBadawy, TF Davison, SR Robinson, MC Chang, S Lyu",
+    "venue": "Adversarial Multimedia Forensics, 263-282, 2023",
+    "year": "2023",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:IUKN3-7HHlwC"
+  },
+  {
+    "title": "Instance contour adjustment via structure-driven CNN",
+    "authors": "S Weng, Y Wei, MC Chang, B Shi",
+    "venue": "European Conference on Computer Vision, 146-161, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:xtoqd-5pKcoC"
+  },
+  {
+    "title": "On multimodal semantic consistency detection of news articles with image caption pairs",
+    "authors": "Y Chen, MC Chang",
+    "venue": "2022 IEEE International Conference on Consumer Electronics-Taiwan, 355-356, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HbR8gkJAVGIC"
+  },
+  {
+    "title": "MS-DARTS: Mean-shift based differentiable architecture search",
+    "authors": "JW Hsieh, MC Chang, PY Chen, S Santra, CH Chou, CS Huang",
+    "venue": "arXiv preprint arXiv:2108.09996, 2021",
+    "year": "2021",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ML0RJ9NH7IQC"
+  },
+  {
+    "title": "Co-regularized PLSA for multi-modal learning",
+    "authors": "X Wang, MC Chang, Y Ying, S Lyu",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 30 (1), 2016",
+    "year": "2016",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:nb7KW1ujOQ8C"
+  },
+  {
+    "title": "Cross-cultural training analysis via social science and computer vision methods",
+    "authors": "P Tu, J Chen, MC Chang, T Yu, TP Tian, G Rubin, J Hockett, ...",
+    "venue": "Procedia Manufacturing 3, 4068-4075, 2015",
+    "year": "2015",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HoB7MX3m0LUC"
+  },
+  {
+    "title": "Flashsinkhorn: Io-aware entropic optimal transport",
+    "authors": "FXF Ye, X Li, A Yu, MC Chang, L Chu, D Wertheimer",
+    "venue": "arXiv e-prints, arXiv: 2602.03067, 2026",
+    "year": "2026",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:lgwcVrK6X84C"
+  },
+  {
+    "title": "Scale-aware crowd counting network with annotation error modeling",
+    "authors": "YK Hsieh, JW Hsieh, X Li, YM Zhang, YC Tseng, MC Chang",
+    "venue": "IEEE Transactions on Image Processing 34, 2750-2764, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:BJbdYPG6LGMC"
+  },
+  {
+    "title": "Integrating manual preprocessing with automated feature extraction for improved rodent seizure classification",
+    "authors": "A Yu, M Singh, A Pandey, E Dybas, A Agarwal, Y Kao, G Zhao, TJ Kao, ...",
+    "venue": "Epilepsy & Behavior 165, 110306, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ZzlSgRqYykMC"
+  },
+  {
+    "title": "Robust defense against adversarial attacks with defensive preprocessing and adversarial training",
+    "authors": "CY Lin, BH Lai, HF Ng, WY Lin, MC Chang",
+    "venue": "2025 IEEE International Conference on Consumer Electronics (ICCE), 1-6, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:nVrZBo8bIpAC"
+  },
+  {
+    "title": "Text-driven synchronized diffusion video and audio talking head generation",
+    "authors": "Z Zhang, TW Huang, GM Su, MC Chang, X Li",
+    "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
+    "year": "2024",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LhH-TYMQEocC"
+  },
+  {
+    "title": "Leveraging Semantic Segmentation for Image Manipulation Detection and Localization",
+    "authors": "Y Chen, MC Chang, X Li",
+    "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
+    "year": "2024",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:KbBQZpvPDL4C"
+  },
+  {
+    "title": "Privacy computing method based on homomorphic encryption",
+    "authors": "Y Te KU, CF Hsu, WC Chen, FH Liu, MC Chang",
+    "venue": "US Patent App. 18/171,319, 2024",
+    "year": "2024",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:DJbcl8HfkQkC"
+  },
+  {
+    "title": "Graph-to-graph energy minimization for video object segmentation",
+    "authors": "Y Li, L Wen, MC Chang, S Lyu",
+    "venue": "2019 16th IEEE International Conference on Advanced Video and Signal Based …, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:35r97b3x0nAC"
+  },
+  {
+    "title": "Accelerating neutron scattering data collection and experiments using AI deep super-resolution learning",
+    "authors": "MC Chang, Y Wei, WR Chen, C Do",
+    "venue": "arXiv preprint arXiv:1904.08450, 2019",
+    "year": "2019",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:uJ-U7cs_P_0C"
+  },
+  {
+    "title": "Shot segmentation and grouping for ptz camera videos",
+    "authors": "A Pulver, MC Chang, S Lyu",
+    "venue": "10th Annual Symposium on Information Assurance (ASIA’15), 34, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:RYcK_YlVTxYC"
+  },
+  {
+    "title": "Inference and conversion method for encrypted deep neural network model",
+    "authors": "KU Yu-Te, CF Hsu, WC Chen, FH Liu, MC Chang, SH Hung",
+    "venue": "US Patent 12,634,116, 2026",
+    "year": "2026",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:u-coK7KVo8oC"
+  },
+  {
+    "title": "Rlministyler: Light-weight rl style agent for arbitrary sequential neural style generation",
+    "authors": "J Hu, C Feng, S Hu, MC Chang, X Li, X Wu, X Wang",
+    "venue": "arXiv preprint arXiv:2505.04424, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Ak0FvsSvgGUC"
+  },
+  {
+    "title": "Optimizing Encrypted Neural Networks: Model Design, Quantization and Fine-Tuning Using FHEW/TFHE",
+    "authors": "YT Ku, FH Liu, CF Hsu, MC Chang, SH Hung, IP Tu, WC Chen",
+    "venue": "Proceedings on Privacy Enhancing Technologies, 2025",
+    "year": "2025",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:6yz0xqPARnAC"
+  },
+  {
+    "title": "Efficient design of FHEW/TFHE bootstrapping implementation with scalable parameters",
+    "authors": "MC Ho, YT Ku, Y Xiao, FH Liu, CF Hsu, MC Chang, SH Hung, WC Chen",
+    "venue": "Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided …, 2024",
+    "year": "2024",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tH6gc1N1XXoC"
+  },
+  {
+    "title": "Addressing long-tail noisy label learning problems: a two-stage solution with label refurbishment considering label rarity",
+    "authors": "YH Wu, JW Hsieh, L Xin, SY Teng, YK Hsieh, MC Chang",
+    "venue": "arXiv preprint arXiv:2403.02363, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:mlAyqtXpCwEC"
+  },
+  {
+    "title": "Explainable and efficient sequential correlation network for 3d single person concurrent activity detection",
+    "authors": "Y Wei, W Li, MC Chang, H Jin, S Lyu",
+    "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",
+    "year": "2020",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:URolC5Kub84C"
+  },
+  {
+    "title": "Driver license field detection using real-time deep networks",
+    "authors": "CM Tsai, JW Hsieh, MC Chang, YC Lin",
+    "venue": "International Conference on Industrial, Engineering and Other Applications …, 2020",
+    "year": "2020",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:uc_IGeMz5qoC"
+  },
+  {
+    "title": "Hybrid structure hypergraph for online deformable object tracking",
+    "authors": "S Li, D Du, L Wen, MC Chang, S Lyu",
+    "venue": "2017 IEEE International Conference on Image Processing (ICIP), 1127-1131, 2017",
+    "year": "2017",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kRWSkSYxWN8C"
+  },
+  {
+    "title": "Fast search algorithms for IC printed mark quality inspection",
+    "authors": "MC Chang, CS Fuh",
+    "venue": "National Taiwan University Taipei, Taiwan, 1998",
+    "year": "1998",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:eQOLeE2rZwMC"
+  },
+  {
+    "title": "4th Workshop on Maritime Computer Vision (MaCVi): Challenge Overview",
+    "authors": "B Kiefer, JL Augustin, J Muhovič, M Jeong, A Wiliem, J Pers, M Kristan, ...",
+    "venue": "arXiv preprint arXiv:2604.13244, 2026",
+    "year": "2026",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:cK4Rrx0J3m0C"
+  },
+  {
+    "title": "ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs",
+    "authors": "A Yu, TY Tsai, Z Zhang, W Lu, FXF Ye, MC Chang",
+    "venue": "arXiv preprint arXiv:2603.24680, 2026",
+    "year": "2026",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:j7_hQOaDUrUC"
+  },
+  {
+    "title": "Partial Ring Scan: Revisiting Scan Order in Vision State Space Models",
+    "authors": "YK Hsieh, KC Peng, MC Chang, YC Tseng, JW Hsieh",
+    "venue": "arXiv preprint arXiv:2602.04170, 2026",
+    "year": "2026",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ALROH1vI_8AC"
+  },
+  {
+    "title": "Continual learning with synthetic boundary experience blending",
+    "authors": "CF Hsu, MC Chang, WC Chen",
+    "venue": "arXiv e-prints, arXiv: 2507.23534, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:0CzhzZyukY4C"
+  },
+  {
+    "title": "A comprehensive evaluation of encrypted DNN inference methods",
+    "authors": "YT Ku, MC Ho, Y Xiao, FH Liu, CF Hsu, MC Chang, SH Hung, WC Chen",
+    "venue": "2025 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:sJsF-0ZLhtgC"
+  },
+  {
+    "title": "Method for machine learning model verification and transaction",
+    "authors": "Y Te KU, Y Xiao, HO Ming-Chien, CF Hsu, WC Chen, FH Liu, MC Chang, ...",
+    "venue": "US Patent App. 18/420,744, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:F1b5ZUV5XREC"
+  },
+  {
+    "title": "Operating system and method of a fully homomorphic encryption neural network model",
+    "authors": "TL Liu, KU Yu-Te, HO Ming-Chien, CF Hsu, WC Chen, FH Liu, MC Chang, ...",
+    "venue": "US Patent App. 18/545,775, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:lvd772isFD0C"
+  },
+  {
+    "title": "NAS-based Recursive Stage Partial Network (RSPNet) for Light-Weight Semantic Segmentation",
+    "authors": "YC Wang, JW Hsieh, YK Hsieh, CW Chang",
+    "venue": "2024 International Computer Symposium (ICS), 213-218, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:hCrLmN-GePgC"
+  },
+  {
+    "title": "Scale-Aware Crowd Count Network with Annotation Error Correction",
+    "authors": "YK Hsieh, JW Hsieh, YC Tseng, MC Chang, L Xin",
+    "venue": "arXiv preprint arXiv:2312.16771, 2023",
+    "year": "2023",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_5tno0g5mFcC"
+  },
+  {
+    "title": "Fedrated learning system and method using data digest",
+    "authors": "CF Hsu, WC Chen, MC Chang",
+    "venue": "US Patent App. 18/084,810, 2023",
+    "year": "2023",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:6ZxmRoH8BuwC"
+  },
+  {
+    "title": "Mitigating Data Absence in Federated Learning Using Privacy-Controllable Data Digests",
+    "authors": "CF Hsu, MC Chang, WC Chen",
+    "venue": "arXiv preprint arXiv:2210.00737, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_OXeSy2IsFwC"
+  },
+  {
+    "title": "Towards multimodal semantic consistency analysis of long form articles",
+    "authors": "Y Chen, MC Chang",
+    "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:edDO8Oi4QzsC"
+  },
+  {
+    "title": "A robust collaborative learning framework using data digests and synonyms to represent absent clients",
+    "authors": "CF Hsu, MC Chang, WC Chen",
+    "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:XoXfffV-tXoC"
+  },
+  {
+    "title": "Exposing AI-Synthesized Human Voices Using Neural Vocoder Artifacts",
+    "authors": "E AlBadawy, C Sun, TF Davison, SR Robinson, MC Chang, S Lyu",
+    "venue": "Proceedings of the IEEE International Workshop on Information Forensics and …, 2022",
+    "year": "2022",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:fFSKOagxvKUC"
+  },
+  {
+    "title": "WIP abstract: Deep intelligent network for device-free people tracking",
+    "authors": "Y Zhao, MC Chang, P Tu",
+    "venue": "ICCPS 2019-Proc. 2019 ACM/IEEE Int. Conf. Cyber-Physical Syst., 302-303, 2019",
+    "year": "2019",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:7wO8s98CvbsC"
+  },
+  {
+    "title": "A live video analytic system for affect analysis in public space",
+    "authors": "J Chen, MC Chang, P Tu",
+    "venue": "2015 11th IEEE International Conference and Workshops on Automatic Face and …, 2015",
+    "year": "2015",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:70eg2SAEIzsC"
+  },
+  {
+    "title": "Analytics-to-content interface for interactive advertising",
+    "authors": "PH Tu, ML Grabb, X Liu, T Yu, Y Yao, D Gao, MC Chang",
+    "venue": "US Patent App. 13/308,376, 2013",
+    "year": "2013",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_kc_bZDykSQC"
+  },
+  {
+    "title": "Improved T1 mapping and DCE-MRI quantification for prostate at 3T by Incorporating B1 inhomogeneity correction",
+    "authors": "MC Chang, SN Gupta, LI Sacolick, C Tempany-Afdhal, F Fennessy, ...",
+    "venue": "ISMRM, Salt Lake city, USA 2199, 2013",
+    "year": "2013",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:FPJr55Dyh1AC"
+  },
+  {
+    "title": "A general approach to model biomedical data from 3D unorganised point clouds with medial scaffolds",
+    "authors": "FF Leymarie, CZ Imielinska, MC Chang, BB Kimia",
+    "venue": "",
+    "year": "2010",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+    "title": "SILVA-Mamba: Spatial Integrity for Landslide Segmentation via Vectorized Hilbert Scanning and Adaptive Mamba",
+    "authors": "YT Hsieh, JW Hsieh, CC Hsu, X Li, MC Chang",
+    "venue": "2026 IEEE International Conference on Image Processing (ICIP), 1-6, 2026",
+    "year": "2026",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:PYBJJbyH-FwC"
+  },
+  {
+    "title": "Method and system for reducing hallucinations generated by a large vision-language model",
+    "authors": "JL Li, PH Huang, CP Chen, MC Chang, WC Chen",
+    "venue": "US Patent App. 19/240,587, 2026",
+    "year": "2026",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:jU7OWUQzBzMC"
+  },
+  {
+    "title": "Weight Group-wise Post-Training Quantization for Medical Foundation Model",
+    "authors": "Y Chen, P Huang, A Zhang, H Guo, P Yin, S Hu, S Lin, X Li, TJ Kao, ...",
+    "venue": "arXiv preprint arXiv:2604.07674, 2026",
+    "year": "2026",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:U4n9YNQMCAIC"
+  },
+  {
+    "title": "Training method for continual learning model and non-transitory computer-readable medium",
+    "authors": "CF Hsu, WC Chen, MC Chang",
+    "venue": "US Patent App. 19/240,385, 2026",
+    "year": "2026",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kVjdVfd2voEC"
+  },
+  {
+    "title": "Accelerated bootstrapping fully homomorphic encryption calculator, computing system, and operating method thereof",
+    "authors": "Y HSIAO, KU Yu-Te, HO Ming-Chien, CF Hsu, MC Chang, WC Chen, ...",
+    "venue": "US Patent App. 18/984,694, 2026",
+    "year": "2026",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:v1_lew4L6wgC"
+  },
+  {
+    "title": "Optimization-Diverse Transformer Adaptation with Gated Heterogeneous Fusion for Robust Thermal Object Detection",
+    "authors": "CM Tsai, JW Hsieh, MC Chang",
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026",
+    "year": "2026",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:MpfHP-DdYjUC"
+  },
+  {
+    "title": "System for verifying edited image",
+    "authors": "KH Li, CF Hsu, WC Chen, MC Chang, FH Liu",
+    "venue": "US Patent 12,430,472, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:yFnVuubrUp4C"
+  },
+  {
+    "title": "Federated learning system using synonym",
+    "authors": "CF Hsu, WC Chen, MC Chang",
+    "venue": "US Patent 12,423,618, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:NXb4pA-qfm4C"
+  },
+  {
+    "title": "Method of training a model using data essence",
+    "authors": "CF Hsu, WC Chen, MC Chang",
+    "venue": "US Patent App. 18/665,405, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4xDN1ZYqzskC"
+  },
+  {
+    "title": "Device for executing machine learning model inference",
+    "authors": "LAN Siang-Yu, CC Lin, KUO Shang-Jui, MC Chang, WC Chen",
+    "venue": "US Patent App. 18/818,563, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:uDGL6kOW6j0C"
+  },
+  {
+    "title": "Robust out-of-distribution detection system and method",
+    "authors": "JL Li, WC Chen, MC Chang",
+    "venue": "US Patent App. 18/665,267, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:PVgj2kMGcgYC"
+  },
+  {
+    "title": "Sharpness-Aware Geometric Defense for Robust Out-Of-Distribution Detection",
+    "authors": "JL Li, MC Chang, WC Chen",
+    "venue": "arXiv preprint arXiv:2508.17174, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:P7Ujq4OLJYoC"
+  },
+  {
+    "title": "Latent Orthogonal Perturbation: A Data Poisoning Approach to Prevent Unauthorized LoRA Fine-Tuning",
+    "authors": "HB Tan, CY Fu, MC Chang, WC Chen",
+    "venue": "2025 IEEE International Conference on Advanced Visual and Signal-Based …, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:QD3KBmkZPeQC"
+  },
+  {
+    "title": "Enhancing LLM Question Answering with RAG through Dense Vector Search and Re-Ranking",
+    "authors": "TL Yang, JS Liu, YH Tseng, JS Jang, MC Chang, WC Chen",
+    "venue": "2025 IEEE International Conference on Advanced Visual and Signal-Based …, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:jL-93Qbq4QoC"
+  },
+  {
+    "title": "Continual Learning with Support Boundary Experience Blending",
+    "authors": "CF Hsu, MC Chang, WC Chen",
+    "venue": "arXiv preprint arXiv:2507.23534, 2025",
+    "year": "2025",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:7H_MAutzIkAC"
+  },
+  {
+    "title": "BF-YOLOv7: Enhancing Helmet Rule Violation Detection",
+    "authors": "CM Tsai, JW Hsieh, MC Chang",
+    "venue": "International Conference on Industrial, Engineering and Other Applications …, 2025",
+    "year": "2025",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4X0JR2_MtJMC"
+  },
+  {
+    "title": "Method for verifying model update",
+    "authors": "CF Hsu, WC Chen, JL Huang, MC Chang, FH Liu",
+    "venue": "US Patent 12,316,737, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:9c2xU6iGI7YC"
+  },
+  {
+    "title": "Segmentation model training method, device, and non-transitory computer readable storage medium",
+    "authors": "KUO Shang-Jui, PH Huang, CC Lin, JL Li, MC Chang, WC Chen",
+    "venue": "US Patent App. 18/418,329, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:AHdEip9mkN0C"
+  },
+  {
+    "title": "Multi-manifold embedding learning method and system",
+    "authors": "JL Li, WC Chen, MC Chang",
+    "venue": "US Patent App. 18/415,620, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LgRImbQfgY4C"
+  },
+  {
+    "title": "Generative Kolmogorov-Arnold Network Architecture for Enhanced Quantative Small Angle Neutron Scattering Data Analysis",
+    "authors": "CH Tung, WR Chen, C Do, L Ding, JMY Carrillo, BG Sumpter, MC Chang",
+    "venue": "APS Global Physics Summit 2025, 2025",
+    "year": "2025",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:buQ7SEKw-1sC"
+  },
+  {
+    "title": "Machine learning training device, method, and non-transitory computer readable storage medium",
+    "authors": "PH Huang, CC Lin, CF Hsu, MC Chang, WC Chen",
+    "venue": "US Patent App. 18/418,335, 2025",
+    "year": "2025",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:5MTHONV0fEkC"
+  },
+  {
+    "title": "Set-Nas: Sample-Efficient Training For Neural Architecture Search With Strong Predictor And Stratified Sampling",
+    "authors": "YM Zhang, JW Hsieh, YH Chang, X Li, MC Chang, CC Lee, KC Fan",
+    "venue": "2024 IEEE International Conference on Image Processing (ICIP), 680-686, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:3htObqc8RwsC"
+  },
+  {
+    "title": "Learning With Instance-Dependent Noisy Labels By Anchor Hallucination And Hard Sample Label Correction",
+    "authors": "PH Huang, CC Lin, CF Hsu, MC Chang, WC Chen",
+    "venue": "2024 IEEE International Conference on Image Processing (ICIP), 901-907, 2024",
+    "year": "2024",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:bKqednn6t2AC"
+  },
+  {
+    "title": "An Uncertainty-Aware Generalization Framework for Cardiovascular Image Segmentation",
+    "authors": "TY Tsai, L Gui, Y Chen, L Lin, S Hu, CW Tsao, X Li, S Lin, MC Chang, ...",
+    "venue": "arXiv preprint arXiv:2409.14305, 2024",
+    "year": "2024",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:jgBuDB5drN8C"
+  },
+  {
+    "title": "Federated learning system and method of protecting data digest",
+    "authors": "CF Hsu, WC Chen, MC Chang",
+    "venue": "US Patent App. 18/205,522, 2024",
+    "year": "2024",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ODE9OILHJdcC"
+  },
+  {
+    "title": "Dual-Phase Msqnet for Species-Specific Animal Activity Recognition",
+    "authors": "A Yu, J Varghese, F Demirkiran, P Buonaiuto, X Li, MC Chang",
+    "venue": "2024 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 1-6, 2024",
+    "year": "2024",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Aul-kAQHnToC"
+  },
+  {
+    "title": "Federated learning method using synonym",
+    "authors": "CF Hsu, WC Chen, MC Chang",
+    "venue": "US Patent App. 17/699,263, 2023",
+    "year": "2023",
+    "category": "Patents & Technology Transfer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HtEfBTGE9r8C"
+  },
+  {
+    "title": "Transformer Based Image-Text Consistency Analysis for Infographic Articles",
+    "authors": "Y Chen, MC Chang",
+    "venue": "2023 IEEE 6th International Conference on Multimedia Information Processing …, 2023",
+    "year": "2023",
+    "category": "Generative AI & Multimodal Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:0izLItjtcgwC"
+  },
+  {
+    "title": "Scale-Aware Crowd Counting Using a Joint Likelihood Density Map and Synthetic Fusion Pyramid Network",
+    "authors": "YK Hsieh, JW Hsieh, YC Tseng, MC Chang, BS Wang",
+    "venue": "arXiv preprint arXiv:2211.06835, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_axFR9aDTf0C"
+  },
+  {
+    "title": "Class-Specific Channel Attention for Few-Shot Learning",
+    "authors": "YY Chen, JW Hsieh, MC Chang",
+    "venue": "arXiv preprint arXiv:2209.01332, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:foquWX3nUaYC"
+  },
+  {
+    "title": "A machine learning inversion scheme for determining effective interaction of charged colloidal suspensions using scattering",
+    "authors": "CH Tung, MC Chang, SY Chang, JM Carrillo, Y Wang, B Sumpter, ...",
+    "venue": "APS March Meeting Abstracts 2022, T31. 010, 2022",
+    "year": "2022",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:TIZ-Mc8IlK0C"
+  },
+  {
+    "title": "Welcome Message from MIPR 2022 Organization Committee",
+    "authors": "CCJ Kuo, K Nahrstedt, Y Rui, GM Su, MC Chang, A El Saddik, Y Tong, ...",
+    "venue": "Proceedings-5th International Conference on Multimedia Information …, 2022",
+    "year": "2022",
+    "category": "Trustworthy AI & Media Forensics",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:PVjk1bu6vJQC"
+  },
+  {
+    "title": "FedDig: Robust Federated Learning Using Data Digest to Represent Absent Clients.",
+    "authors": "CF Hsu, MC Chang, WC Chen",
+    "venue": "CoRR, 2022",
+    "year": "2022",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ClCfbGk0d_YC"
+  },
+  {
+    "title": "MULTI-PASS YOLOV3 FOR SCOOTER LICENSE PLATE DETECTION AND RECOGNITION (Best paper candidate)",
+    "authors": "MC Chang, JW Hsieh, CM Tsai, ZY Lin",
+    "venue": "The 33rd IPPR Conference On Computer Vision, Graphics, And Image Processing …, 2020",
+    "year": "2020",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:e_rmSamDkqQC"
+  },
+  {
+    "title": "Crowd analytics via one shot learning and agent based inference",
+    "authors": "P Tu, MC Chang, T Gao",
+    "venue": "2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2016",
+    "year": "2016",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:sSrBHYA8nusC"
+  },
+  {
+    "title": "AVSS 2016 Message from the chairs",
+    "authors": "T Boult, R Nevatia, S Velipasalar, V Ramesh, C Sanderson, MC Chang",
+    "venue": "2016 13th IEEE International Conference on Advanced Video and Signal Based …, 2016",
+    "year": "2016",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:9Nmd_mFXekcC"
+  },
+  {
+    "title": "Variations in DCE-MRI Assessment of Breast Cancer Therapy Response: A Multicenter Data Analysis Challenge",
+    "authors": "W Huang, X Li, X Li, MC Chang, MJ Oborski, DI Malyarenko, M Muzi, ...",
+    "venue": "Proc. Intl. Soc. Mag. Reson. Med 22, 0921, 2014",
+    "year": "2014",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:M7yex6snE4oC"
+  },
+  {
+    "title": "The medial scaffold for three-dimensional shape modeling and recognition",
+    "authors": "MC Chang",
+    "venue": "Brown University, 2009",
+    "year": "2009",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+    "title": "Shape Registration using Regularized Medial Scaffolds",
+    "authors": "FF Leymarie, M Chang, BB Kimia",
+    "venue": "",
+    "year": "2004",
+    "category": "3D Vision & Geometry",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:nrtMV_XWKgEC"
+  },
+  {
+    "title": "Cross-scale Patch-Attention with Prototype-guided Siamese Network for Effective Anomaly Detection",
+    "authors": "JW Hsieh, TL Wang, YK Hsieh, MC Chang",
+    "venue": "Available at SSRN 7139006, 0",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:wKETBy42zhYC"
+  },
+  {
+    "title": "2025 IEEE 8th International Conference on Multimedia Information Processing and Retrieval (MIPR)| 979-8-3315-9465-7/25/$31.00© 2025 IEEE| DOI: 10.1109/MIPR67560. 2025.00099",
+    "authors": "V Adzic, U Ahmad, M Ahtesham, S Allagi, J Alsakran, K Araki, OE Ashtiani, ...",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:MhiOAD_qIWkC"
+  },
+  {
+    "title": "Andre Kaup, Friedrich-Alexander University Erlangen-Nürnberg Changick Kim, Korea Advanced Institute of Science and Technology Serkan Kiranyaz, Qatar University",
+    "authors": "A Achim, G Akar, S Asif, I Bajic, E Bas, AF Battisti, Y Berthoumieu, ...",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kw52XkFRtyQC"
+  },
+  {
+    "title": "CARTS: Cooperative Reinforcement Learning for Traffic Signal Control and Carbon Emission Reduction",
+    "authors": "CR Tang, JW Hsieh, YK Hsieh, X Li, MC Chang",
+    "venue": "",
+    "year": "",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LdasjJ6CEcoC"
+  },
+  {
+    "title": "2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)| 979-8-3503-5142-2/24/$31.00© 2024 IEEE| DOI: 10.1109/MIPR62202. 2024.00119",
+    "authors": "SMR Abidi, V Abronin, M Abu-Shaira, JP Acilo, R Aguiar, M Agus, ...",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:a3BOlSfXSfwC"
+  },
+  {
+    "title": "Diffusion Model for Text to Synchronized Joint Talking Head Video and Audio Generation",
+    "authors": "Z Zhang, TW Huang, GM Su, MC Chang, X Li",
+    "venue": "",
+    "year": "",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HeT0ZceujKMC"
+  },
+  {
+    "title": "Inferring Structure Factors of Charge Stabilized Colloids from Scattering Using Deep Learning",
+    "authors": "CH Tung, HL Chen, MC Chang, JM Carrillo, BG Sumpter, C Do, WR Chen",
+    "venue": "",
+    "year": "",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:yMeIxYmEMEAC"
+  },
+  {
+    "title": "Deeppvmap: Deep Photovoltaic Map for Efficient Segmentation of Solar Panels from Low-Resolution Aerial Imagery",
+    "authors": "YH Wang, Y Cartus Bo-Xiang, HM Liao, MC Chang, R Tsai",
+    "venue": "Hsiung-Ming and Chang, Ming-Ching and Tsai, Richard, Tzong-Han, Deeppvmap …, 0",
+    "year": "",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4vMrXwiscB8C"
+  },
+  {
+    "title": "2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)| 979-8-3503-0781-8/23/$31.00© 2023 IEEE| DOI: 10.1109/MIPR59079. 2023.00007",
+    "authors": "N Akbari, AA Almuzaini, A Ansari, S Arora, PK Atrey, NG Bach, ...",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:anf4URPfarAC"
+  },
+  {
+    "title": "Counting Very Small Vehicles and Crowds in Uav Images Using Mdamdl Framework",
+    "authors": "CM Tsai, JW Hsieh, MC Chang, PY Chen, GL He",
+    "venue": "Available at SSRN 4455947, 0",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:9pM33mqn1YgC"
+  },
+  {
+    "title": "Supplementary Material: Instance Contour Adjustment via Structure-driven CNN",
+    "authors": "S Weng, Y Wei, MC Chang, B Shi",
+    "venue": "",
+    "year": "",
+    "category": "Industrial AI & Scientific Computing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:5qfkUJPXOUwC"
+  },
+  {
+    "title": "MIPR 2022",
+    "authors": "CF Hsu, MC Chang, C Henry, B Kathariya, MS Asif, SV Sheshappanavar, ...",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ruyezt5ZtCIC"
+  },
+  {
+    "title": "PseudoProp: Robust Pseudo-Label Generation for Semi-Supervised Object Detection in Autonomous Driving Systems–Appendix",
+    "authors": "S Hu, CH Liu, J Dutta, MC Chang, S Lyu, N Ramakrishnan",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:SpbeaW3--B0C"
+  },
+  {
+    "title": "Automatic Arterial Input Function Detection for Prostate Dynamic Contrast Enhanced MRI",
+    "authors": "Y Zhu, MC Chang, FM Fennessy, SN Gupta",
+    "venue": "",
+    "year": "",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:oNZyr7d5Mn4C"
+  },
+  {
+    "title": "UAlbany3D",
+    "authors": "A Danko, Y Yang, MC Chang, S Lyu",
+    "venue": "",
+    "year": "",
+    "category": "Computer Vision & Machine Learning",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:BUYA1_V_uYcC"
+  },
+  {
+    "title": "Deep Intelligent Network for Device-free People Tracking",
+    "authors": "Y Zhao, MC Chang, P Tu",
+    "venue": "",
+    "year": "",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:evX43VCCuoAC"
+  },
+  {
+    "title": "Multi-Scale Structure Learning for Human Pose Estimation",
+    "authors": "L Ke, MC Chang, H Qi, S Lyu",
+    "venue": "",
+    "year": "",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tzM49s52ZIMC"
+  },
+  {
+    "title": "Spatial Information based DCE-MRI Data Reconstruction and analysis using PCA",
+    "authors": "DD Shanbhag, SE Joel, MC Chang, KT Rajamani, SN Gupta, R Mullick",
+    "venue": "",
+    "year": "",
+    "category": "Medical AI & Healthcare",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:V3AGJWp-ZtQC"
+  },
+  {
+    "title": "TRAFFIC ANALYSIS USING VISUAL OBJECT DETECTION AND TRACKING",
+    "authors": "Y Wei, N Song, L Ke, MC Chang, S Lyu",
+    "venue": "",
+    "year": "",
+    "category": "Video Analytics, Tracking & Transportation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:mvPsJ3kp5DgC"
+  }
+]

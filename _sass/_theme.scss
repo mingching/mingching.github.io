@@ -370,6 +370,14 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   margin-bottom: 1.6em;
 }
 
+.scholar-pub-list {
+  margin: 0 0 2rem;
+  padding: 0 0 0 1.4rem;
+}
+.scholar-pub-list li { margin: 0 0 0.85rem; padding-left: 0.15rem; }
+.scholar-pub-list a { font-weight: 700; color: var(--accent); }
+.scholar-pub-meta { display: block; margin-top: 0.15rem; color: var(--ink-2); font-size: 0.92rem; }
+
 .pub-card {
   position: relative;
   display: grid;

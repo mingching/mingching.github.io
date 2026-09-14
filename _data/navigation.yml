@@ -4,4 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#publications"
+
+  - title: "Complete Record"
+    url: "/#complete-publication-record"
