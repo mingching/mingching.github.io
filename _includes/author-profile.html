@@ -106,14 +106,6 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
-      {% if author.googlescholar %}
-        <li class="google-scholar-badge">
-          <a href="{{ author.googlescholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i>
-            <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VanLinLin/vanlinlin.github.io/main/google_scholar_crawler/results/gs_data_shieldsio.json" alt="Google Scholar Citations">
-          </a>
-        </li>
-      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
