@@ -40,7 +40,6 @@
 - title: "Causal Volterra Dynamics of Mamba"
   badge: "HiLD Workshop at ICML 2026"
   category: "Learning Systems & Industrial AI"
-  media: images/papers/9_Causal_Volterra_Dynamics_of_.jpg
   authors: "**Ming-Ching Chang**, Ting Yu Tsai, Davis Wertheimer, and Felix X.-F. Ye"
   keywords: [State space models, Mamba, Learning dynamics]
   links:
@@ -58,7 +57,6 @@
 - title: "TRACE-TAR: Reusable Video Evidence and Shared Event Memory for Transportation Anomaly Reasoning"
   badge: "ECCV Workshop 2026"
   category: "Multimodal Video Understanding"
-  media: images/papers/TRACE_TAR_Challange3.jpg
   authors: "Abhineet Kumar Pandey, **Ming-Ching Chang**, and Jun-Wei Hsieh"
   keywords: [Transportation anomaly reasoning, Video understanding]
   links:
@@ -139,7 +137,6 @@
 - title: "A Latent-Guided Hybrid Architecture for Liver Segmentation in Contrast-Enhanced MRI"
   badge: "GC-CARE 2025"
   category: "Medical AI & Healthcare Analytics"
-  media: images/papers/32-A-Latent-Guided-Hybrid-Architecture-for-Liver-Segmentation-in-Contrast-Enhanced-MRI.jpg
   authors: "Ting Yu Tsai, An Yu, Wenqi Li, and **Ming-Ching Chang**"
   keywords: [Liver segmentation, MRI, Latent representations]
   links:

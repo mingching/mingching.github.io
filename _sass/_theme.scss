@@ -370,6 +370,51 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   margin-bottom: 1.6em;
 }
 
+/* Collapsible research topics keep the complete publication record navigable. */
+.pub-topic {
+  margin: 0 0 1rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--card-shadow);
+  overflow: hidden;
+}
+.pub-topic__toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.95rem 1.1rem;
+  cursor: pointer;
+  list-style: none;
+  font-weight: 700;
+  color: var(--ink);
+}
+.pub-topic__toggle::-webkit-details-marker { display: none; }
+.pub-topic__toggle::after {
+  content: "+";
+  order: 3;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--accent);
+}
+.pub-topic[open] .pub-topic__toggle { border-bottom: 1px solid var(--border); }
+.pub-topic[open] .pub-topic__toggle::after { content: "-"; }
+.pub-topic__count {
+  margin-left: auto;
+  color: var(--ink-3);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.pub-topic__scroll {
+  max-height: 31rem;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 1rem 1.15rem 0;
+}
+.pub-topic__scroll--cards { max-height: 42rem; }
+.pub-topic__scroll .pub-list { margin-bottom: 1rem; }
+
 .scholar-pub-list {
   margin: 0 0 2rem;
   padding: 0 0 0 1.4rem;
@@ -440,8 +485,16 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   border: 1px dashed var(--border);
   background: var(--surface-2, var(--surface));
   color: var(--ink-3);
+  flex-direction: column;
+  gap: 0.45rem;
   font-size: 1.8rem;
-  opacity: 0.55;
+  opacity: 0.72;
+}
+.pub-card__media-empty span {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 .pub-card__badge {
   position: absolute;

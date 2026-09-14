@@ -31,6 +31,8 @@ I lead research spanning intelligent video understanding, visual perception, and
     <span class="tag-chip">Artificial Intelligence</span>
   </div>
 
+  {% include stats-row.html %}
+
   <div style="margin-top: 0.8em;">
     <a class="btn-pill btn-pill--paper" href="{{ '/CV_Ming-Ching_Chang.pdf' | relative_url }}" download><i class="fas fa-file-download" aria-hidden="true"></i> Curriculum Vitae</a>
   </div>

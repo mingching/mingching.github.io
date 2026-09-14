@@ -4,6 +4,13 @@
 {% endcomment %}
 {% assign groups = site.data.publications | group_by: "category" %}
 {% for group in groups %}
-  <h2 class="pub-group-title">{{ group.name }}</h2>
-  {% include pub-cards.html data=group.items %}
+  <details class="pub-topic">
+    <summary class="pub-topic__toggle">
+      <span>{{ group.name }}</span>
+      <span class="pub-topic__count">{{ group.items | size }} selected papers</span>
+    </summary>
+    <div class="pub-topic__scroll pub-topic__scroll--cards">
+      {% include pub-cards.html data=group.items %}
+    </div>
+  </details>
 {% endfor %}

@@ -1,12 +1,19 @@
 {% assign groups = site.data.scholar_publications | group_by: "category" %}
 {% for group in groups %}
-  <h2 class="pub-group-title">{{ group.name }}</h2>
-  <ol class="scholar-pub-list">
-  {% for item in group.items %}
-    <li>
-      <a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>
-      <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.year %} ({{ item.year }}){% endif %}.</span>
-    </li>
-  {% endfor %}
-  </ol>
+  <details class="pub-topic">
+    <summary class="pub-topic__toggle">
+      <span>{{ group.name }}</span>
+      <span class="pub-topic__count">{{ group.items | size }} publications</span>
+    </summary>
+    <div class="pub-topic__scroll">
+      <ol class="scholar-pub-list">
+      {% for item in group.items %}
+        <li>
+          <a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.year %} ({{ item.year }}){% endif %}.</span>
+        </li>
+      {% endfor %}
+      </ol>
+    </div>
+  </details>
 {% endfor %}

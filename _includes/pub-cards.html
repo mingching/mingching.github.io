@@ -11,7 +11,10 @@
       {% elsif item.media %}
       <img src="{{ item.media }}" alt="{{ item.title | strip_html | escape }}" loading="lazy">
       {% else %}
-      <span class="pub-card__media-empty" aria-hidden="true"><i class="fas fa-file-alt"></i></span>
+      <span class="pub-card__media-empty" aria-hidden="true">
+        <i class="fas fa-file-alt"></i>
+        <span>Research paper</span>
+      </span>
       {% endif %}
       {% if item.badge %}<span class="pub-card__badge">{{ item.badge }}</span>{% endif %}
     </div>
