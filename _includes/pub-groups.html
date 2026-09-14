@@ -1,0 +1,9 @@
+{% comment %}
+  Renders publication cards organized by the `category` field in
+  _data/publications.yml. The source order of categories is preserved.
+{% endcomment %}
+{% assign groups = site.data.publications | group_by: "category" %}
+{% for group in groups %}
+  <h2 class="pub-group-title">{{ group.name }}</h2>
+  {% include pub-cards.html data=group.items %}
+{% endfor %}
