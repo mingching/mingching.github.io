@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Yu-Fan Lin"
-description: "CV/DL Researcher"
-repository: "VanLinLin/vanlinlin.github.io"
+title: "Ming-Ching Chang, Ph.D."
+description: "Associate Professor of Computer Science"
+repository: "mingching/mingching.github.io"
 google_scholar_stats_use_cdn: False
 
 # google analytics
@@ -21,31 +21,31 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name: "Yu-Fan Lin"
-  avatar: "images/van.jpg"
-  bio: "University at Albany, SUNY"
+  name: "Ming-Ching Chang, Ph.D."
+  avatar: "images/MCC_2020.jpg"
+  bio: "Associate Professor, University at Albany, SUNY"
   location: "Albany, NY, USA"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com.tw/citations?user=ook-p6wAAAAJ&hl=en"
-  email: "yufanlin1105@gmail.com"
-  researchgate: https://www.researchgate.net/profile/Yu-Fan-Lin-5
-  uri:
+  googlescholar:
+  email: "mchang2@albany.edu"
+  researchgate:
+  uri: "https://www.albany.edu/faculty/mchang2/"
   bitbucket:
   codepen:
   dribbble:
   flickr:
   facebook:
   foursquare:
-  github: "VanLinLin"
+  github: "mingching"
   google_plus:
   keybase:
   instagram:
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "vanlinlin"
+  linkedin:
   dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid: "https://orcid.org/0009-0000-9459-701X"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username

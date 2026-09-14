@@ -13,27 +13,27 @@ redirect_from:
 <div class="hero">
   <span class="hero__blob hero__blob--1" aria-hidden="true"></span>
   <span class="hero__blob hero__blob--2" aria-hidden="true"></span>
-  <p class="hero__greet">Hi there 👋 I'm</p>
-  <h1 class="hero__name">Yu-Fan (Van) Lin</h1>
-  <p class="hero__typing-line"><span id="hero-typing" data-roles='["Computer Vision Researcher","Ph.D. Student @ UAlbany, SUNY","Challenge Winner × 8 🏆","Multimodal Learning Enthusiast"]'></span><span class="hero__cursor" aria-hidden="true"></span></p>
+  <p class="hero__greet">Welcome</p>
+  <h1 class="hero__name">Ming-Ching Chang, Ph.D.</h1>
+  <p class="hero__typing-line"><span id="hero-typing" data-roles='["Associate Professor @ UAlbany, SUNY","Computer Vision &amp; AI Researcher","Video Analytics Researcher","IEEE Senior Member"]'></span><span class="hero__cursor" aria-hidden="true"></span></p>
 
   <div class="hero__intro" markdown="1">
-I am a Ph.D. student in Computer Science at the [University at Albany, State University of New York](https://www.albany.edu/), advised by [Prof. Ming-Ching Chang](https://www.albany.edu/faculty/mchang2) at the Computer Vision and Machine Learning Lab. My research focuses on low-level vision, robust perception, multi-modal learning, and video restoration.
+I am an Associate Professor with tenure in the [Department of Computer Science](https://www.albany.edu/computer-science) at the [University at Albany, State University of New York](https://www.albany.edu/). My research interests include video analytics, computer vision, image processing, and artificial intelligence.
 
-Previously, I earned my M.S. from the Miin Wu School of Computing, National Cheng Kung University (NCKU), Taiwan, where I worked with the [Advanced Computer Vision Laboratory (ACVLAB)](https://sites.google.com/view/acvlab/) under Prof. Chih-Chung Hsu, and my bachelor's degree from the Department of Applied Mathematics at National Chung Hsing University (NCHU). I actively participate in international challenges and research projects.
+Before joining UAlbany, I was a Computer Scientist at GE Global Research Center and an Assistant Researcher at the Industrial Technology Research Institute in Taiwan. I received my Ph.D. from Brown University, and my M.S. and B.S. degrees from National Taiwan University.
 
-I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science. I actively seek opportunities for collaboration — let's connect and share ideas to push boundaries together!
+I lead research spanning intelligent video understanding, visual perception, and practical AI systems, with projects supported by government, industry, and academic partners.
   </div>
 
   <div class="hero__interests">
-    <span class="tag-chip">Multimodal Learning</span>
-    <span class="tag-chip">Image / Video Processing</span>
-    <span class="tag-chip">Image Restoration</span>
+    <span class="tag-chip">Video Analytics</span>
+    <span class="tag-chip">Computer Vision</span>
+    <span class="tag-chip">Image Processing</span>
+    <span class="tag-chip">Artificial Intelligence</span>
   </div>
 
   <div style="margin-top: 0.8em;">
-    <a class="btn-pill btn-pill--paper" href="{{ '/_pages/docs/yufanlin.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-file-download" aria-hidden="true"></i> Resume / CV</a>
-    <span style="font-size: 0.8em; color: var(--ink-3);">last updated Jul 30, 2026</span>
+    <a class="btn-pill btn-pill--paper" href="{{ '/CV_Ming-Ching_Chang.pdf' | relative_url }}" download><i class="fas fa-file-download" aria-hidden="true"></i> Curriculum Vitae</a>
   </div>
 </div>
 
