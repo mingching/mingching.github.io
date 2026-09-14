@@ -1,0 +1,126 @@
+<style>
+    /* 樣式碼維持不變 */
+    html, body {
+        margin: 0; padding: 0; width: 100%; height: 100%;
+        overflow: hidden;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        background-color: #FFF;
+        display: flex; flex-direction: column; align-items: center;
+    }
+    h2 {
+        font-size: 1.2em; color: #555; font-weight: bold;
+        padding: 10px 0; margin: 0; flex-shrink: 0;
+    }
+    #globeViz {
+        width: 100%; height: 100%; flex-grow: 1; cursor: grab;
+    }
+</style>
+
+<div id="globeViz"></div>
+
+<script src="https://unpkg.com/globe.gl"></script>
+<script>
+window.addEventListener('load', function() {
+    const globeContainer = document.getElementById('globeViz');
+    
+    // =================================================================
+    // 後端 API 網址 (維持不變)
+    // =================================================================
+    const BACKEND_API_URL = 'https://your-backend-api.vercel.app/api/locations'; // <--- 替換成您的 API
+
+    let currentLocation = null; // 用來儲存當前訪客的位置
+
+    // =================================================================
+    // 初始化地球儀
+    // =================================================================
+    const globe = Globe()(globeContainer)
+        .globeImageUrl('//unpkg.com/three-globe/example/img/earth-night.jpg')
+        .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
+        .backgroundColor('rgba(255,255,255,0)')
+        .showGraticules(true);
+
+    globe.pointOfView({ lat: 23.5, lng: 121, altitude: 2.0 });
+    globe.controls().autoRotate = true;
+    globe.controls().autoRotateSpeed = 0.4;
+    globe.controls().enableZoom = false;
+
+    // =================================================================
+    // 設定點和光圈的樣式
+    // =================================================================
+    // 靜態點的樣式
+    globe.pointsData([])
+         .pointAltitude(0.01)
+         .pointColor('color')
+         .pointRadius('radius');
+
+    // 光圈的樣式
+    const RING_PROPAGATION_SPEED = 3;  // 光圈擴散速度
+    const RING_REPEAT_INTERVAL = 700; // 每隔 700 毫秒產生一個新光圈
+    let rings = [];
+
+    globe.ringsData([])
+        .ringColor(() => (t, d) => `rgba(255, 204, 0, ${1 - t})`) // 顏色從亮黃色漸變到透明
+        .ringMaxRadius('maxR')
+        .ringPropagationSpeed(() => RING_PROPAGATION_SPEED)
+        .ringRepeatPeriod(RING_REPEAT_INTERVAL);
+
+
+    // =================================================================
+    // 取得訪客數據並繪製
+    // =================================================================
+    async function fetchAndDrawLocations() {
+        try {
+            const response = await fetch(BACKEND_API_URL);
+            if (!response.ok) throw new Error('API Error');
+            const data = await response.json();
+
+            // 處理過去的訪客 (靜態點)
+            const pastPoints = data.pastLocations.map(loc => ({
+                ...loc,
+                radius: 0.25,
+                color: 'rgba(255, 255, 255, 0.7)'
+            }));
+
+            // 儲存當下的訪客位置
+            currentLocation = data.currentLocation;
+            
+            // 處理當下的訪客 (也是一個點，但比較亮)
+            const currentPoint = {
+                ...currentLocation,
+                radius: 0.3,
+                color: '#ffcc00'
+            };
+
+            globe.pointsData([...pastPoints, currentPoint]);
+
+        } catch (error) {
+            console.error("無法獲取訪客位置:", error);
+            // API 失敗時的預設資料
+            globe.pointsData([
+                { lat: 24.1231, lng: 120.6740, radius: 0.25, color: 'rgba(255, 255, 255, 0.7)'},
+                { lat: 55.9533, lng: -3.1883, radius: 0.25, color: 'rgba(255, 255, 255, 0.7)'}
+            ]);
+            // 預設一個當前位置用於展示動畫
+            currentLocation = { lat: 22.9987, lng: 120.2195 };
+            globe.pointsData([...globe.pointsData(), {...currentLocation, radius: 0.3, color: '#ffcc00'}]);
+        }
+    }
+
+    // =================================================================
+    // 啟動動畫
+    // =================================================================
+    fetchAndDrawLocations().then(() => {
+        if (!currentLocation) return;
+
+        // 每隔一段時間，就在當前位置加上一個新的光圈資料
+        setInterval(() => {
+            rings.push({ ...currentLocation, maxR: 5 }); // maxR 是光圈最終擴散到的半徑
+            // 只保留最近的幾個光圈，避免陣列無限增大
+            if (rings.length > 5) {
+                rings.shift();
+            }
+            globe.ringsData(rings);
+        }, RING_REPEAT_INTERVAL);
+    });
+});
+</script>

@@ -1,0 +1,10 @@
+{% comment %} Honors & awards from _data/awards.yml {% endcomment %}
+<div class="award-list">
+{% for item in site.data.awards %}
+  <div class="award-item reveal{% if item.tier %} award-item--{{ item.tier }}{% endif %}">
+    <span class="award-item__medal" aria-hidden="true">{% case item.tier %}{% when 'gold' %}🥇{% when 'silver' %}🥈{% when 'bronze' %}🥉{% else %}🏅{% endcase %}</span>
+    <span class="award-item__date">{{ item.date }}</span>
+    <span class="award-item__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+  </div>
+{% endfor %}
+</div>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #FFF; /* 確保背景是白色 */
+        }
+        h2 {
+            font-size: 1.2em; /* 調整標題大小 */
+            margin-top: 1em;
+            margin-bottom: 1em;
+            color: #555;
+            font-weight: bold;
+        }
+        #globe-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 350px; /* 稍微增加高度 */
+            max-width: 600px;
+            margin: 0 auto;
+            position: relative;
+        }
+        #globeViz {
+            width: 100%;
+            height: 100%;
+        }
+        #loading-message {
+            position: absolute;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    
+    <h2>🌍 Global Collaborations</h2>
+    <div id="globe-wrapper">
+        <div id="loading-message">Loading Globe...</div>
+        <div id="globeViz"></div>
+    </div>
+
+    <script src="https://unpkg.com/globe.gl"></script>
+    
+    <script>
+        // 等待頁面和所有資源都載入完成
+        window.addEventListener('load', function() {
+            const globeContainer = document.getElementById('globeViz');
+            const loadingMessage = document.getElementById('loading-message');
+
+            if (globeContainer) {
+                // 隱藏載入訊息
+                loadingMessage.style.display = 'none';
+
+                const globe = Globe()
+                    (globeContainer)
+                    // 使用 HTTPS 確保資源不被阻擋
+                    .globeImageUrl('//unpkg.com/three-globe/example/img/earth-night.jpg')
+                    .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
+                    .backgroundColor('rgba(255,255,255,0)')
+                    .showGraticules(true)
+                    .pointsData([
+                        { lat: 22.9987, lng: 120.2195, size: 0.5, color: 'yellow' }, // NCKU
+                        { lat: 24.1231, lng: 120.6740, size: 0.5, color: 'green' },  // NCHU
+                        { lat: 55.9533, lng: -3.1883,  size: 0.5, color: 'red' }      // example
+                    ])
+                    .pointAltitude(0)
+                    .pointColor('color')
+                    .pointRadius('size');
+
+                // 設定攝影機視角和自動旋轉
+                globe.pointOfView({ lat: 23.5, lng: 121, altitude: 2 });
+                globe.controls().autoRotate = true;
+                globe.controls().autoRotateSpeed = 0.4;
+                globe.controls().enableZoom = false; // 禁用滾輪縮放，避免影響頁面滾動
+            }
+        });
+    </script>
+
+</body>
+</html>

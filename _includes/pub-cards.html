@@ -1,0 +1,46 @@
+{% comment %}
+  Renders publication / project cards from a _data list.
+  Usage: {% include pub-cards.html data=site.data.publications %}
+{% endcomment %}
+<div class="pub-list">
+{% for item in include.data %}
+  <article class="pub-card reveal" data-cite-title="{{ item.title | strip_html | escape }}">
+    <div class="pub-card__media">
+      {% if item.media contains ".mp4" %}
+      <video src="{{ item.media }}" {% if item.poster %}poster="{{ item.poster }}"{% endif %} autoplay loop muted playsinline preload="metadata"></video>
+      {% elsif item.media %}
+      <img src="{{ item.media }}" alt="{{ item.title | strip_html | escape }}" loading="lazy">
+      {% else %}
+      <span class="pub-card__media-empty" aria-hidden="true"><i class="fas fa-file-alt"></i></span>
+      {% endif %}
+      {% if item.badge %}<span class="pub-card__badge">{{ item.badge }}</span>{% endif %}
+    </div>
+    <div class="pub-card__body">
+      <h3 class="pub-card__title">{{ item.title }}</h3>
+      {% if item.venue %}<p class="pub-card__venue">{{ item.venue }}</p>{% endif %}
+      <p class="pub-card__authors">{{ item.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      {% if item.keywords %}
+      <div class="pub-card__tags">
+        {% for kw in item.keywords %}<span class="tag-chip">{{ kw }}</span>{% endfor %}
+      </div>
+      {% endif %}
+      {% if item.links %}
+      <div class="pub-card__links">
+        {% if item.links.paper %}
+        <a class="btn-pill btn-pill--paper" href="{{ item.links.paper }}" target="_blank" rel="noopener"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+        {% endif %}
+        {% if item.links.arxiv %}
+        <a class="btn-pill btn-pill--arxiv" href="{{ item.links.arxiv }}" target="_blank" rel="noopener"><i class="ai ai-arxiv" aria-hidden="true"></i> arXiv</a>
+        {% endif %}
+        {% if item.links.project %}
+        <a class="btn-pill btn-pill--project" href="{{ item.links.project }}" target="_blank" rel="noopener"><i class="fas fa-globe" aria-hidden="true"></i> Project Page</a>
+        {% endif %}
+        {% if item.links.code %}
+        <a class="btn-pill btn-pill--code" href="{{ item.links.code }}" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </article>
+{% endfor %}
+</div>

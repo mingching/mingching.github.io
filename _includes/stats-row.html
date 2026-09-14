@@ -1,0 +1,23 @@
+{% comment %}
+  KPI tiles. Citations / h-index are filled live from the
+  Google-Scholar JSON (see fetch_google_scholar_stats.html);
+  the rest are counted from the _data files at build time.
+{% endcomment %}
+<div class="stats-row reveal">
+  <div class="stat-tile">
+    <span class="stat-tile__value js-cit-count" data-live>–</span>
+    <span class="stat-tile__label">Total citations</span>
+  </div>
+  <div class="stat-tile js-hindex-tile" hidden>
+    <span class="stat-tile__value js-hindex" data-live>–</span>
+    <span class="stat-tile__label">h-index</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-tile__value js-count" data-count="{{ site.data.publications | size }}">0</span>
+    <span class="stat-tile__label">Publications</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-tile__value js-count" data-count="{{ site.data.awards | size }}">0</span>
+    <span class="stat-tile__label">Honors &amp; awards</span>
+  </div>
+</div>

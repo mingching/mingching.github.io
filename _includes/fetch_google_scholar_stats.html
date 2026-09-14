@@ -1,0 +1,29 @@
+<script>
+    $(document).ready(function () {
+        {% if site.google_scholar_stats_use_cdn %}
+        var gsDataUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@main/google_scholar_crawler/results/gs_data.json'
+        {% else %}
+        var gsDataUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/google_scholar_crawler/results/gs_data.json'
+        {% endif %}
+        $.getJSON(gsDataUrl, function (data) {
+            /* SerpAPI schema: cited_by.table = [{citations:{all}}, {h_index:{all}}, {i10_index:{all}}] */
+            var stats = {};
+            var table = (data && data.cited_by && data.cited_by.table) || [];
+            table.forEach(function (row) {
+                if (row.citations) { stats.citedby = row.citations.all; }
+                if (row.h_index) { stats.hindex = row.h_index.all; }
+                if (row.i10_index) { stats.i10index = row.i10_index.all; }
+            });
+            stats.articles = (data && data.articles) || [];
+            stats.graph = (data && data.cited_by && data.cited_by.graph) || [];
+            var totalCitEle = document.getElementById('total_cit');
+            if (totalCitEle && typeof stats.citedby !== 'undefined') {
+                totalCitEle.innerHTML = stats.citedby;
+            }
+            /* notify theme.js so the stat tiles can animate */
+            try {
+                document.dispatchEvent(new CustomEvent('gs-stats-loaded', { detail: stats }));
+            } catch (e) {}
+        });
+    })
+</script>

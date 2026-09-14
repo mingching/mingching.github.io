@@ -1,0 +1,13 @@
+{% comment %} Education timeline from _data/education.yml {% endcomment %}
+<div class="edu-list">
+{% for item in site.data.education %}
+  <div class="edu-item reveal">
+    <span class="edu-item__icon" aria-hidden="true">🎓</span>
+    <div class="edu-item__body">
+      <span class="edu-item__degree">{{ item.degree }}</span>
+      <span class="edu-item__school">{{ item.school }}</span>
+      <span class="edu-item__period">{{ item.period }}</span>
+    </div>
+  </div>
+{% endfor %}
+</div>

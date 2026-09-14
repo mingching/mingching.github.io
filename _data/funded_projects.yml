@@ -1,0 +1,20 @@
+# ============================================================
+# Funded / Industry Projects — 新的放最上面
+#   period: 起訖時間
+#   text:   計畫名稱與單位 (Markdown)
+# ============================================================
+
+- period: "2024.04 –"
+  text: "Cybersecurity in distributed computing for remote sensing, **NVIDIA Taiwan Research**."
+
+- period: "2024.07 – 2025.06"
+  text: "Brake System Defect Detection, **Taiwan High Speed Rail**."
+
+- period: "2024.03 – 2025.04"
+  text: "Scenario understanding and augmented intelligence, **Industrial Technology Research Institute (ITRI)**."
+
+- period: "2023.02 – 2024.03"
+  text: "Developing an Automatic Prohibited Items Detection Model for Airport Luggage X-ray Images Based on the Integration of Convolutional Neural Networks and Visual Transformers, **National Science and Technology Council (NSTC)**."
+
+- period: "2023.02 – 2024.03"
+  text: "Plant Disease Analysis System, **National Chung Hsing University** (joint project with Institute of Agronomy, NCHU)."

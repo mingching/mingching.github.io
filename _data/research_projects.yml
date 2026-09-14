@@ -1,0 +1,19 @@
+# ============================================================
+# Research Projects (有圖卡片) — 格式同 publications.yml
+# ============================================================
+
+- title: "Developing an Automatic Prohibited Items Detection Model for Airport Luggage X-ray Images Based on the Integration of Convolutional Neural Networks and Visual Transformers"
+  media: images/OPIXray.jpg
+  authors: "**Yu-Fan Lin**, Chih-En Kuo"
+  keywords:
+    - Deformable Convolutions
+    - Contraband
+    - Object Detection
+
+- title: "Human Factors Biomedical System for Shooting Training"
+  media: images/Shooting_UI.jpg
+  authors: "**Yu-Fan Lin**"
+  keywords:
+    - System Integration
+    - Microcontroller
+    - Shooting Analysis

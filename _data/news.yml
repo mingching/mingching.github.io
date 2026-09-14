@@ -1,0 +1,107 @@
+# ============================================================
+# News — 新消息放最上面,一行一則
+#   date: 顯示的日期
+#   text: 內容 (Markdown)
+#   hot:  (選填) true 的話會有醒目的高亮樣式
+# ============================================================
+
+- date: "2026.05.27"
+  text: "One paper accepted by **ICML CoLoRAI Workshop**."
+  hot: true
+
+- date: "2026.04.30"
+  text: "One paper accepted by **ICIP**."
+
+- date: "2026.04.28"
+  text: "One paper accepted by **JSTARS**."
+
+- date: "2026.03.24"
+  text: "One paper accepted by **CVPR NTIRE Workshop**."
+
+- date: "2026.03.18"
+  text: "**3rd place** in CVPR 2026, NTIRE Ambient Lighting Normalization Challenge."
+  hot: true
+
+- date: "2026.03.14"
+  text: "**Top 2%** performance in CVPR 2026, PBVS Mars Landslide Segmentation Challenge."
+
+- date: "2026.02.21"
+  text: "Three papers were accepted by **CVPR**."
+  hot: true
+
+- date: "2025.12.17"
+  text: "I receive the **1st** performance in WACV 2026, SkiTB Visual Tracking Challenge."
+  hot: true
+
+- date: "2025.12.03"
+  text: "I receive the **3rd** performance in ICASSP 2026, Hyper-Object Challenge (Spectral Reconstruction & Super-Resolution). See you in Barcelona."
+
+- date: "2025.11.24"
+  text: "I receive the **4th place** (4/418, top 1%) in BMVC 2025, Data-Centric Land Cover Classification Challenge."
+
+- date: "2025.08.24"
+  text: "I won the **CVGIP 2025 best paper award**!"
+  hot: true
+
+- date: "2025.07.25"
+  text: "Three papers were accepted by CVGIP 2025!"
+
+- date: "2025.07.24"
+  text: "One paper was accepted by ICCVW 2025. See you in Honolulu, Hawaii!"
+
+- date: "2025.07.19"
+  text: "Three papers were accepted by ACMMM 2025. See you in Dublin, Ireland!"
+
+- date: "2025.07.15"
+  text: "I receive the **1st** performance in ACMMM 2025, SoccerTrack Challenge@MMSports. See you in Dublin, Ireland!"
+
+- date: "2025.07.06"
+  text: "I receive the **1st** performance in ICCV 2025, Multi-source COV19 Detection Challenge. See you in Honolulu, Hawaii!"
+
+- date: "2025.07.05"
+  text: "One paper was accepted by ACMMM 2025, see you in Dublin, Ireland!"
+
+- date: "2025.06.09"
+  text: "I received **1st place** in the ICRA 2025 TreeScope Tree Diameter Estimation Challenge!"
+
+- date: "2025.03.24"
+  text: "I received **3rd place** in the CVPR 2025 NTIRE Workshop – Image Shadow Removal Challenge. See you in Nashville!"
+
+- date: "2025.03.24"
+  text: "I received 6th place in the CVPR 2025 NTIRE Workshop – Image Reflection Removal Challenge."
+
+- date: "2025.03.15"
+  text: "Two papers were accepted by IGARSS 2025, see you in Brisbane!"
+
+- date: "2025.01.21"
+  text: "One paper was accepted by ICCT-Pacific 2025."
+
+- date: "2024.12.10"
+  text: "I received the 8th Foxconn Scholarship!"
+
+- date: "2024.12.02"
+  text: "I received the Scholarship of Nan Shan Life Insurance Company!"
+
+- date: "2024.07.21"
+  text: "I received the **1st** performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!"
+
+- date: "2024.06.06"
+  text: "I received the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!"
+
+- date: "2024.05.15"
+  text: "I received the 3rd place in SMP Challenge in ACMMM 2024!"
+
+- date: "2024.03.06"
+  text: "I received the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunction with ICIP 2024!"
+
+- date: "2021.10.22"
+  text: "I received the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition!"
+
+- date: "2021.08.19"
+  text: "I received the Titanium Medal Award in Green Idea Invention and Design Fair (best 10% teams)!"
+
+- date: "2020.12.26"
+  text: "I received the 4th Foxconn Scholarship as one of only 30 recipients in Taiwan!"
+
+- date: "2018.06.02"
+  text: "I received the **1st place** in the Asian Robotic Athletic Competition!"

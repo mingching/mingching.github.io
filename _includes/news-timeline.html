@@ -1,0 +1,20 @@
+{% comment %}
+  News timeline from _data/news.yml — first `limit` items visible,
+  the rest collapse behind a "Show all" button.
+{% endcomment %}
+{% assign visible = include.limit | default: 8 %}
+<div class="timeline" id="news-timeline">
+{% for item in site.data.news %}
+  <div class="timeline__item reveal{% if item.hot %} timeline__item--hot{% endif %}{% if forloop.index > visible %} timeline__item--extra{% endif %}"{% if forloop.index > visible %} hidden{% endif %}>
+    <span class="timeline__dot" aria-hidden="true"></span>
+    <span class="timeline__date">{{ item.date }}</span>
+    <span class="timeline__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+  </div>
+{% endfor %}
+</div>
+{% assign total = site.data.news | size %}
+{% if total > visible %}
+<button class="timeline__more" id="news-more-btn" type="button" data-more="Show all {{ total }} news" data-less="Show fewer">
+  Show all {{ total }} news <i class="fas fa-chevron-down" aria-hidden="true"></i>
+</button>
+{% endif %}

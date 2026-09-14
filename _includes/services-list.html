@@ -1,0 +1,10 @@
+{% comment %} Academic services from _data/services.yml {% endcomment %}
+<div class="service-list">
+{% for item in site.data.services %}
+  <div class="service-item reveal">
+    <span class="service-item__icon" aria-hidden="true">🔎</span>
+    <span class="service-item__role">{{ item.role }}</span>
+    <span class="service-item__items">{{ item.items }}</span>
+  </div>
+{% endfor %}
+</div>

@@ -1,0 +1,9 @@
+{% comment %} Funded / industry projects from _data/funded_projects.yml {% endcomment %}
+<div class="funded-list">
+{% for item in site.data.funded_projects %}
+  <div class="funded-item reveal">
+    <span class="funded-item__period">{{ item.period }}</span>
+    <span class="funded-item__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+  </div>
+{% endfor %}
+</div>
