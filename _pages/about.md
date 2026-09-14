@@ -14,8 +14,7 @@ redirect_from:
   <span class="hero__blob hero__blob--1" aria-hidden="true"></span>
   <span class="hero__blob hero__blob--2" aria-hidden="true"></span>
   <p class="hero__greet">Welcome</p>
-  <h1 class="hero__name">Ming-Ching Chang, Ph.D.</h1>
-  <p class="hero__typing-line"><span id="hero-typing" data-roles='["Associate Professor @ UAlbany, SUNY","Computer Vision &amp; AI Researcher","Video Analytics Researcher","IEEE Senior Member"]'></span><span class="hero__cursor" aria-hidden="true"></span></p>
+  <h1 class="hero__name">Dr. Ming-Ching Chang</h1>
 
   <div class="hero__intro" markdown="1">
 I am an Associate Professor with tenure in the [Department of Computer Science](https://www.albany.edu/computer-science) at the [University at Albany, State University of New York](https://www.albany.edu/). My research interests include video analytics, computer vision, image processing, and artificial intelligence.

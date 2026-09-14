@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Ming-Ching Chang, Ph.D."
+title: "Dr. Ming-Ching Chang"
 description: "Associate Professor of Computer Science"
 repository: "mingching/mingching.github.io"
 google_scholar_stats_use_cdn: False
@@ -21,7 +21,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name: "Ming-Ching Chang, Ph.D."
+  name: "Dr. Ming-Ching Chang"
   avatar: "images/MCC_2020.jpg"
   bio: "Associate Professor, University at Albany, SUNY"
   location: "Albany, NY, USA"
