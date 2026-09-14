@@ -3,23 +3,5 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
     url: "/#-selected-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Projects"
-    url: "/#-projects"
-
-  - title: "Education"
-    url: "/#-education"
-
-  - title: "Academic Services"
-    url: "/#-academic-services"
-
-  - title: "Global Collaborations"
-    url: "/#-global-collaborations"
