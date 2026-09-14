@@ -27,7 +27,7 @@
       {% if item.links %}
       <div class="pub-card__links">
         {% if item.links.paper %}
-        <a class="btn-pill btn-pill--paper" href="{{ item.links.paper }}" target="_blank" rel="noopener"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+        <a class="btn-pill btn-pill--paper" href="{{ item.links.paper }}" download><i class="fas fa-download" aria-hidden="true"></i> Download PDF</a>
         {% endif %}
         {% if item.links.arxiv %}
         <a class="btn-pill btn-pill--arxiv" href="{{ item.links.arxiv }}" target="_blank" rel="noopener"><i class="ai ai-arxiv" aria-hidden="true"></i> arXiv</a>
