@@ -3,6 +3,7 @@
 
 - title: "RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization"
   badge: "MICCAI 2026"
+  media: images/papers/MICCAI26_RatSeizure_cameraready.jpg
   authors: "Ting Yu Tsai, An Yu, Lucy Lee, Felix X.-F. Ye, Damian S. Shin, Tzu-Jen Kao, Xin Li, and **Ming-Ching Chang**"
   keywords: [Medical image analysis, Seizure localization, Benchmark]
   links:
@@ -10,6 +11,7 @@
 
 - title: "SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM"
   badge: "IEEE TMM 2026"
+  media: images/papers/SMART_Final.jpg
   authors: "An Yu, Weiheng Lu, Jian Li, Zhenfei Zhang, Yunhang Shen, Felix X.-F. Ye, and **Ming-Ching Chang**"
   keywords: [Video moment retrieval, Multimodal learning, Audio]
   links:
@@ -17,6 +19,7 @@
 
 - title: "Bridging Design and Quality: A Technical Overview of IFMs in Manufacturing"
   badge: "MIPR 2026"
+  media: images/papers/MIPR_26_IMF.jpg
   authors: "Chih-Fan Hsu, Yung-Huei Chiou, Po-Han Huang, Yu-chi Liao, Shu Huei Yang, Jyun-Ze Tang, Yu-Lun Chang, and **Ming-Ching Chang**"
   keywords: [Industrial foundation models, Smart manufacturing]
   links:
@@ -24,6 +27,7 @@
 
 - title: "LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval"
   badge: "ICPR 2026"
+  media: images/papers/_ICPR__LLaVA_MR.jpg
   authors: "Weiheng Lu, Jian Li, An Yu, and **Ming-Ching Chang**"
   keywords: [Video moment retrieval, Multimodal large language models]
   links:
@@ -31,6 +35,7 @@
 
 - title: "Causal Volterra Dynamics of Mamba"
   badge: "HiLD Workshop at ICML 2026"
+  media: images/papers/9_Causal_Volterra_Dynamics_of_.jpg
   authors: "**Ming-Ching Chang**, Ting Yu Tsai, Davis Wertheimer, and Felix X.-F. Ye"
   keywords: [State space models, Mamba, Learning dynamics]
   links:
@@ -38,6 +43,7 @@
 
 - title: "FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU"
   badge: "ICML 2026"
+  media: images/papers/FlashSinkhorn_paper.jpg
   authors: "Felix X.-F. Ye, Xingjie Li, An Yu, **Ming-Ching Chang**, Linsong Chu, and Davis Wertheimer"
   keywords: [Optimal transport, GPU computing, Sinkhorn]
   links:
@@ -45,6 +51,7 @@
 
 - title: "TRACE-TAR: Reusable Video Evidence and Shared Event Memory for Transportation Anomaly Reasoning"
   badge: "ECCV Workshop 2026"
+  media: images/papers/TRACE_TAR_Challange3.jpg
   authors: "Abhineet Kumar Pandey, **Ming-Ching Chang**, and Jun-Wei Hsieh"
   keywords: [Transportation anomaly reasoning, Video understanding]
   links:
@@ -52,6 +59,7 @@
 
 - title: "Detecting ATM Money Mule Activities via LVLM-Guided Forensic Analysis"
   badge: "AVSS 2026"
+  media: images/papers/AVSS2026-246.jpg
   authors: "Ni Xu and **Ming-Ching Chang**"
   keywords: [Video forensics, Money mule detection, Vision-language models]
   links:
@@ -59,6 +67,7 @@
 
 - title: "PreClaim-GCT: Self-Supervised Graph-Transformer Pretraining for Incident Outcome Prediction from Healthcare Claims"
   badge: "AIME 2026"
+  media: images/papers/PreClaim_GCT_2026_AIME___shortpaper.jpg
   authors: "Rui Wang, **Ming-Ching Chang**, and Emily Leckman-Westin"
   keywords: [Healthcare claims, Graph transformers, Outcome prediction]
   links:
@@ -66,6 +75,7 @@
 
 - title: "Uncertainty-Aware Proxy Attribute Reasoning for Reliable Media Bias Detection"
   badge: "TrustNLP Workshop at ACL 2026"
+  media: images/papers/2026-07_ACL_TrustNLP_Media_Bias.jpg
   authors: "Chin-Po Chen, Jeng-Lin Li, and **Ming-Ching Chang**"
   keywords: [Media bias detection, Uncertainty, Language models]
   links:
@@ -73,6 +83,7 @@
 
 - title: "SoREL: Soft-Label Refurbishment with Ensemble Learning for Noisy Long-Tailed Classification"
   badge: "CVPR Workshop 2026"
+  media: images/papers/CVPR2026_CAMERA_READY__Long_Tail_Noisy_Label_Learning__Two_Stage_Solution_via_Label_Refurbishment_with_Label_Rarity.jpg
   authors: "Jun Wei Hsieh, Ying-Hsuan Wu, Yi-Kuan Hsieh, Xin Li, Kuan-Chuan Peng, and **Ming-Ching Chang**"
   keywords: [Long-tailed classification, Noisy labels, Ensemble learning]
   links:
@@ -80,6 +91,7 @@
 
 - title: "FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs"
   badge: "CVPR 2026"
+  media: images/papers/cvpr26_FAVE.jpg
   authors: "Weiheng Lu, An Yu, Jian Li, Zhenfei Zhang, Felix X.-F. Ye, and **Ming-Ching Chang**"
   keywords: [Audio-visual evaluation, Multimodal LLMs, Benchmark]
   links:
@@ -87,6 +99,7 @@
 
 - title: "FE-DETRAC: An Infrastructure Fisheye Video Benchmark with Distortion-Aware Hybrid Data Association for Multi-Object Tracking"
   badge: "IEEE Internet of Things Journal 2026"
+  media: images/papers/FE-DETRAC_An_Infrastructure_Fisheye_Video_Benchmark_with_Distortion-Aware_Hybrid_Data_Association_for_Multi-Object_Tracking.jpg
   authors: "Chung-I Huang, Wei-Yu Chen, Jun-Wei Hsieh, Ping-Yang Chen, **Ming-Ching Chang**, Munkhjargal Gochoo, Chun-Ming Tsai, Hsiang-Wei Huang, Vincent S. Tseng, and Jenq-Neng Hwang"
   keywords: [Fisheye video, Multi-object tracking, Benchmark]
   links:
@@ -94,6 +107,7 @@
 
 - title: "Physics-Guided Exposure Parameter Estimation for Image Metadata Verification"
   badge: "IEEE ISM 2025"
+  media: images/papers/IEEE_ISM2025_SR.jpg
   authors: "Sharmilee Rajkumar Rajan, **Ming-Ching Chang**, and Pradeep K. Atrey"
   keywords: [Image forensics, Metadata verification, Exposure estimation]
   links:
@@ -101,6 +115,7 @@
 
 - title: "PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection"
   badge: "WACV 2026"
+  media: images/papers/_WACV2026__PatchEAD.jpg
   authors: "Po-Han Huang, Jeng-Lin Li, Po-Hsuan Huang, **Ming-Ching Chang**, and Wei-Chao Chen"
   keywords: [Industrial anomaly detection, Visual prompting]
   links:
@@ -108,6 +123,7 @@
 
 - title: "A Latent-Guided Hybrid Architecture for Liver Segmentation in Contrast-Enhanced MRI"
   badge: "GC-CARE 2025"
+  media: images/papers/32-A-Latent-Guided-Hybrid-Architecture-for-Liver-Segmentation-in-Contrast-Enhanced-MRI.jpg
   authors: "Ting Yu Tsai, An Yu, Wenqi Li, and **Ming-Ching Chang**"
   keywords: [Liver segmentation, MRI, Latent representations]
   links:
@@ -115,6 +131,7 @@
 
 - title: "How Bias Binds: Measuring Hidden Associations for Bias Control in Text-to-Image Compositions"
   badge: "AAAI 2026"
+  media: images/papers/_AAAI2026__Diffusion_Bias.jpg
   authors: "Jeng-Lin Li, **Ming-Ching Chang**, and Wei-Chao Chen"
   keywords: [Generative AI, Bias measurement, Text-to-image models]
   links:
@@ -122,6 +139,7 @@
 
 - title: "LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text-to-Image Generation"
   badge: "ICCV Workshop 2025"
+  media: images/papers/_ICCV_2025__text2image_schedule.jpg
   authors: "Jyun-Ze Tang, Chih-Fan Hsu, Jeng-Lin Li, **Ming-Ching Chang**, and Wei-Chao Chen"
   keywords: [Text-to-image generation, Diffusion models, Flow matching]
   links:
