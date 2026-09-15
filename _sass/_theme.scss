@@ -743,3 +743,10 @@ html.js .reveal.revealed {
 
 
 
+
+
+/* Prevent an empty desktop sidebar from narrowing the reading column. */
+@media (max-width: 1023px) {
+  .sidebar { display: none !important; }
+  .page { float: none !important; width: 100% !important; margin-left: 0 !important; margin-right: 0 !important; padding-left: 1rem; padding-right: 1rem; }
+}
