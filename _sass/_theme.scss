@@ -740,3 +740,11 @@ html.js .reveal.revealed {
   .hero__name { font-size: 1.9em; }
   .stats-row { grid-template-columns: repeat(2, 1fr); }
 }
+
+
+
+/* Keep the academic contact list visible below the desktop breakpoint. */
+@media (max-width: 1023px) {
+  .author__urls { display: block !important; position: relative; right: auto; margin: .5rem 0 0; padding: 0; border: 0; background: transparent; box-shadow: none; }
+  .author__urls_sm { display: none; }
+}
