@@ -70,7 +70,7 @@ I lead research spanning intelligent video understanding, visual perception, and
 <div class="publication-year-index">
 {% assign scholar_year_groups = site.data.scholar_publications | group_by: "year" | sort: "name" | reverse %}
 {% for group in scholar_year_groups %}
-{% if group.name != "" %}[{{ group.name }}](#scholar-year-{{ group.name }}){% unless forloop.last %} · {% endunless %}{% endif %}
+{% if group.name != "" %}<a href="#scholar-year-{{ group.name }}">{{ group.name }}</a>{% unless forloop.last %} · {% endunless %}{% endif %}
 {% endfor %}
 </div>
 
