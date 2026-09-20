@@ -1,0 +1,24 @@
+<p class="archive__item-excerpt" style="margin-bottom: 1rem;">
+  Counts below follow Dr. Chang's author-maintained publication record. They exclude unverified Google Scholar imports, duplicate records, and supplementary material.
+</p>
+{% for item in site.data.legacy_publication_year_counts %}
+  <details class="pub-topic" id="scholar-year-{{ item.year }}">
+    <summary class="pub-topic__toggle">
+      <span>{{ item.year }}</span>
+      <span class="pub-topic__count">{{ item.count }} publications</span>
+    </summary>
+    <div class="pub-topic__scroll">
+      <p>This year contains {{ item.count }} author-curated publication{% if item.count != 1 %}s{% endif %}. <a href="https://www.albany.edu/faculty/mchang2/chang_publications.html#{{ item.year }}" target="_blank" rel="noopener">View the full curated list and available PDFs</a>.</p>
+    </div>
+  </details>
+{% endfor %}
+<details class="pub-topic">
+  <summary class="pub-topic__toggle">
+    <span>Supplemental Google Scholar records</span>
+    <span class="pub-topic__count">not included in the curated totals</span>
+  </summary>
+  <div class="pub-topic__scroll">
+    <p>Automatically imported records without a confirmed publication year are retained for reference only and are not counted in a year.</p>
+    <p><a href="https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en" target="_blank" rel="noopener">Open the full Google Scholar record</a>.</p>
+  </div>
+</details>
