@@ -1,5 +1,8 @@
-# Author-curated publication totals from https://www.albany.edu/faculty/mchang2/chang_publications.html
-# Canonical counts for 2024 and earlier; Google Scholar imports are excluded.
+# Annual publication totals.
+# 2025-2026: cross-checked against Google Scholar and the latest CV; patents and duplicates excluded.
+# 2024 and earlier: author-curated totals from https://www.albany.edu/faculty/mchang2/chang_publications.html
+- { year: 2026, count: 19 }
+- { year: 2025, count: 25 }
 - { year: 2024, count: 18 }
 - { year: 2023, count: 15 }
 - { year: 2022, count: 22 }
