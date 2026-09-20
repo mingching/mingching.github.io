@@ -1,5 +1,5 @@
 <p class="archive__item-excerpt" style="margin-bottom: 1rem;">
-  Counts below follow Dr. Chang's author-maintained publication record. They exclude unverified Google Scholar imports, duplicate records, and supplementary material.
+  Annual totals for 2025-2026 are cross-checked against Dr. Chang's Google Scholar record and latest CV; patents and duplicate records are excluded. Totals for 2024 and earlier follow the author-maintained publication record.
 </p>
 {% for item in site.data.legacy_publication_year_counts %}
   <details class="pub-topic" id="scholar-year-{{ item.year }}">
@@ -8,14 +8,18 @@
       <span class="pub-topic__count">{{ item.count }} publications</span>
     </summary>
     <div class="pub-topic__scroll">
-      <p>This year contains {{ item.count }} author-curated publication{% if item.count != 1 %}s{% endif %}. <a href="https://www.albany.edu/faculty/mchang2/chang_publications.html#{{ item.year }}" target="_blank" rel="noopener">View the full curated list and available PDFs</a>.</p>
+      {% if item.year >= 2025 %}
+        <p>This year contains {{ item.count }} verified publication{% if item.count != 1 %}s{% endif %}, based on Google Scholar and the latest CV. Patent records and duplicate entries are excluded. <a href="https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en" target="_blank" rel="noopener">View the Google Scholar record</a>.</p>
+      {% else %}
+        <p>This year contains {{ item.count }} author-curated publication{% if item.count != 1 %}s{% endif %}. <a href="https://www.albany.edu/faculty/mchang2/chang_publications.html#{{ item.year }}" target="_blank" rel="noopener">View the full curated list and available PDFs</a>.</p>
+      {% endif %}
     </div>
   </details>
 {% endfor %}
 <details class="pub-topic">
   <summary class="pub-topic__toggle">
     <span>Supplemental Google Scholar records</span>
-    <span class="pub-topic__count">not included in the curated totals</span>
+    <span class="pub-topic__count">not included in the annual totals</span>
   </summary>
   <div class="pub-topic__scroll">
     <p>Automatically imported records without a confirmed publication year are retained for reference only and are not counted in a year.</p>
