@@ -1,15 +1,20 @@
-{% assign verified_publication_total = 0 %}
+{% assign paper_publication_total = 0 %}
 {% for item in site.data.legacy_publication_year_counts %}
-  {% assign verified_publication_total = verified_publication_total | plus: item.count %}
+  {% assign paper_publication_total = paper_publication_total | plus: item.count %}
 {% endfor %}
+{% assign patent_records = site.data.scholar_publications | where: "category", "Patents & Technology Transfer" %}
 <div class="stats-row reveal" aria-label="Research metrics">
   <div class="stat-tile">
     <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.citations }}">0</span>
     <span class="stat-tile__label">Total citations</span>
   </div>
   <div class="stat-tile">
-    <span class="stat-tile__value js-count" data-count="{{ verified_publication_total }}">0</span>
-    <span class="stat-tile__label">Verified publications</span>
+    <span class="stat-tile__value js-count" data-count="{{ paper_publication_total }}">0</span>
+    <span class="stat-tile__label">Paper publications</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-tile__value js-count" data-count="{{ patent_records | size }}">0</span>
+    <span class="stat-tile__label">Patents &amp; Technology Transfer</span>
   </div>
   <div class="stat-tile">
     <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.h_index }}">0</span>
