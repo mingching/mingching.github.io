@@ -1,6 +1,19 @@
 # vanlinlin.github.io
 
-Personal academic homepage: https://vanlinlin.github.io/
+Personal academic homepage: https://mingching.github.io/
+
+## Updating publications from BibTeX
+
+`data/chang.bib` is the canonical publication database for this site. Edit it
+first, then run `python scripts/build_publication_data.py`. The script creates
+the Jekyll data files used by the topic list, annual totals, and publication
+metrics. Do not edit those generated files directly.
+
+When `data/chang.bib` is committed to `main`, the **Build publication data from
+BibTeX** GitHub Action repeats this step automatically and commits any generated
+changes. The special `changWebsitePublicationStatistics` record at the top of
+the BibTeX file keeps the author-verified annual totals and should be updated
+when a new publication year is finalized.
 
 ## 🖊️ How to update content (no HTML needed)
 

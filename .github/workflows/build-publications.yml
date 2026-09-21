@@ -1,0 +1,28 @@
+name: Build publication data from BibTeX
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/chang.bib"
+      - "scripts/build_publication_data.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-publication-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate and generate website data
+        run: python scripts/build_publication_data.py
+      - name: Commit generated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Build website publication data from chang.bib"
+          file_pattern: "_data/bib_publications.json _data/publication_year_counts.yml _data/publication_stats.yml"

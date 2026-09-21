@@ -1,4 +1,4 @@
-{% assign groups = site.data.scholar_publications | group_by: "category" %}
+{% assign groups = site.data.bib_publications.publications | group_by: "category" %}
 {% for group in groups %}
   <details class="pub-topic">
     <summary class="pub-topic__toggle">

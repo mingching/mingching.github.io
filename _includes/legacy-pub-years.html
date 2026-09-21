@@ -1,7 +1,7 @@
 <p class="archive__item-excerpt" style="margin-bottom: 1rem;">
-  Annual totals for 2025-2026 are cross-checked against Dr. Chang's Google Scholar record and latest CV; patents and duplicate records are excluded. Totals for 2024 and earlier follow the author-maintained publication record.
+  Generated from the canonical <code>chang.bib</code> publication database. Annual totals for 2025-2026 are cross-checked against Dr. Chang's Google Scholar record and latest CV; patents and duplicate records are excluded. Totals for 2024 and earlier follow the author-maintained publication record.
 </p>
-{% for item in site.data.legacy_publication_year_counts %}
+{% for item in site.data.publication_year_counts %}
   <details class="pub-topic" id="scholar-year-{{ item.year }}">
     <summary class="pub-topic__toggle">
       <span>{{ item.year }}</span>
@@ -16,13 +16,3 @@
     </div>
   </details>
 {% endfor %}
-<details class="pub-topic">
-  <summary class="pub-topic__toggle">
-    <span>Supplemental Google Scholar records</span>
-    <span class="pub-topic__count">not included in the annual totals</span>
-  </summary>
-  <div class="pub-topic__scroll">
-    <p>Automatically imported records without a confirmed publication year are retained for reference only and are not counted in a year.</p>
-    <p><a href="https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en" target="_blank" rel="noopener">Open the full Google Scholar record</a>.</p>
-  </div>
-</details>
