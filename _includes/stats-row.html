@@ -1,11 +1,15 @@
-<div class="stats-row reveal" aria-label="Google Scholar metrics">
+{% assign verified_publication_total = 0 %}
+{% for item in site.data.legacy_publication_year_counts %}
+  {% assign verified_publication_total = verified_publication_total | plus: item.count %}
+{% endfor %}
+<div class="stats-row reveal" aria-label="Research metrics">
   <div class="stat-tile">
     <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.citations }}">0</span>
     <span class="stat-tile__label">Total citations</span>
   </div>
   <div class="stat-tile">
-    <span class="stat-tile__value js-count" data-count="{{ site.data.publications | size | plus: site.data.scholar_publications.size }}">0</span>
-    <span class="stat-tile__label">Scholar records</span>
+    <span class="stat-tile__value js-count" data-count="{{ verified_publication_total }}">0</span>
+    <span class="stat-tile__label">Verified publications</span>
   </div>
   <div class="stat-tile">
     <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.h_index }}">0</span>
