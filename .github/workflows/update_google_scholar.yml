@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch and Process Google Scholar Stats
         env:
@@ -28,9 +28,21 @@ jobs:
           fi
           echo "✅ Successfully fetched raw author data."
 
-          CITATIONS=$(jq '.cited_by.table[0].citations.all' google_scholar_crawler/results/gs_data.json)
-          if [ -z "$CITATIONS" ] || [ "$CITATIONS" == "null" ]; then
+          # SerpAPI has used more than one author-response shape. Prefer the
+          # documented aggregate counter, then fall back to other citation
+          # fields rather than failing on a harmless schema change.
+          CITATIONS=$(jq -r '
+            .cited_by.table[0].citations.all //
+            .cited_by.table[0].citations //
+            .author.cited_by //
+            .author.citations //
+            ([.. | objects | .citations? |
+              if type == "object" then .all? else . end |
+              select(type == "number" or type == "string")] | first) // empty
+          ' google_scholar_crawler/results/gs_data.json)
+          if [ -z "$CITATIONS" ] || [ "$CITATIONS" == "null" ] || ! [[ "$CITATIONS" =~ ^[0-9]+$ ]]; then
             echo "❌ Could not find citation count."
+            echo "Available top-level fields: $(jq -r 'keys | join(", ")' google_scholar_crawler/results/gs_data.json)"
             exit 1
           fi
           echo "📊 Citation count: $CITATIONS"

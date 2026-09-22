@@ -1,4 +1,4 @@
-# vanlinlin.github.io
+# mingching.github.io
 
 Personal academic homepage: https://mingching.github.io/
 
