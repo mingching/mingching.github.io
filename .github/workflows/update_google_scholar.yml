@@ -21,9 +21,9 @@ jobs:
           mkdir -p google_scholar_crawler/results
           curl --location --silent "https://serpapi.com/search.json?engine=google_scholar_author&author_id=${GOOGLE_SCHOLAR_ID}&view_op=list_works&sortby=pubdate&api_key=${SERPAPI_API_KEY}" > google_scholar_crawler/results/gs_data.json
           
-          if grep -q "error_message" google_scholar_crawler/results/gs_data.json; then
-            echo "❌ SERPAPI returned an error."
-            cat google_scholar_crawler/results/gs_data.json
+          if jq -e 'has("error_message") or has("error")' google_scholar_crawler/results/gs_data.json > /dev/null; then
+            echo "❌ SERPAPI returned an error:"
+            jq -r '.error_message // .error' google_scholar_crawler/results/gs_data.json
             exit 1
           fi
           echo "✅ Successfully fetched raw author data."
