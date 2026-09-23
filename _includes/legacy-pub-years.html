@@ -10,10 +10,16 @@
 
 {% for item in site.data.publication_year_counts %}
   {% assign year_string = item.year | append: '' %}
+  {% assign year_paper_count = 0 %}
+  {% for publication in site.data.bib_publications.publications %}
+    {% if publication.year == year_string and publication.entry_type != 'patent' %}
+      {% assign year_paper_count = year_paper_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
   <details class="pub-topic" id="scholar-year-{{ item.year }}">
     <summary class="pub-topic__toggle">
       <span>{{ item.year }}</span>
-      <span class="pub-topic__count">View papers</span>
+      <span class="pub-topic__count">{{ year_paper_count }} paper{% if year_paper_count != 1 %}s{% endif %}</span>
     </summary>
     <div class="pub-topic__scroll">
       <ol class="scholar-pub-list scholar-pub-list--year">
