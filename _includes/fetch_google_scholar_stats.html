@@ -5,7 +5,7 @@
         {% else %}
         var gsDataUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/google_scholar_crawler/results/gs_data.json'
         {% endif %}
-        $.getJSON(gsDataUrl, function (data) {
+        $.getJSON(gsDataUrl + '?cache=' + Date.now(), function (data) {
             /* SerpAPI schema: cited_by.table = [{citations:{all}}, {h_index:{all}}, {i10_index:{all}}] */
             var stats = {};
             var table = (data && data.cited_by && data.cited_by.table) || [];

@@ -106,6 +106,10 @@
       hTile.removeAttribute("hidden");
       countUp(hEl, parseInt(data.hindex, 10) || 0);
     }
+    var i10El = document.querySelector(".js-i10index");
+    if (i10El && typeof data.i10index !== "undefined") {
+      countUp(i10El, parseInt(data.i10index, 10) || 0);
+    }
     renderCitationChips(data.articles || []);
     renderCitationSpark(data.graph || []);
   });

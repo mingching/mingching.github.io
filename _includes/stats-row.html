@@ -1,6 +1,6 @@
 <div class="stats-row reveal" aria-label="Research metrics">
-  <div class="stat-tile">
-    <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.citations }}">0</span>
+  <div class="stat-tile js-cit-tile">
+    <span class="stat-tile__value js-count js-cit-count" data-count="{{ site.data.scholar_stats.citations }}">0</span>
     <span class="stat-tile__label">Total citations</span>
   </div>
   <div class="stat-tile">
@@ -11,12 +11,12 @@
     <span class="stat-tile__value js-count" data-count="{{ site.data.publication_stats.patents }}">0</span>
     <span class="stat-tile__label">Patents &amp; Technology Transfer</span>
   </div>
-  <div class="stat-tile">
-    <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.h_index }}">0</span>
+  <div class="stat-tile js-hindex-tile">
+    <span class="stat-tile__value js-count js-hindex" data-count="{{ site.data.scholar_stats.h_index }}">0</span>
     <span class="stat-tile__label">h-index</span>
   </div>
-  <div class="stat-tile">
-    <span class="stat-tile__value js-count" data-count="{{ site.data.scholar_stats.i10_index }}">0</span>
+  <div class="stat-tile js-i10index-tile">
+    <span class="stat-tile__value js-count js-i10index" data-count="{{ site.data.scholar_stats.i10_index }}">0</span>
     <span class="stat-tile__label">i10-index</span>
   </div>
 </div>
