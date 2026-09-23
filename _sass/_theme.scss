@@ -423,6 +423,26 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
 .scholar-pub-list a { font-weight: 700; color: var(--accent); }
 .scholar-pub-meta { display: block; margin-top: 0.15rem; color: var(--ink-2); font-size: 0.92rem; }
 
+.publication-search {
+  margin: 0 0 1.25rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+}
+.publication-search label { display: block; margin-bottom: 0.45rem; font-weight: 700; }
+.publication-search input {
+  width: 100%;
+  padding: 0.7rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--ink);
+  font: inherit;
+}
+.publication-search__status { min-height: 1.25rem; margin: 0.55rem 0 0; color: var(--ink-2); font-size: 0.9rem; }
+.all-publication-item[hidden] { display: none; }
+
 .pub-card {
   position: relative;
   display: grid;

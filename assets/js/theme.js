@@ -276,4 +276,29 @@
       }
     });
   }
+
+  /* ---------- Complete-publication keyword search ---------- */
+  var publicationSearch = document.getElementById("publication-search-input");
+  if (publicationSearch) {
+    var publicationStatus = document.getElementById("publication-search-status");
+    var publicationItems = Array.prototype.slice.call(document.querySelectorAll(".all-publication-item"));
+    publicationSearch.addEventListener("input", function () {
+      var query = (publicationSearch.value || "").trim().toLowerCase();
+      var visible = 0;
+      publicationItems.forEach(function (item) {
+        var match = !query || (item.textContent || "").toLowerCase().indexOf(query) !== -1;
+        item.hidden = !match;
+        if (match) {
+          visible++;
+          if (query && item.closest) {
+            var section = item.closest("details.pub-topic");
+            if (section) section.open = true;
+          }
+        }
+      });
+      if (publicationStatus) {
+        publicationStatus.textContent = query ? visible + " matching publication" + (visible === 1 ? "" : "s") + "." : "";
+      }
+    });
+  }
 })();

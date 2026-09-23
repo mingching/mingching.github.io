@@ -1,18 +1,35 @@
 <p class="archive__item-excerpt" style="margin-bottom: 1rem;">
-  Generated from the canonical <code>chang.bib</code> publication database. Annual totals for 2025-2026 are cross-checked against Dr. Chang's Google Scholar record and latest CV; patents and duplicate records are excluded. Totals for 2024 and earlier follow the author-maintained publication record.
+  The complete publication record is generated from the canonical <code>chang.bib</code> database. Search by title, author, venue, or year; for example, <em>Siwei</em>, <em>Jun-Wei</em>, <em>inspect</em>, or <em>AVSS</em>.
 </p>
+
+<div class="publication-search" role="search">
+  <label for="publication-search-input">Search all paper publications</label>
+  <input id="publication-search-input" type="search" placeholder="Title, author, venue, or year" autocomplete="off">
+  <p id="publication-search-status" class="publication-search__status" aria-live="polite"></p>
+</div>
+
 {% for item in site.data.publication_year_counts %}
+  {% assign year_string = item.year | append: '' %}
   <details class="pub-topic" id="scholar-year-{{ item.year }}">
     <summary class="pub-topic__toggle">
       <span>{{ item.year }}</span>
-      <span class="pub-topic__count">{{ item.count }} publications</span>
+      <span class="pub-topic__count">View papers</span>
     </summary>
     <div class="pub-topic__scroll">
-      {% if item.year >= 2025 %}
-        <p>This year contains {{ item.count }} verified publication{% if item.count != 1 %}s{% endif %}, based on Google Scholar and the latest CV. Patent records and duplicate entries are excluded. <a href="https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en" target="_blank" rel="noopener">View the Google Scholar record</a>.</p>
-      {% else %}
-        <p>This year contains {{ item.count }} author-curated publication{% if item.count != 1 %}s{% endif %}. <a href="https://www.albany.edu/faculty/mchang2/chang_publications.html#{{ item.year }}" target="_blank" rel="noopener">View the full curated list and available PDFs</a>.</p>
-      {% endif %}
+      <ol class="scholar-pub-list scholar-pub-list--year">
+        {% for publication in site.data.bib_publications.publications %}
+          {% if publication.year == year_string and publication.entry_type != 'patent' %}
+            <li class="all-publication-item">
+              {% if publication.scholar_url %}
+                <a href="{{ publication.scholar_url }}" target="_blank" rel="noopener">{{ publication.title }}</a>
+              {% else %}
+                <strong>{{ publication.title }}</strong>
+              {% endif %}
+              <span class="scholar-pub-meta">{{ publication.authors }}. {{ publication.venue }}{% if publication.year %} ({{ publication.year }}){% endif %}.</span>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ol>
     </div>
   </details>
 {% endfor %}
