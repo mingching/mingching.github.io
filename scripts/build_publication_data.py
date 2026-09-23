@@ -59,6 +59,12 @@ def yaml_quote(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
 
+def display_text(value: str) -> str:
+    """Remove BibTeX-only brace protection from text rendered on the website."""
+    value = (value or "").replace("\\{", "{").replace("\\}", "}")
+    return value.replace("{", "").replace("}", "").strip()
+
+
 def parse_annual(value: str):
     result = []
     for pair in value.split(";"):
@@ -94,9 +100,9 @@ def main():
         publications.append({
             "key": key,
             "entry_type": kind,
-            "title": title,
-            "authors": fields.get("author", ""),
-            "venue": fields.get("venue", fields.get("journal", fields.get("booktitle", ""))),
+            "title": display_text(title),
+            "authors": display_text(fields.get("author", "")),
+            "venue": display_text(fields.get("venue", fields.get("journal", fields.get("booktitle", "")))),
             "year": fields.get("year", ""),
             "category": fields.get("category", "Unclassified"),
             "scholar_url": fields.get("scholar_url", fields.get("url", "")),

@@ -911,16 +911,6 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:QYdC8u9Cj1oC"
     },
     {
-      "key": "FedTrust:MIPR2022",
-      "entry_type": "inproceedings",
-      "title": "{FedTrust}: Towards Building Secure Robust and Trustworthy Moderators for Federated Learning",
-      "authors": "Chih-Fan Hsu and Jing-Lun Huang and Feng-Hao Liu and Ming-Ching Chang and Wei-Chao Chen",
-      "venue": "2022 IEEE 5th international conference on multimedia information processing …, 2022",
-      "year": "2022",
-      "category": "Computer Vision & Machine Learning",
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:q3CdL3IzO_QC"
-    },
-    {
       "key": "MIPR:Welcome:Paper2022",
       "entry_type": "inproceedings",
       "title": "Welcome Message from MIPR 2022 Organization Committee",
@@ -1079,6 +1069,16 @@
       "year": "2022",
       "category": "Generative AI & Multimodal Learning",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tuHXwOkdijsC"
+    },
+    {
+      "key": "FedTrust:MIPR2022",
+      "entry_type": "inproceedings",
+      "title": "FedTrust: Towards Building Secure Robust and Trustworthy Moderators for Federated Learning",
+      "authors": "Chih-Fan Hsu and Jing-Lun Huang and Feng-Hao Liu and Ming-Ching Chang and Wei-Chao Chen",
+      "venue": "2022 IEEE 5th international conference on multimedia information processing …, 2022",
+      "year": "2022",
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:q3CdL3IzO_QC"
     },
     {
       "key": "FedDig:Robust:Paper2022",
@@ -1253,7 +1253,7 @@
     {
       "key": "DETRAC:CVIU2020",
       "entry_type": "article",
-      "title": "{UA-DETRAC}: A New Benchmark and Protocol for Multi-Object Detection and Tracking",
+      "title": "UA-DETRAC: A New Benchmark and Protocol for Multi-Object Detection and Tracking",
       "authors": "Longyin Wen and Dawei Du and Zhaowei Cai and Zhen Lei and Ming-Ching Chang and Honggang Qi and Jongwoo Lim and Ming-Hsuan Yang and Siwei Lyu",
       "venue": "Computer Vision and Image Understanding 193, 102907, 2020",
       "year": "2020",
@@ -1373,22 +1373,12 @@
     {
       "key": "3D:Activity:RN:AAAI2020",
       "entry_type": "inproceedings",
-      "title": "3{D} Single-Person Concurrent Activity Detection Using Stacked Relation Network",
+      "title": "3D Single-Person Concurrent Activity Detection Using Stacked Relation Network",
       "authors": "Yi Wei and Wenbo Li and Yanbo Fan and Linghan Xu and Ming-Ching Chang and Siwei Lyu",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (07), 12329 …, 2020",
       "year": "2020",
       "category": "Video Analytics, Tracking & Transportation",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:-_dYPAW6P2MC"
-    },
-    {
-      "key": "AICity:CVPRW2019",
-      "entry_type": "inproceedings",
-      "title": "{AI} {C}ity {C}hallenge 2019 -- {C}ity-Scale Video Analytics for Smart Transportation",
-      "authors": "Ming-Ching Chang and Jiayi Wei and Zheng-An Zhu and Yan-Ming Chen and Chan-Shuo Hu and Ming-Xiu Jiang and Chen-Kuo Chiang",
-      "venue": "CVPR workshops, 99-108, 2019",
-      "year": "2019",
-      "category": "Video Analytics, Tracking & Transportation",
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:NJ774b8OgUMC"
     },
     {
       "key": "WIP:abstract:ACM2019",
@@ -1403,7 +1393,7 @@
     {
       "key": "AICity:Org:CVPRW2019",
       "entry_type": "inproceedings",
-      "title": "The 2019 {AI City Challenge}",
+      "title": "The 2019 AI City Challenge",
       "authors": "Milind Naphade and Zheng Tang and Ming-Ching Chang and et al.",
       "venue": "CVPR workshops 8, 2, 2019",
       "year": "2019",
@@ -1471,6 +1461,16 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:evX43VCCuoAC"
     },
     {
+      "key": "AICity:CVPRW2019",
+      "entry_type": "inproceedings",
+      "title": "AI City Challenge 2019 -- City-Scale Video Analytics for Smart Transportation",
+      "authors": "Ming-Ching Chang and Jiayi Wei and Zheng-An Zhu and Yan-Ming Chen and Chan-Shuo Hu and Ming-Xiu Jiang and Chen-Kuo Chiang",
+      "venue": "CVPR workshops, 99-108, 2019",
+      "year": "2019",
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:NJ774b8OgUMC"
+    },
+    {
       "key": "Accelerating:neutron:arXiv2019",
       "entry_type": "inproceedings",
       "title": "Accelerating neutron scattering data collection and experiments using AI deep super-resolution learning",
@@ -1493,7 +1493,7 @@
     {
       "key": "AICity:CVML:CVPRW2018",
       "entry_type": "inproceedings",
-      "title": "Video Analytics in Smart Transportation for the {AIC}'18 Challenge",
+      "title": "Video Analytics in Smart Transportation for the AIC'18 Challenge",
       "authors": "Ming-Ching Chang and Yi Wei and Nenghui Song and Siwei Lyu",
       "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2018",
       "year": "2018",
@@ -1593,7 +1593,7 @@
     {
       "key": "Lyu:Chang:Du:etal:AVSS2017",
       "entry_type": "inproceedings",
-      "title": "{UA-DETRAC} 2017: Report of {AVSS}2017 \\& {IWT4S} Challenge on Advanced Traffic Monitoring",
+      "title": "UA-DETRAC 2017: Report of AVSS2017 \\& IWT4S Challenge on Advanced Traffic Monitoring",
       "authors": "Siwei Lyu and Ming-Ching Chang and Dawei Du and Longyin Wen and Honggang Qi and Yuezun Li and Yi Wei and Lipeng Ke and Tao Hu and Marco Del Coco and Pierluigi Carcagni and et al.",
       "venue": "2017 14th IEEE international conference on advanced video and signal based …, 2017",
       "year": "2017",
@@ -1613,7 +1613,7 @@
     {
       "key": "Yi:etal:SmartWorld2017",
       "entry_type": "inproceedings",
-      "title": "Street Object Detection / Tracking for {AI City} Traffic Analysis",
+      "title": "Street Object Detection / Tracking for AI City Traffic Analysis",
       "authors": "Yi Wei and Nenghui Song and Lipeng Ke and Ming-Ching Chang and Siwei Lyu",
       "venue": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced …, 2017",
       "year": "2017",
@@ -1703,7 +1703,7 @@
     {
       "key": "Wang:Ying:Chang:Lyu:CoPLSA:AAAI2016",
       "entry_type": "inproceedings",
-      "title": "Co-regularized {PLSA} For Multi-Modal Learning",
+      "title": "Co-regularized PLSA For Multi-Modal Learning",
       "authors": "Xin Wang and Yiming Ying and Ming-Ching Chang and Siwei Lyu",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 30 (1), 2016",
       "year": "2016",
@@ -1753,7 +1753,7 @@
     {
       "key": "Yang:Chang:Tu:Lyu:3DVideo:ICIP2015",
       "entry_type": "inproceedings",
-      "title": "Seeing as it Happens: Real time 3{D} Video Event Visualization",
+      "title": "Seeing as it Happens: Real time 3D Video Event Visualization",
       "authors": "Yueming Yang and Ming-Ching Chang and Peter Tu and Siwei Lyu",
       "venue": "2015 IEEE International Conference on Image Processing (ICIP), 2875-2879, 2015",
       "year": "2015",
@@ -1833,7 +1833,7 @@
     {
       "key": "Huang:Li:Li:Chang:etal:TransOnco2014",
       "entry_type": "article",
-      "title": "Variations of {D}ynamic {C}ontrast-{E}nhanced {M}agnetic {R}esonance {I}maging in Evaluation of Breast Cancer Therapy Response: A Multicenter Data Analysis Challenge",
+      "title": "Variations of Dynamic Contrast-Enhanced Magnetic Resonance Imaging in Evaluation of Breast Cancer Therapy Response: A Multicenter Data Analysis Challenge",
       "authors": "Wei Huang and Xin Li and Yiyi Chen and Xia Li and Ming-Ching Chang and Matthew J. Oborski and Dariya I. Malyarenko and Mark Muzi and Guido H. Jajamovich and Andriy Fedorov and Alina Tudorica and Sandeep N. Gupta and Charles M. Laymon and Kenneth I. Marro and Hadrien A. Dyvorne and James V. Miller and Daniel P. Barbodiak and Thomas L. Chenevert and Thomas E. Yankeelov and James M. Mountz and Paul E. Kinahan and Ron Kikinis and Bachir Taouli and Fiona Fennessy and Jayashree Kalpathy-Cramer",
       "venue": "Translational oncology 7 (1), 153-166, 2014",
       "year": "2014",
@@ -1883,7 +1883,7 @@
     {
       "key": "Mullick:Gupta:Shanbhag:Chang:etal:ISMRM2013",
       "entry_type": "inproceedings",
-      "title": "Spatial Information Based {DCE-MRI}\nData Reconstruction and Analysis using {PCA}",
+      "title": "Spatial Information Based DCE-MRI\nData Reconstruction and Analysis using PCA",
       "authors": "R. Mullick and S. Gupta and D. Shanbhag and M.-C. Chang and K. Rajamani and S. Joel",
       "venue": "ISMRM",
       "year": "2013",
@@ -1963,7 +1963,7 @@
     {
       "key": "Chang:Kimia:ShockMatch:CVIU11",
       "entry_type": "article",
-      "title": "Measuring 3{D} Shape Similarity by Graph-Based Matching of the Medial Scaffolds",
+      "title": "Measuring 3D Shape Similarity by Graph-Based Matching of the Medial Scaffolds",
       "authors": "Ming-Ching Chang and Benjamin B. Kimia",
       "venue": "Computer Vision and Image Understanding 115 (5), 707-720, 2011",
       "year": "2011",
@@ -1983,7 +1983,7 @@
     {
       "key": "Zhu:Chang:AIFProstate:ISMRM11",
       "entry_type": "inproceedings",
-      "title": "Automatic Arterial Input Function Detection for Prostate Dynamic Contrast Enhanced {MRI}",
+      "title": "Automatic Arterial Input Function Detection for Prostate Dynamic Contrast Enhanced MRI",
       "authors": "Yingxuan Zhu and Ming-Ching Chang and Fiona M. Fennessy and Sandeep N. Gupta",
       "venue": "ISMRM",
       "year": "2011",
@@ -1993,7 +1993,7 @@
     {
       "key": "Zhu:Chang:Gupta:SPIE11",
       "entry_type": "inproceedings",
-      "title": "Automated Determination of Arterial Input Function for {DCE-MRI} of the Prostate",
+      "title": "Automated Determination of Arterial Input Function for DCE-MRI of the Prostate",
       "authors": "Yingxuan Zhu and Ming-Ching Chang and Sandeep N. Gupta",
       "venue": "Medical Imaging 2011: Computer-Aided Diagnosis 7963, 266-273, 2011",
       "year": "2011",
@@ -2043,7 +2043,7 @@
     {
       "key": "Leymarie:Chang:etal:VCBM10",
       "entry_type": "inproceedings",
-      "title": "A General Approach to Model Biomedical Data from 3{D} Unorganised Point Clouds with Medial Scaffolds",
+      "title": "A General Approach to Model Biomedical Data from 3D Unorganised Point Clouds with Medial Scaffolds",
       "authors": "Frederic F. Leymarie and Ming-Ching Chang and Celina Imielinska and Benjamin B. Kimia",
       "venue": "Eurographics Workshop on Visual Computing for Biology and Medicine (VCBM)",
       "year": "2010",
@@ -2073,7 +2073,7 @@
     {
       "key": "Chang:Kimia:3DIM09",
       "entry_type": "inproceedings",
-      "title": "Measuring {3D} Shape Similarity by Matching the Medial Scaffolds",
+      "title": "Measuring 3D Shape Similarity by Matching the Medial Scaffolds",
       "authors": "Ming-Ching Chang and Benjamin B. Kimia",
       "venue": "2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV …, 2009",
       "year": "2009",
@@ -2083,7 +2083,7 @@
     {
       "key": "Chang:PhD:2008",
       "entry_type": "phdthesis",
-      "title": "The Medial Scaffold for {3D} Shape Modeling and Recognition",
+      "title": "The Medial Scaffold for 3D Shape Modeling and Recognition",
       "authors": "Ming-Ching Chang",
       "venue": "PhD thesis, 2008",
       "year": "2008",
@@ -2093,7 +2093,7 @@
     {
       "key": "Chang:Kimia:CVPR08",
       "entry_type": "inproceedings",
-      "title": "Regularizing 3{D} Medial Axis Using Medial Scaffold Transforms",
+      "title": "Regularizing 3D Medial Axis Using Medial Scaffold Transforms",
       "authors": "Ming-Ching Chang and Benjamin B. Kimia",
       "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8, 2008",
       "year": "2008",
@@ -2113,7 +2113,7 @@
     {
       "key": "Chang:etal:3DPVT04",
       "entry_type": "inproceedings",
-      "title": "3{D} Shape Registration using Regularized Medial Scaffolds",
+      "title": "3D Shape Registration using Regularized Medial Scaffolds",
       "authors": "Ming-Ching Chang and F. Leymarie and B. Kimia",
       "venue": "Proceedings. 2nd International Symposium on 3D Data Processing …, 2004",
       "year": "2004",
@@ -2133,7 +2133,7 @@
     {
       "key": "chang:etal:mva98",
       "entry_type": "inproceedings",
-      "title": "Fast Search Algorithms for {IC} Printed Mark Quality Inspection",
+      "title": "Fast Search Algorithms for IC Printed Mark Quality Inspection",
       "authors": "Ming-Ching Chang and Hsien-Yei Chen and and Chiou-Shann Fuh",
       "venue": "National Taiwan University Taipei, Taiwan, 1998",
       "year": "1998",
@@ -2143,7 +2143,7 @@
     {
       "key": "chang:etal:cvgip97",
       "entry_type": "inproceedings",
-      "title": "{IC} Printed Mark Quality Inspection Algorithms",
+      "title": "IC Printed Mark Quality Inspection Algorithms",
       "authors": "Ming-Ching Chang and Hsien-Yei Chen and and Chiou-Shann Fuh",
       "venue": "Proc. Conf. Computer Vision, Graphics, Image Processing, Taichung, Taiwan …, 1997",
       "year": "1997",
