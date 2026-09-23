@@ -16,7 +16,7 @@
       {% assign year_paper_count = year_paper_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  <details class="pub-topic" id="scholar-year-{{ item.year }}">
+  <details class="pub-topic" id="scholar-year-{{ item.year }}" open>
     <summary class="pub-topic__toggle">
       <span>{{ item.year }}</span>
       <span class="pub-topic__count">{{ year_paper_count }} paper{% if year_paper_count != 1 %}s{% endif %}</span>
