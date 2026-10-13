@@ -274,6 +274,10 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   gap: 2px;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
+.stats-row a.stat-tile {
+  color: inherit;
+  text-decoration: none;
+}
 .stat-tile:hover { transform: translateY(-3px); box-shadow: var(--card-shadow-hover); }
 .stat-tile__value {
   font-size: 1.9rem;

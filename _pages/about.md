@@ -52,6 +52,8 @@ I lead research spanning intelligent video understanding, visual perception, and
 
 {% include scholar-pub-groups.html %}
 
+<span class='anchor' id='browse-by-year'></span>
+
 ## Browse by year
 
 {% include legacy-pub-years.html %}
