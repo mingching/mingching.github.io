@@ -13,7 +13,6 @@ redirect_from:
 <div class="hero">
   <span class="hero__blob hero__blob--1" aria-hidden="true"></span>
   <span class="hero__blob hero__blob--2" aria-hidden="true"></span>
-  <p class="hero__greet">Welcome</p>
   <h1 class="hero__name">Dr. Ming-Ching Chang</h1>
 
   <div class="hero__intro" markdown="1">
