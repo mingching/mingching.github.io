@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 22 * * *' # 改為 UTC 22:00 (台灣時間早上6點) 執行
 
+# The workflow commits the refreshed public citation JSON back to this repo.
+permissions:
+  contents: write
+
 jobs:
   update-scholar:
     runs-on: ubuntu-latest
