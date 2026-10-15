@@ -1,0 +1,603 @@
+{
+  "search_metadata": {
+    "id": "6ad140e9dd17b1468e8d29db",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gqTfY23wtyt_S8rLlnzBdvp3A1MKFm2pepOvpSBe8Gw/6ad140e9dd17b1468e8d29db.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gqTfY23wtyt_S8rLlnzBdvp3A1MKFm2pepOvpSBe8Gw/6ad140e9dd17b1468e8d29db.md",
+    "created_at": "2026-10-15 21:08:57 UTC",
+    "processed_at": "2026-10-15 21:08:57 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
+    "raw_html_file": "https://serpapi.com/searches/gqTfY23wtyt_S8rLlnzBdvp3A1MKFm2pepOvpSBe8Gw/6ad140e9dd17b1468e8d29db.html",
+    "total_time_taken": 5.79
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "a3-Gl8YAAAAJ",
+    "hl": "en",
+    "view_op": "list_works"
+  },
+  "author": {
+    "name": "Ming-Ching Chang 張明清",
+    "affiliations": "University at Albany - SUNY",
+    "email": "Verified email at albany.edu",
+    "website": "https://www.albany.edu/faculty/mchang2/",
+    "interests": [
+      {
+        "title": "Computer Vision",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+      },
+      {
+        "title": "Video Processing",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:video_processing",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avideo_processing"
+      },
+      {
+        "title": "Artificial Intelligence",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=a3-Gl8YAAAAJ&citpid=5"
+  },
+  "articles": [
+    {
+      "title": "In ictu oculi: Exposing ai created fake videos by detecting eye blinking",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:Mojj43d5GZwC",
+      "citation_id": "a3-Gl8YAAAAJ:Mojj43d5GZwC",
+      "authors": "Y Li, MC Chang, S Lyu",
+      "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
+      "cited_by": {
+        "value": 1868,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
+        "cites_id": "5901795261562998355"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "The visual object tracking vot2015 challenge results",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:LPZeul_q3PIC",
+      "citation_id": "a3-Gl8YAAAAJ:LPZeul_q3PIC",
+      "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
+      "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
+      "cited_by": {
+        "value": 1751,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
+        "cites_id": "5030672482439802527"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "UA-DETRAC: A new benchmark and protocol for multi-object detection and tracking",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:dfsIfKJdRG4C",
+      "citation_id": "a3-Gl8YAAAAJ:dfsIfKJdRG4C",
+      "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
+      "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
+      "cited_by": {
+        "value": 1048,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
+        "cites_id": "17969166342545636460"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Multi-scale structure-aware network for human pose estimation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:olpn-zPbct0C",
+      "citation_id": "a3-Gl8YAAAAJ:olpn-zPbct0C",
+      "authors": "L Ke, MC Chang, H Qi, S Lyu",
+      "publication": "European Conference on Computer Vision, 731-746, 2018",
+      "cited_by": {
+        "value": 424,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1806551976928360372",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1806551976928360372&engine=google_scholar&hl=en",
+        "cites_id": "1806551976928360372"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "The 7th ai city challenge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:z_wVstp3MssC",
+      "citation_id": "a3-Gl8YAAAAJ:z_wVstp3MssC",
+      "authors": "M Naphade, S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, ...",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2023",
+      "cited_by": {
+        "value": 364,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8514837401369599104,13362556837794583216",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8514837401369599104%2C13362556837794583216&engine=google_scholar&hl=en",
+        "cites_id": "8514837401369599104,13362556837794583216"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Smiletrack: Similarity learning for occlusion-aware multiple object tracking",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:OTTXONDVkokC",
+      "citation_id": "a3-Gl8YAAAAJ:OTTXONDVkokC",
+      "authors": "YH Wang, JW Hsieh, PY Chen, MC Chang, HH So, X Li",
+      "publication": "Proceedings of the AAAI conference on artificial intelligence 38 (6), 5740-5748, 2024",
+      "cited_by": {
+        "value": 204,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1676622857584811586",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1676622857584811586&engine=google_scholar&hl=en",
+        "cites_id": "1676622857584811586"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "The thermal infrared visual object tracking VOT-TIR2015 challenge results",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:eMMeJKvmdy0C",
+      "citation_id": "a3-Gl8YAAAAJ:eMMeJKvmdy0C",
+      "authors": "M Felsberg, A Berg, G Hager, J Ahlberg, M Kristan, J Matas, A Leonardis, ...",
+      "publication": "Proceedings of the ieee international conference on computer vision …, 2015",
+      "cited_by": {
+        "value": 199,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4263847520949387597",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4263847520949387597&engine=google_scholar&hl=en",
+        "cites_id": "4263847520949387597"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:q3oQSFYPqjQC",
+      "citation_id": "a3-Gl8YAAAAJ:q3oQSFYPqjQC",
+      "authors": "W Huang, X Li, Y Chen, X Li, MC Chang, MJ Oborski, DI Malyarenko, ...",
+      "publication": "Translational oncology 7 (1), 153-166, 2014",
+      "cited_by": {
+        "value": 192,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16543770493271082768",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16543770493271082768&engine=google_scholar&hl=en",
+        "cites_id": "16543770493271082768"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "UA-DETRAC 2017: Report of AVSS2017 & IWT4S challenge on advanced traffic monitoring",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:BrmTIyaxlBUC",
+      "citation_id": "a3-Gl8YAAAAJ:BrmTIyaxlBUC",
+      "authors": "S Lyu, MC Chang, D Du, L Wen, H Qi, Y Li, Y Wei, L Ke, T Hu, M Del Coco, ...",
+      "publication": "2017 14th IEEE international conference on advanced video and signal based …, 2017",
+      "cited_by": {
+        "value": 171,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16203242037090216519",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16203242037090216519&engine=google_scholar&hl=en",
+        "cites_id": "16203242037090216519"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Parallel residual bi-fusion feature pyramid network for accurate single-shot object detection",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:AvfA0Oy_GE0C",
+      "citation_id": "a3-Gl8YAAAAJ:AvfA0Oy_GE0C",
+      "authors": "PY Chen, MC Chang, JW Hsieh, YS Chen",
+      "publication": "IEEE transactions on Image Processing 30, 9099-9111, 2021",
+      "cited_by": {
+        "value": 167,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6300912631097634278",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6300912631097634278&engine=google_scholar&hl=en",
+        "cites_id": "6300912631097634278"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Gan-generated faces detection: A survey and new perspectives",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:kuK5TVdYjLIC",
+      "citation_id": "a3-Gl8YAAAAJ:kuK5TVdYjLIC",
+      "authors": "X Wang, H Guo, S Hu, MC Chang, S Lyu",
+      "publication": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
+      "cited_by": {
+        "value": 163,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=361822992601821542",
+        "serpapi_link": "https://serpapi.com/search.json?cites=361822992601821542&engine=google_scholar&hl=en",
+        "cites_id": "361822992601821542"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Spatio-temporal phrases for activity recognition",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:8k81kl-MbHgC",
+      "citation_id": "a3-Gl8YAAAAJ:8k81kl-MbHgC",
+      "authors": "Y Zhang, X Liu, MC Chang, W Ge, T Chen",
+      "publication": "European Conference on Computer Vision, 707-721, 2012",
+      "cited_by": {
+        "value": 163,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12806578858985845952",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12806578858985845952&engine=google_scholar&hl=en",
+        "cites_id": "12806578858985845952"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Eyes tell all: Irregular pupil shapes reveal gan-generated faces",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:4MWp96NkSFoC",
+      "citation_id": "a3-Gl8YAAAAJ:4MWp96NkSFoC",
+      "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
+      "publication": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …, 2022",
+      "cited_by": {
+        "value": 156,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=807434030695780708",
+        "serpapi_link": "https://serpapi.com/search.json?cites=807434030695780708&engine=google_scholar&hl=en",
+        "cites_id": "807434030695780708"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Adaptive RNN tree for large-scale human action recognition",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:5Ul4iDaHHb8C",
+      "citation_id": "a3-Gl8YAAAAJ:5Ul4iDaHHb8C",
+      "authors": "W Li, L Wen, MC Chang, S Nam Lim, S Lyu",
+      "publication": "Proceedings of the IEEE international conference on computer vision, 1444-1452, 2017",
+      "cited_by": {
+        "value": 154,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11345588149848693105",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11345588149848693105&engine=google_scholar&hl=en",
+        "cites_id": "11345588149848693105"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Robust adversarial perturbation on deep proposal-based models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:ipzZ9siozwsC",
+      "citation_id": "a3-Gl8YAAAAJ:ipzZ9siozwsC",
+      "authors": "Y Li, D Tian, MC Chang, X Bian, S Lyu",
+      "publication": "arXiv preprint arXiv:1809.05962, 2018",
+      "cited_by": {
+        "value": 153,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12556617050203552423",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12556617050203552423&engine=google_scholar&hl=en",
+        "cites_id": "12556617050203552423"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "The 2019 AI city challenge.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:kzcrU_BdoSEC",
+      "citation_id": "a3-Gl8YAAAAJ:kzcrU_BdoSEC",
+      "authors": "M Naphade, Z Tang, MC Chang, DC Anastasiu, A Sharma, R Chellappa, ...",
+      "publication": "CVPR workshops 8, 2, 2019",
+      "cited_by": {
+        "value": 114,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1727626132513478215",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1727626132513478215&engine=google_scholar&hl=en",
+        "cites_id": "1727626132513478215"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "The 8th ai city challenge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:cWzG1nlazyYC",
+      "citation_id": "a3-Gl8YAAAAJ:cWzG1nlazyYC",
+      "authors": "S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, MS Rahman, ...",
+      "publication": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
+      "cited_by": {
+        "value": 101,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11141166804242901158",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11141166804242901158&engine=google_scholar&hl=en",
+        "cites_id": "11141166804242901158"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "The 2018 nvidia ai city challenge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:WA5NYHcadZ8C",
+      "citation_id": "a3-Gl8YAAAAJ:WA5NYHcadZ8C",
+      "authors": "M Naphade, MC Chang, A Sharma, DC Anastasiu, V Jagarlamudi, ...",
+      "publication": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2018",
+      "cited_by": {
+        "value": 98,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13999009441487394422",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13999009441487394422&engine=google_scholar&hl=en",
+        "cites_id": "13999009441487394422"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Probabilistic group-level motion analysis and scenario recognition",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:WF5omc3nYNoC",
+      "citation_id": "a3-Gl8YAAAAJ:WF5omc3nYNoC",
+      "authors": "MC Chang, N Krahnstoever, W Ge",
+      "publication": "2011 International Conference on Computer Vision, 747-754, 2011",
+      "cited_by": {
+        "value": 97,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15815205454512619251",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15815205454512619251&engine=google_scholar&hl=en",
+        "cites_id": "15815205454512619251"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Fisheye8k: A benchmark and dataset for fisheye camera object detection",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:GtLg2Ama23sC",
+      "citation_id": "a3-Gl8YAAAAJ:GtLg2Ama23sC",
+      "authors": "M Gochoo, ME Otgonbold, E Ganbold, JW Hsieh, MC Chang, PY Chen, ...",
+      "publication": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
+      "cited_by": {
+        "value": 92,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1355219847762051733",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1355219847762051733&engine=google_scholar&hl=en",
+        "cites_id": "1355219847762051733"
+      },
+      "year": "2023"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 10121,
+          "since_2021": 7066
+        }
+      },
+      {
+        "h_index": {
+          "all": 36,
+          "since_2021": 31
+        }
+      },
+      {
+        "i10_index": {
+          "all": 99,
+          "since_2021": 82
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2011,
+        "citations": 30
+      },
+      {
+        "year": 2012,
+        "citations": 35
+      },
+      {
+        "year": 2013,
+        "citations": 72
+      },
+      {
+        "year": 2014,
+        "citations": 85
+      },
+      {
+        "year": 2015,
+        "citations": 119
+      },
+      {
+        "year": 2016,
+        "citations": 255
+      },
+      {
+        "year": 2017,
+        "citations": 327
+      },
+      {
+        "year": 2018,
+        "citations": 456
+      },
+      {
+        "year": 2019,
+        "citations": 700
+      },
+      {
+        "year": 2020,
+        "citations": 807
+      },
+      {
+        "year": 2021,
+        "citations": 963
+      },
+      {
+        "year": 2022,
+        "citations": 991
+      },
+      {
+        "year": 2023,
+        "citations": 1132
+      },
+      {
+        "year": 2024,
+        "citations": 1294
+      },
+      {
+        "year": 2025,
+        "citations": 1496
+      },
+      {
+        "year": 2026,
+        "citations": 1177
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=a3-Gl8YAAAAJ",
+    "available": 57,
+    "not_available": 0
+  },
+  "co_authors": [
+    {
+      "name": "Siwei Lyu (呂思偉)",
+      "link": "https://scholar.google.com/citations?user=wefAEM4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=wefAEM4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "wefAEM4AAAAJ",
+      "affiliations": "SUNY Distinguished Professor, University at Buffalo",
+      "email": "Verified email at buffalo.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wefAEM4AAAAJ&citpid=8"
+    },
+    {
+      "name": "Jun-Wei Hsieh",
+      "link": "https://scholar.google.com/citations?user=mXUOEzwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=mXUOEzwAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "mXUOEzwAAAAJ",
+      "affiliations": "National Yang Ming Chiao Tung University",
+      "email": "Verified email at nctu.edu.tw",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Wei-Chao Chen",
+      "link": "https://scholar.google.com/citations?user=bndb0gYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=bndb0gYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "bndb0gYAAAAJ",
+      "affiliations": "Vice President & Senior Expert at ITRI",
+      "email": "Verified email at itri.org.tw",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bndb0gYAAAAJ&citpid=4"
+    },
+    {
+      "name": "Longyin Wen",
+      "link": "https://scholar.google.com/citations?user=PO9WFl0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=PO9WFl0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "PO9WFl0AAAAJ",
+      "affiliations": "Bytedance Inc.",
+      "email": "Verified email at bytedance.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PO9WFl0AAAAJ&citpid=1"
+    },
+    {
+      "name": "Yuezun Li",
+      "link": "https://scholar.google.com/citations?user=v0Qt7BAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=v0Qt7BAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "v0Qt7BAAAAAJ",
+      "affiliations": "Associate Professor, Ocean University of China",
+      "email": "Verified email at ouc.edu.cn",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v0Qt7BAAAAAJ&citpid=10"
+    },
+    {
+      "name": "Xin Wang",
+      "link": "https://scholar.google.com/citations?user=jUWx8fcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jUWx8fcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jUWx8fcAAAAJ",
+      "affiliations": "Assistant Professor, CIHS | AI Plus Institute, University at Albany SUNY",
+      "email": "Verified email at albany.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUWx8fcAAAAJ&citpid=4"
+    },
+    {
+      "name": "Ping-Yang Chen",
+      "link": "https://scholar.google.com/citations?user=cGHFHm0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=cGHFHm0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "cGHFHm0AAAAJ",
+      "affiliations": "National Yang Ming Chiao Tung University",
+      "email": "Verified email at nctu.edu.tw",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cGHFHm0AAAAJ&citpid=1"
+    },
+    {
+      "name": "Shu Hu (胡暑)",
+      "link": "https://scholar.google.com/citations?user=q4qu28QAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=q4qu28QAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "q4qu28QAAAAJ",
+      "affiliations": "Assistant Professor, Purdue University",
+      "email": "Verified email at purdue.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=q4qu28QAAAAJ&citpid=9"
+    },
+    {
+      "name": "Chih-Fan Hsu",
+      "link": "https://scholar.google.com/citations?user=78mpZq4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=78mpZq4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "78mpZq4AAAAJ",
+      "affiliations": "Industrial Technology Research Institute",
+      "email": "Verified email at itri.org.tw",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=78mpZq4AAAAJ&citpid=2"
+    },
+    {
+      "name": "Xin Li",
+      "link": "https://scholar.google.com/citations?user=gMBvzGoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=gMBvzGoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "gMBvzGoAAAAJ",
+      "affiliations": "University at Albany, IEEE Fellow, AAIA Fellow",
+      "email": "Verified email at albany.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gMBvzGoAAAAJ&citpid=4"
+    },
+    {
+      "name": "David C. Anastasiu",
+      "link": "https://scholar.google.com/citations?user=N9Lu6j8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=N9Lu6j8AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "N9Lu6j8AAAAJ",
+      "affiliations": "Santa Clara University, Santa Clara, CA",
+      "email": "Verified email at scu.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=N9Lu6j8AAAAJ&citpid=4"
+    },
+    {
+      "name": "Anuj Sharma",
+      "link": "https://scholar.google.com/citations?user=xnMScfIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=xnMScfIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "xnMScfIAAAAJ",
+      "affiliations": "Iowa State University",
+      "email": "Verified email at iastate.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xnMScfIAAAAJ&citpid=1"
+    },
+    {
+      "name": "Lipeng Ke",
+      "link": "https://scholar.google.com/citations?user=qzlM2bMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=qzlM2bMAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "qzlM2bMAAAAJ",
+      "affiliations": "Amazon Lab126",
+      "email": "Verified email at buffalo.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qzlM2bMAAAAJ&citpid=6"
+    },
+    {
+      "name": "Rama Chellappa",
+      "link": "https://scholar.google.com/citations?user=L60tuywAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=L60tuywAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "L60tuywAAAAJ",
+      "affiliations": "Bloomberg Distinguished Professor, Johns Hopkins University",
+      "email": "Verified email at jhu.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=L60tuywAAAAJ&citpid=1"
+    },
+    {
+      "name": "Pranamesh Chakraborty",
+      "link": "https://scholar.google.com/citations?user=NimM6-gAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=NimM6-gAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "NimM6-gAAAAJ",
+      "affiliations": "Assistant Professor, IIT Kanpur",
+      "email": "Verified email at iitk.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NimM6-gAAAAJ&citpid=6"
+    },
+    {
+      "name": "Yi Wei",
+      "link": "https://scholar.google.com/citations?user=8iSmJXoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=8iSmJXoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "8iSmJXoAAAAJ",
+      "affiliations": "Samsung Research America",
+      "email": "Verified email at samsung.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8iSmJXoAAAAJ&citpid=1"
+    },
+    {
+      "name": "Milind Naphade",
+      "link": "https://scholar.google.com/citations?user=aZ-O-f4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=aZ-O-f4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "aZ-O-f4AAAAJ",
+      "affiliations": "Senior Vice President, Capital One AI Foundations",
+      "email": "Verified email at capitalone.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aZ-O-f4AAAAJ&citpid=2"
+    },
+    {
+      "name": "Hui Guo",
+      "link": "https://scholar.google.com/citations?user=DYr_L1oAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=DYr_L1oAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "DYr_L1oAAAAJ",
+      "affiliations": "Visiting Assistant Professor, University at Albany, SUNY",
+      "email": "Verified email at albany.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DYr_L1oAAAAJ&citpid=3"
+    },
+    {
+      "name": "Zhen Lei（雷震）",
+      "link": "https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=cuJ3QG8AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "cuJ3QG8AAAAJ",
+      "affiliations": "Professor, IEEE Fellow, IAPR Fellow, Institute of Automation, Chinese Academy of Sciences",
+      "email": "Verified email at ia.ac.cn",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cuJ3QG8AAAAJ&citpid=3"
+    },
+    {
+      "name": "Dawei Du",
+      "link": "https://scholar.google.com/citations?user=PylnA-0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=PylnA-0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "PylnA-0AAAAJ",
+      "affiliations": "Research Scientist at ByteDance, Inc.",
+      "email": "Verified email at bytedance.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PylnA-0AAAAJ&citpid=3"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=a3-Gl8YAAAAJ&engine=google_scholar_author&hl=en&start=20&view_op=list_works"
+  }
+}
