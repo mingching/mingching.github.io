@@ -56,3 +56,18 @@ I lead research spanning intelligent video understanding, visual perception, and
 ## Browse by year
 
 {% include legacy-pub-years.html %}
+
+<span class='anchor' id='global-reach'></span>
+
+# 🌍 Global Reach
+
+<div class="global-reach" markdown="1">
+  <div class="global-reach__intro">
+    <p class="global-reach__eyebrow">LIVE VISITOR COUNTER</p>
+    <h2>Where visitors come from</h2>
+    <p>Country-level visits to this website. Select the counter to view its public geographic summary.</p>
+  </div>
+  <a class="global-reach__counter" href="https://info.flagcounter.com/5V0F" target="_blank" rel="noopener" aria-label="View public geographic visitor summary from Flag Counter">
+    <img src="https://s05.flagcounter.com/count2/5V0F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Visitor countries and total visits" loading="lazy">
+  </a>
+</div>
