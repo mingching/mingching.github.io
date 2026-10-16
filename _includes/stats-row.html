@@ -3,7 +3,7 @@
     <span class="stat-tile__value js-count js-cit-count" data-count="{{ site.data.scholar_stats.citations }}">0</span>
     <span class="stat-tile__label">Total citations</span>
   </a>
-  <a class="stat-tile" href="#browse-by-year" aria-label="Browse complete paper publication records by year">
+  <a class="stat-tile js-publications-tile" href="#browse-by-year" aria-label="Browse complete paper publication records by year" data-publication-year-counts='{{ site.data.publication_year_counts | jsonify }}'>
     <span class="stat-tile__value js-count" data-count="{{ site.data.publication_stats.paper_publications }}">0</span>
     <span class="stat-tile__label">Paper publications</span>
   </a>

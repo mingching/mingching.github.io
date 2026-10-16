@@ -114,6 +114,8 @@
     renderCitationSpark(data.graph || []);
   });
 
+  renderPublicationBars();
+
   /* ---------- Per-paper "Cited by N" chips ---------- */
   function normTitle(s) {
     return (s || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
@@ -195,6 +197,69 @@
     dot.setAttribute("r", "2.5");
     dot.setAttribute("class", "spark-dot");
     svg.appendChild(dot);
+    wrap.appendChild(svg);
+    tile.appendChild(wrap);
+  }
+
+  /* ---------- Publication count bar chart (in the Paper publications tile) ---------- */
+  function renderPublicationBars() {
+    var tile = document.querySelector(".stats-row .js-publications-tile");
+    if (!tile || tile.querySelector(".stat-tile__publication-trend")) return;
+    var raw = tile.getAttribute("data-publication-year-counts");
+    if (!raw) return;
+    var counts;
+    try {
+      counts = JSON.parse(raw);
+    } catch (e) {
+      return;
+    }
+    if (!Array.isArray(counts) || counts.length < 2) return;
+    var pts = counts
+      .filter(function (p) {
+        return p && isFinite(Number(p.year)) && isFinite(Number(p.count));
+      })
+      .sort(function (a, b) { return Number(a.year) - Number(b.year); })
+      .slice(-12);
+    if (pts.length < 2) return;
+
+    var w = Math.max(tile.clientWidth - 32, 80);
+    var h = 30;
+    var max = Math.max.apply(null, pts.map(function (p) { return Number(p.count); }));
+    if (max < 1) return;
+    var gap = Math.max(1.5, Math.min(3, w / (pts.length * 6)));
+    var barW = Math.max(2, (w - gap * (pts.length - 1)) / pts.length);
+    var svgns = "http://www.w3.org/2000/svg";
+    var wrap = document.createElement("span");
+    wrap.className = "stat-tile__trend stat-tile__publication-trend";
+    wrap.title = "Paper publications by year (" + pts[0].year + "–" + pts[pts.length - 1].year + ")";
+    var svg = document.createElementNS(svgns, "svg");
+    svg.setAttribute("width", w);
+    svg.setAttribute("height", h);
+    svg.setAttribute("viewBox", "0 0 " + w + " " + h);
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", wrap.title);
+    var baseline = document.createElementNS(svgns, "line");
+    baseline.setAttribute("x1", "0");
+    baseline.setAttribute("y1", String(h - 1));
+    baseline.setAttribute("x2", String(w));
+    baseline.setAttribute("y2", String(h - 1));
+    baseline.setAttribute("class", "publication-bars__baseline");
+    svg.appendChild(baseline);
+    pts.forEach(function (p, i) {
+      var count = Number(p.count);
+      var barH = Math.max(2, (count / max) * (h - 5));
+      var bar = document.createElementNS(svgns, "rect");
+      bar.setAttribute("x", (i * (barW + gap)).toFixed(1));
+      bar.setAttribute("y", (h - 1 - barH).toFixed(1));
+      bar.setAttribute("width", barW.toFixed(1));
+      bar.setAttribute("height", barH.toFixed(1));
+      bar.setAttribute("rx", "1.2");
+      bar.setAttribute("class", "publication-bars__bar" + (i === pts.length - 1 ? " publication-bars__bar--latest" : ""));
+      var title = document.createElementNS(svgns, "title");
+      title.textContent = p.year + ": " + count + (count === 1 ? " paper" : " papers");
+      bar.appendChild(title);
+      svg.appendChild(bar);
+    });
     wrap.appendChild(svg);
     tile.appendChild(wrap);
   }

@@ -308,6 +308,18 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   opacity: 1;
 }
 .spark-dot { fill: var(--accent); }
+.publication-bars__baseline {
+  stroke: var(--border);
+  stroke-width: 1;
+}
+.publication-bars__bar {
+  fill: var(--ink-3);
+  opacity: 0.55;
+}
+.publication-bars__bar--latest {
+  fill: var(--accent);
+  opacity: 1;
+}
 
 /* ---------- 7. Chips & pill buttons ---------- */
 
