@@ -1,0 +1,22 @@
+{% assign journal_publications = site.data.bib_publications.publications | where: "entry_type", "article" %}
+{% assign journal_count = journal_publications | size %}
+<details class="pub-topic" open>
+  <summary class="pub-topic__toggle">
+    <span>Journal Publications</span>
+    <span class="pub-topic__count">{{ journal_count }} papers</span>
+  </summary>
+  <div class="pub-topic__scroll">
+    <ol class="scholar-pub-list scholar-pub-list--year">
+      {% for publication in journal_publications %}
+        <li class="journal-publication-item">
+          {% if publication.scholar_url %}
+            <a href="{{ publication.scholar_url }}" target="_blank" rel="noopener">{{ publication.title }}</a>
+          {% else %}
+            <strong>{{ publication.title }}</strong>
+          {% endif %}
+          <span class="scholar-pub-meta">{{ publication.authors }}. {{ publication.venue }}{% if publication.year %} ({{ publication.year }}){% endif %}.</span>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</details>

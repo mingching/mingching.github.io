@@ -113,6 +113,7 @@ def main():
     publications.sort(key=lambda item: (int(item["year"]) if item["year"].isdigit() else 0, item["title"].lower()), reverse=True)
     paper_records = [item for item in publications if item["category"] != "Patents & Technology Transfer" and item["entry_type"] != "patent"]
     patent_records = [item for item in publications if item["category"] == "Patents & Technology Transfer" or item["entry_type"] == "patent"]
+    journal_records = [item for item in paper_records if item["entry_type"] == "article"]
     annual = parse_annual(metadata["annual_totals"])
     expected_papers = int(metadata["paper_total"])
     expected_patents = int(metadata["patent_total"])
@@ -122,7 +123,12 @@ def main():
         raise ValueError(f"Expected {expected_patents} patents, found {len(patent_records)}")
 
     catalog = {"publications": publications, "source": "data/chang.bib"}
-    stats = {"paper_publications": expected_papers, "patents": expected_patents, "source_note": metadata.get("note", "")}
+    stats = {
+        "paper_publications": expected_papers,
+        "journal_publications": len(journal_records),
+        "patents": expected_patents,
+        "source_note": metadata.get("note", ""),
+    }
     outputs = {
         args.output_dir / "bib_publications.json": json.dumps(catalog, indent=2, ensure_ascii=False) + "\n",
         args.output_dir / "publication_year_counts.yml": "\n".join(f"- {{ year: {item['year']}, count: {item['count']} }}" for item in annual) + "\n",
