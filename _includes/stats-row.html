@@ -7,7 +7,7 @@
     <span class="stat-tile__value js-count" data-count="{{ site.data.publication_stats.paper_publications }}">0</span>
     <span class="stat-tile__label">Paper publications</span>
   </a>
-  <a class="stat-tile" href="#journal-publications" aria-label="Browse journal publications">
+  <a class="stat-tile js-journals-tile" href="#journal-publications" aria-label="Browse journal publications" data-journal-year-counts='{{ site.data.journal_publication_year_counts | jsonify }}'>
     <span class="stat-tile__value js-count" data-count="{{ site.data.publication_stats.journal_publications }}">0</span>
     <span class="stat-tile__label">Journal publications</span>
   </a>

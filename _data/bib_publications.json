@@ -31,6 +31,16 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:owLR8QvbtFgC"
     },
     {
+      "key": "SMART:Retrieval:TMM2026",
+      "entry_type": "article",
+      "title": "SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM",
+      "authors": "A Yu, W Lu, J Li, Z Zhang, Y Shen, F Ye, MC Chang",
+      "venue": "IEEE Transactions on Multimedia, 2026",
+      "year": "2026",
+      "category": "Generative AI & Multimodal Learning",
+      "scholar_url": ""
+    },
+    {
       "key": "SILVA-Mamba:Spatial:ICIP2026",
       "entry_type": "inproceedings",
       "title": "SILVA-Mamba: Spatial Integrity for Landslide Segmentation via Vectorized Hilbert Scanning and Adaptive Mamba",
@@ -141,6 +151,16 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:gKiMpY-AVTkC"
     },
     {
+      "key": "Underwater:Enhancement:TCI2025",
+      "entry_type": "article",
+      "title": "Underwater Image Enhancement and Attenuation Restoration Based on Depth and Backscatter Estimation",
+      "authors": "YZ Hsieh, MC Chang",
+      "venue": "IEEE Transactions on Computational Imaging, 2025",
+      "year": "2025",
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": ""
+    },
+    {
       "key": "Training:free:AAAI2025",
       "entry_type": "inproceedings",
       "title": "Training-free image manipulation localization using diffusion models",
@@ -242,7 +262,7 @@
     },
     {
       "key": "FHEW:Optimizing:Paper2025",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Optimizing Encrypted Neural Networks: Model Design, Quantization and Fine-Tuning Using FHEW/TFHE",
       "authors": "YT Ku, FH Liu, CF Hsu, MC Chang, SH Hung, IP Tu, WC Chen",
       "venue": "Proceedings on Privacy Enhancing Technologies, 2025",
@@ -352,7 +372,7 @@
     },
     {
       "key": "Generative:Kolmogorov:Paper2025",
-      "entry_type": "article",
+      "entry_type": "inproceedings",
       "title": "Generative Kolmogorov-Arnold Network Architecture for Enhanced Quantative Small Angle Neutron Scattering Data Analysis",
       "authors": "CH Tung, WR Chen, C Do, L Ding, JMY Carrillo, BG Sumpter, MC Chang",
       "venue": "APS Global Physics Summit 2025, 2025",
@@ -612,7 +632,7 @@
     },
     {
       "key": "Inferring:effective:Paper2024",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Inferring effective electrostatic interaction of charge-stabilized colloids from scattering using deep learning",
       "authors": "CH Tung, MZ Chen, HL Chen, GR Huang, L Porcar, MC Chang, ...",
       "venue": "Applied Crystallography 57 (4), 1047-1058, 2024",
@@ -652,7 +672,7 @@
     },
     {
       "key": "Image:classification:Paper2024",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Image classification for historical documents: a study on Chinese local gazetteers",
       "authors": "JA Chen, JC Hou, RTH Tsai, HM Liao, SP Chen, MC Chang",
       "venue": "Digital Scholarship in the Humanities 39 (1), 61-73, 2024",
@@ -662,7 +682,7 @@
     },
     {
       "key": "Gpu:acceleration:Paper2024",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Gpu acceleration for fhew/tfhe bootstrapping",
       "authors": "Y Xiao, FH Liu, YT Ku, MC Ho, CF Hsu, MC Chang, SH Hung, WC Chen",
       "venue": "Ruhr-University of Bochum, 2024",
@@ -982,7 +1002,7 @@
     },
     {
       "key": "Robust:attentive:Paper2022",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Robust attentive deep neural network for detecting gan-generated faces",
       "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
       "venue": "Ieee Access 10, 32574-32583, 2022",
@@ -1162,7 +1182,7 @@
     },
     {
       "key": "Transrpn:Towards:Paper2021",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Transrpn: Towards the transferable adversarial perturbations using region proposal networks and beyond",
       "authors": "Y Li, MC Chang, P Sun, H Qi, J Dong, S Lyu",
       "venue": "Computer Vision and Image Understanding 213, 103302, 2021",
@@ -1182,7 +1202,7 @@
     },
     {
       "key": "PRBiFPN:arXiv2020",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Parallel Residual Bi-Fusion Feature Pyramid Network for Accurate Single-Shot Object Detection",
       "authors": "Ping-Yang Chen and Ming-Ching Chang and Jun-Wei Hsieh and Yong-Sheng Chen",
       "venue": "IEEE transactions on Image Processing 30, 9099-9111, 2021",
@@ -1249,6 +1269,16 @@
       "year": "2021",
       "category": "Video Analytics, Tracking & Transportation",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:tYavs44e6CUC"
+    },
+    {
+      "key": "Student:Concentration:TCE2021",
+      "entry_type": "article",
+      "title": "A Video Analytic Student Concentration Monitoring System",
+      "authors": "MC Su, CT Cheng, MC Chang, YZ Hsieh",
+      "venue": "IEEE Transactions on Consumer Electronics 67 (4), 294-304, 2021",
+      "year": "2021",
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": ""
     },
     {
       "key": "DETRAC:CVIU2020",
@@ -1432,7 +1462,7 @@
     },
     {
       "key": "PLSA:Efficient:Paper2019",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Efficient algorithms for graph regularized PLSA for probabilistic topic modeling",
       "authors": "X Wang, MC Chang, L Wang, S Lyu",
       "venue": "Pattern Recognition 86, 236-247, 2019",
@@ -1542,7 +1572,7 @@
     },
     {
       "key": "Ke:Chang:Qi:Lyu:Pose:ECCV2018",
-      "entry_type": "article",
+      "entry_type": "inproceedings",
       "title": "Multi-Scale Structure-Aware Network for Human Pose Estimation",
       "authors": "Lipeng Ke and Ming-Ching Chang and Honggong Qi and Siwei Lyu",
       "venue": "European Conference on Computer Vision, 731-746, 2018",
@@ -1762,7 +1792,7 @@
     },
     {
       "key": "DCE:Quantitative:Paper2015",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Quantitative pharmacokinetic analysis of prostate cancer DCE-MRI at 3 T: comparison of two arterial input functions on cancer detection with digitized whole mount …",
       "authors": "FM Fennessy, A Fedorov, T Penzkofer, KW Kim, MS Hirsch, MG Vangel, ...",
       "venue": "Magnetic resonance imaging 33 (7), 886-894, 2015",
@@ -2062,7 +2092,7 @@
     },
     {
       "key": "Chang:Leymarie:Kimia:3DIM2007",
-      "entry_type": "inproceedings",
+      "entry_type": "article",
       "title": "Surface Reconstruction from Point Clouds by Transforming the Medial Scaffold",
       "authors": "Ming-Ching Chang and Frederic F. Leymarie and Benjamin B. Kimia",
       "venue": "Computer Vision and Image Understanding 113 (11), 1130-1146, 2009",

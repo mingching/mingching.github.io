@@ -114,6 +114,11 @@ def main():
     paper_records = [item for item in publications if item["category"] != "Patents & Technology Transfer" and item["entry_type"] != "patent"]
     patent_records = [item for item in publications if item["category"] == "Patents & Technology Transfer" or item["entry_type"] == "patent"]
     journal_records = [item for item in paper_records if item["entry_type"] == "article"]
+    journal_annual = Counter(
+        int(item["year"])
+        for item in journal_records
+        if item["year"].isdigit()
+    )
     annual = parse_annual(metadata["annual_totals"])
     expected_papers = int(metadata["paper_total"])
     expected_patents = int(metadata["patent_total"])
@@ -132,6 +137,10 @@ def main():
     outputs = {
         args.output_dir / "bib_publications.json": json.dumps(catalog, indent=2, ensure_ascii=False) + "\n",
         args.output_dir / "publication_year_counts.yml": "\n".join(f"- {{ year: {item['year']}, count: {item['count']} }}" for item in annual) + "\n",
+        args.output_dir / "journal_publication_year_counts.yml": "\n".join(
+            f"- {{ year: {year}, count: {count} }}"
+            for year, count in sorted(journal_annual.items(), reverse=True)
+        ) + "\n",
         args.output_dir / "publication_stats.yml": "\n".join(f"{name}: {yaml_quote(str(value))}" for name, value in stats.items()) + "\n",
     }
     stale = []

@@ -114,7 +114,20 @@
     renderCitationBars(data.graph || []);
   });
 
-  renderPublicationBars();
+  renderYearCountBars(
+    ".js-publications-tile",
+    "data-publication-year-counts",
+    "stat-tile__publication-trend",
+    "Paper publications",
+    "paper",
+  );
+  renderYearCountBars(
+    ".js-journals-tile",
+    "data-journal-year-counts",
+    "stat-tile__journal-trend",
+    "Journal publications",
+    "journal publication",
+  );
 
   /* ---------- Per-paper "Cited by N" chips ---------- */
   function normTitle(s) {
@@ -206,11 +219,11 @@
     tile.appendChild(wrap);
   }
 
-  /* ---------- Publication count bar chart (in the Paper publications tile) ---------- */
-  function renderPublicationBars() {
-    var tile = document.querySelector(".stats-row .js-publications-tile");
-    if (!tile || tile.querySelector(".stat-tile__publication-trend")) return;
-    var raw = tile.getAttribute("data-publication-year-counts");
+  /* ---------- Yearly publication count bar charts ---------- */
+  function renderYearCountBars(selector, dataAttribute, trendClass, label, singularLabel) {
+    var tile = document.querySelector(".stats-row " + selector);
+    if (!tile || tile.querySelector("." + trendClass)) return;
+    var raw = tile.getAttribute(dataAttribute);
     if (!raw) return;
     var counts;
     try {
@@ -235,8 +248,8 @@
     var barW = Math.max(2, (w - gap * (pts.length - 1)) / pts.length);
     var svgns = "http://www.w3.org/2000/svg";
     var wrap = document.createElement("span");
-    wrap.className = "stat-tile__trend stat-tile__publication-trend";
-    wrap.title = "Paper publications by year (" + pts[0].year + "–" + pts[pts.length - 1].year + ")";
+    wrap.className = "stat-tile__trend " + trendClass;
+    wrap.title = label + " by year (" + pts[0].year + "–" + pts[pts.length - 1].year + ")";
     var svg = document.createElementNS(svgns, "svg");
     svg.setAttribute("width", w);
     svg.setAttribute("height", h);
@@ -261,7 +274,7 @@
       bar.setAttribute("rx", "1.2");
       bar.setAttribute("class", "metric-bars__bar" + (i === pts.length - 1 ? " metric-bars__bar--latest" : ""));
       var title = document.createElementNS(svgns, "title");
-      title.textContent = p.year + ": " + count + (count === 1 ? " paper" : " papers");
+      title.textContent = p.year + ": " + count + " " + singularLabel + (count === 1 ? "" : "s");
       bar.appendChild(title);
       svg.appendChild(bar);
     });
