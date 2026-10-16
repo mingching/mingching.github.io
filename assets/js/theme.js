@@ -111,7 +111,7 @@
       countUp(i10El, parseInt(data.i10index, 10) || 0);
     }
     renderCitationChips(data.articles || []);
-    renderCitationSpark(data.graph || []);
+    renderCitationBars(data.graph || []);
   });
 
   renderPublicationBars();
@@ -153,8 +153,8 @@
     );
   }
 
-  /* ---------- Citation trend sparkline (in the Total citations tile) ---------- */
-  function renderCitationSpark(graph) {
+  /* ---------- Citation count bar chart (in the Total citations tile) ---------- */
+  function renderCitationBars(graph) {
     var cit = document.querySelector(".stats-row .js-cit-count");
     if (!cit || graph.length < 2) return;
     var tile = cit.closest ? cit.closest(".stat-tile") : null;
@@ -164,39 +164,44 @@
       .sort(function (a, b) { return a.year - b.year; })
       .slice(-12);
     var w = Math.max(tile.clientWidth - 32, 80);
-    var h = 26;
+    var h = 30;
     var max = 0;
     pts.forEach(function (p) { if (p.citations > max) max = p.citations; });
     if (max < 1) return;
-    var step = w / (pts.length - 1);
-    var coords = pts.map(function (p, i) {
-      return [i * step, h - 2 - (p.citations / max) * (h - 6)];
-    });
-    var line = coords.map(function (c) { return c[0].toFixed(1) + "," + c[1].toFixed(1); }).join(" ");
-    var last = coords[coords.length - 1];
-    var prev = coords[coords.length - 2];
+    var gap = Math.max(1.5, Math.min(3, w / (pts.length * 6)));
+    var barW = Math.max(2, (w - gap * (pts.length - 1)) / pts.length);
     var svgns = "http://www.w3.org/2000/svg";
     var wrap = document.createElement("span");
-    wrap.className = "stat-tile__trend";
+    wrap.className = "stat-tile__trend stat-tile__citation-trend";
     wrap.title = "Citations per year (" + pts[0].year + "–" + pts[pts.length - 1].year + ")";
     var svg = document.createElementNS(svgns, "svg");
     svg.setAttribute("width", w);
     svg.setAttribute("height", h);
-    svg.setAttribute("aria-hidden", "true");
-    var poly = document.createElementNS(svgns, "polyline");
-    poly.setAttribute("points", line);
-    poly.setAttribute("class", "spark-line");
-    svg.appendChild(poly);
-    var seg = document.createElementNS(svgns, "polyline");
-    seg.setAttribute("points", prev[0].toFixed(1) + "," + prev[1].toFixed(1) + " " + last[0].toFixed(1) + "," + last[1].toFixed(1));
-    seg.setAttribute("class", "spark-line spark-line--accent");
-    svg.appendChild(seg);
-    var dot = document.createElementNS(svgns, "circle");
-    dot.setAttribute("cx", last[0].toFixed(1));
-    dot.setAttribute("cy", last[1].toFixed(1));
-    dot.setAttribute("r", "2.5");
-    dot.setAttribute("class", "spark-dot");
-    svg.appendChild(dot);
+    svg.setAttribute("viewBox", "0 0 " + w + " " + h);
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", wrap.title);
+    var baseline = document.createElementNS(svgns, "line");
+    baseline.setAttribute("x1", "0");
+    baseline.setAttribute("y1", String(h - 1));
+    baseline.setAttribute("x2", String(w));
+    baseline.setAttribute("y2", String(h - 1));
+    baseline.setAttribute("class", "citation-bars__baseline");
+    svg.appendChild(baseline);
+    pts.forEach(function (p, i) {
+      var citations = Number(p.citations);
+      var barH = Math.max(2, (citations / max) * (h - 5));
+      var bar = document.createElementNS(svgns, "rect");
+      bar.setAttribute("x", (i * (barW + gap)).toFixed(1));
+      bar.setAttribute("y", (h - 1 - barH).toFixed(1));
+      bar.setAttribute("width", barW.toFixed(1));
+      bar.setAttribute("height", barH.toFixed(1));
+      bar.setAttribute("rx", "1.2");
+      bar.setAttribute("class", "citation-bars__bar" + (i === pts.length - 1 ? " citation-bars__bar--latest" : ""));
+      var title = document.createElementNS(svgns, "title");
+      title.textContent = p.year + ": " + citations + " citations";
+      bar.appendChild(title);
+      svg.appendChild(bar);
+    });
     wrap.appendChild(svg);
     tile.appendChild(wrap);
   }

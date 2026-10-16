@@ -294,20 +294,18 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   margin-top: 8px;
   line-height: 0;
 }
-.spark-line {
-  fill: none;
-  stroke: var(--ink-3);
-  stroke-width: 1.6;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  opacity: 0.8;
+.citation-bars__baseline {
+  stroke: var(--border);
+  stroke-width: 1;
 }
-.spark-line--accent {
-  stroke: var(--accent);
-  stroke-width: 2;
+.citation-bars__bar {
+  fill: var(--ink-3);
+  opacity: 0.55;
+}
+.citation-bars__bar--latest {
+  fill: var(--accent);
   opacity: 1;
 }
-.spark-dot { fill: var(--accent); }
 .publication-bars__baseline {
   stroke: var(--border);
   stroke-width: 1;
