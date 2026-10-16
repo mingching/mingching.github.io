@@ -185,7 +185,7 @@
     baseline.setAttribute("y1", String(h - 1));
     baseline.setAttribute("x2", String(w));
     baseline.setAttribute("y2", String(h - 1));
-    baseline.setAttribute("class", "citation-bars__baseline");
+    baseline.setAttribute("class", "metric-bars__baseline");
     svg.appendChild(baseline);
     pts.forEach(function (p, i) {
       var citations = Number(p.citations);
@@ -196,7 +196,7 @@
       bar.setAttribute("width", barW.toFixed(1));
       bar.setAttribute("height", barH.toFixed(1));
       bar.setAttribute("rx", "1.2");
-      bar.setAttribute("class", "citation-bars__bar" + (i === pts.length - 1 ? " citation-bars__bar--latest" : ""));
+      bar.setAttribute("class", "metric-bars__bar" + (i === pts.length - 1 ? " metric-bars__bar--latest" : ""));
       var title = document.createElementNS(svgns, "title");
       title.textContent = p.year + ": " + citations + " citations";
       bar.appendChild(title);
@@ -248,7 +248,7 @@
     baseline.setAttribute("y1", String(h - 1));
     baseline.setAttribute("x2", String(w));
     baseline.setAttribute("y2", String(h - 1));
-    baseline.setAttribute("class", "publication-bars__baseline");
+    baseline.setAttribute("class", "metric-bars__baseline");
     svg.appendChild(baseline);
     pts.forEach(function (p, i) {
       var count = Number(p.count);
@@ -259,7 +259,7 @@
       bar.setAttribute("width", barW.toFixed(1));
       bar.setAttribute("height", barH.toFixed(1));
       bar.setAttribute("rx", "1.2");
-      bar.setAttribute("class", "publication-bars__bar" + (i === pts.length - 1 ? " publication-bars__bar--latest" : ""));
+      bar.setAttribute("class", "metric-bars__bar" + (i === pts.length - 1 ? " metric-bars__bar--latest" : ""));
       var title = document.createElementNS(svgns, "title");
       title.textContent = p.year + ": " + count + (count === 1 ? " paper" : " papers");
       bar.appendChild(title);
