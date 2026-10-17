@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ad2ba9673d22413d9ed2f05",
+    "id": "6ad4060dd6c0899e943d156b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/xk7xfex06aarhAATs-JFkq5s1LIE2Wdx9ic7ClYJ9hE/6ad2ba9673d22413d9ed2f05.json",
-    "markdown_endpoint": "https://serpapi.com/searches/xk7xfex06aarhAATs-JFkq5s1LIE2Wdx9ic7ClYJ9hE/6ad2ba9673d22413d9ed2f05.md",
-    "created_at": "2026-10-17 00:00:22 UTC",
-    "processed_at": "2026-10-17 00:00:22 UTC",
+    "json_endpoint": "https://serpapi.com/searches/t5nJuvyYTrIHF6GkaH5wG0gyE1ukezfKVcO8Ub4Yyho/6ad4060dd6c0899e943d156b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/t5nJuvyYTrIHF6GkaH5wG0gyE1ukezfKVcO8Ub4Yyho/6ad4060dd6c0899e943d156b.md",
+    "created_at": "2026-10-17 23:34:37 UTC",
+    "processed_at": "2026-10-17 23:34:37 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/xk7xfex06aarhAATs-JFkq5s1LIE2Wdx9ic7ClYJ9hE/6ad2ba9673d22413d9ed2f05.html",
-    "total_time_taken": 1.68
+    "raw_html_file": "https://serpapi.com/searches/t5nJuvyYTrIHF6GkaH5wG0gyE1ukezfKVcO8Ub4Yyho/6ad4060dd6c0899e943d156b.html",
+    "total_time_taken": 0.86
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1869,
+        "value": 1870,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1049,
+        "value": 1051,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -188,7 +188,7 @@
       "authors": "X Wang, H Guo, S Hu, MC Chang, S Lyu",
       "publication": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
       "cited_by": {
-        "value": 163,
+        "value": 164,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=361822992601821542",
         "serpapi_link": "https://serpapi.com/search.json?cites=361822992601821542&engine=google_scholar&hl=en",
         "cites_id": "361822992601821542"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10128,
-          "since_2021": 7074
+          "all": 10135,
+          "since_2021": 7081
         }
       },
       {
@@ -406,14 +406,14 @@
       },
       {
         "year": 2026,
-        "citations": 1185
+        "citations": 1192
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=a3-Gl8YAAAAJ",
-    "available": 57,
-    "not_available": 0
+    "available": 55,
+    "not_available": 2
   },
   "co_authors": [
     {
