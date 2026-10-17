@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ad1685bf6d5ee130fa31a11",
+    "id": "6ad2ba9673d22413d9ed2f05",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/xP4S5wkSRG-pqYcGY4rw6hT_mWjuEI5BRaRco8nLgkU/6ad1685bf6d5ee130fa31a11.json",
-    "markdown_endpoint": "https://serpapi.com/searches/xP4S5wkSRG-pqYcGY4rw6hT_mWjuEI5BRaRco8nLgkU/6ad1685bf6d5ee130fa31a11.md",
-    "created_at": "2026-10-15 23:57:15 UTC",
-    "processed_at": "2026-10-15 23:57:15 UTC",
+    "json_endpoint": "https://serpapi.com/searches/xk7xfex06aarhAATs-JFkq5s1LIE2Wdx9ic7ClYJ9hE/6ad2ba9673d22413d9ed2f05.json",
+    "markdown_endpoint": "https://serpapi.com/searches/xk7xfex06aarhAATs-JFkq5s1LIE2Wdx9ic7ClYJ9hE/6ad2ba9673d22413d9ed2f05.md",
+    "created_at": "2026-10-17 00:00:22 UTC",
+    "processed_at": "2026-10-17 00:00:22 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/xP4S5wkSRG-pqYcGY4rw6hT_mWjuEI5BRaRco8nLgkU/6ad1685bf6d5ee130fa31a11.html",
-    "total_time_taken": 2.62
+    "raw_html_file": "https://serpapi.com/searches/xk7xfex06aarhAATs-JFkq5s1LIE2Wdx9ic7ClYJ9hE/6ad2ba9673d22413d9ed2f05.html",
+    "total_time_taken": 1.68
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1868,
+        "value": 1869,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1751,
+        "value": 1750,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1048,
+        "value": 1049,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -90,7 +90,7 @@
       "authors": "L Ke, MC Chang, H Qi, S Lyu",
       "publication": "European Conference on Computer Vision, 731-746, 2018",
       "cited_by": {
-        "value": 424,
+        "value": 425,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1806551976928360372",
         "serpapi_link": "https://serpapi.com/search.json?cites=1806551976928360372&engine=google_scholar&hl=en",
         "cites_id": "1806551976928360372"
@@ -224,6 +224,20 @@
       "year": "2022"
     },
     {
+      "title": "Robust adversarial perturbation on deep proposal-based models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:ipzZ9siozwsC",
+      "citation_id": "a3-Gl8YAAAAJ:ipzZ9siozwsC",
+      "authors": "Y Li, D Tian, MC Chang, X Bian, S Lyu",
+      "publication": "arXiv preprint arXiv:1809.05962, 2018",
+      "cited_by": {
+        "value": 154,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12556617050203552423",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12556617050203552423&engine=google_scholar&hl=en",
+        "cites_id": "12556617050203552423"
+      },
+      "year": "2018"
+    },
+    {
       "title": "Adaptive RNN tree for large-scale human action recognition",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:5Ul4iDaHHb8C",
       "citation_id": "a3-Gl8YAAAAJ:5Ul4iDaHHb8C",
@@ -236,20 +250,6 @@
         "cites_id": "11345588149848693105"
       },
       "year": "2017"
-    },
-    {
-      "title": "Robust adversarial perturbation on deep proposal-based models",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&citation_for_view=a3-Gl8YAAAAJ:ipzZ9siozwsC",
-      "citation_id": "a3-Gl8YAAAAJ:ipzZ9siozwsC",
-      "authors": "Y Li, D Tian, MC Chang, X Bian, S Lyu",
-      "publication": "arXiv preprint arXiv:1809.05962, 2018",
-      "cited_by": {
-        "value": 153,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12556617050203552423",
-        "serpapi_link": "https://serpapi.com/search.json?cites=12556617050203552423&engine=google_scholar&hl=en",
-        "cites_id": "12556617050203552423"
-      },
-      "year": "2018"
     },
     {
       "title": "The 2019 AI city challenge.",
@@ -314,7 +314,7 @@
       "authors": "M Gochoo, ME Otgonbold, E Ganbold, JW Hsieh, MC Chang, PY Chen, ...",
       "publication": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
       "cited_by": {
-        "value": 92,
+        "value": 93,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1355219847762051733",
         "serpapi_link": "https://serpapi.com/search.json?cites=1355219847762051733&engine=google_scholar&hl=en",
         "cites_id": "1355219847762051733"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10121,
-          "since_2021": 7066
+          "all": 10128,
+          "since_2021": 7074
         }
       },
       {
@@ -374,11 +374,11 @@
       },
       {
         "year": 2018,
-        "citations": 456
+        "citations": 457
       },
       {
         "year": 2019,
-        "citations": 700
+        "citations": 699
       },
       {
         "year": 2020,
@@ -398,15 +398,15 @@
       },
       {
         "year": 2024,
-        "citations": 1294
+        "citations": 1296
       },
       {
         "year": 2025,
-        "citations": 1496
+        "citations": 1494
       },
       {
         "year": 2026,
-        "citations": 1177
+        "citations": 1185
       }
     ]
   },
