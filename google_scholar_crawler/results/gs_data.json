@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ad6b9dddafa5fa8ee8169d5",
+    "id": "6ad80394dea400dd48c78810",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/uHuHeCCHcUeL5BDeh4GXDrcIkrlrxGZ006fmvWhvyG8/6ad6b9dddafa5fa8ee8169d5.json",
-    "markdown_endpoint": "https://serpapi.com/searches/uHuHeCCHcUeL5BDeh4GXDrcIkrlrxGZ006fmvWhvyG8/6ad6b9dddafa5fa8ee8169d5.md",
-    "created_at": "2026-10-20 00:46:21 UTC",
-    "processed_at": "2026-10-20 00:46:21 UTC",
+    "json_endpoint": "https://serpapi.com/searches/p6QLCno7KuSMIPSMIZSKri72acneO3LWT19iINOZnic/6ad80394dea400dd48c78810.json",
+    "markdown_endpoint": "https://serpapi.com/searches/p6QLCno7KuSMIPSMIZSKri72acneO3LWT19iINOZnic/6ad80394dea400dd48c78810.md",
+    "created_at": "2026-10-21 00:13:08 UTC",
+    "processed_at": "2026-10-21 00:13:08 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/uHuHeCCHcUeL5BDeh4GXDrcIkrlrxGZ006fmvWhvyG8/6ad6b9dddafa5fa8ee8169d5.html",
-    "total_time_taken": 5.3
+    "raw_html_file": "https://serpapi.com/searches/p6QLCno7KuSMIPSMIZSKri72acneO3LWT19iINOZnic/6ad80394dea400dd48c78810.html",
+    "total_time_taken": 0.63
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1872,
+        "value": 1874,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1751,
+        "value": 1748,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10146,
-          "since_2021": 7092
+          "all": 10145,
+          "since_2021": 7093
         }
       },
       {
@@ -374,7 +374,7 @@
       },
       {
         "year": 2018,
-        "citations": 457
+        "citations": 456
       },
       {
         "year": 2019,
@@ -406,14 +406,14 @@
       },
       {
         "year": 2026,
-        "citations": 1202
+        "citations": 1203
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=a3-Gl8YAAAAJ",
-    "available": 55,
-    "not_available": 2
+    "available": 50,
+    "not_available": 7
   },
   "co_authors": [
     {
