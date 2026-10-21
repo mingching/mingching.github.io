@@ -13,6 +13,18 @@ code_papers:
     resource_url: https://github.com/inventec-ai-center/LSSGen
     resource_label: "GitHub code"
 
+  - title: "LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval"
+    venue: "ICPR 2026"
+    paper: /assets/papers/_ICPR__LLaVA_MR.pdf
+    resource_url: https://github.com/swordlidev/LLaVA-MR
+    resource_label: "GitHub project"
+
+  - title: "PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection"
+    venue: "WACV 2026"
+    paper: /assets/papers/_WACV2026__PatchEAD.pdf
+    resource_url: https://github.com/inventec-ai-center/DuoAD
+    resource_label: "Maintained GitHub implementation"
+
 dataset_papers:
   - title: "RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization"
     venue: "MICCAI 2026"
