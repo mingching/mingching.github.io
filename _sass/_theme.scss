@@ -424,6 +424,9 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
 .scholar-pub-list li { margin: 0 0 0.85rem; padding-left: 0.15rem; }
 .scholar-pub-list a { font-weight: 700; color: var(--accent); }
 .scholar-pub-meta { display: block; margin-top: 0.15rem; color: var(--ink-2); font-size: 0.92rem; }
+.resource-publication-links { display: flex; flex-wrap: wrap; gap: 0.45rem 0.8rem; margin-top: 0.45rem; }
+.resource-publication-links a { font-size: 0.88rem; }
+.resource-publication-links i { margin-right: 0.2rem; }
 
 .publication-search {
   margin: 0 0 1.25rem;

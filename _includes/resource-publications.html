@@ -1,0 +1,22 @@
+{% assign resources = include.items %}
+{% assign resource_count = resources | size %}
+<details class="pub-topic" open>
+  <summary class="pub-topic__toggle">
+    <span>{{ include.label }}</span>
+    <span class="pub-topic__count">{{ resource_count }} papers</span>
+  </summary>
+  <div class="pub-topic__scroll">
+    <ol class="scholar-pub-list scholar-pub-list--year">
+      {% for publication in resources %}
+        <li class="journal-publication-item">
+          <strong>{{ publication.title }}</strong>
+          {% if publication.venue %}<span class="scholar-pub-meta">{{ publication.venue }}.</span>{% endif %}
+          <span class="resource-publication-links">
+            <a href="{{ publication.paper | relative_url }}" download><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
+            <a href="{{ publication.resource_url }}" target="_blank" rel="noopener"><i class="{% if include.icon == 'github' %}fab fa-github{% else %}fas fa-database{% endif %}" aria-hidden="true"></i> {{ publication.resource_label }}</a>
+          </span>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</details>

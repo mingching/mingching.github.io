@@ -43,15 +43,27 @@ I lead research spanning intelligent video understanding, visual perception, and
 
 {% include pub-groups.html %}
 
+<span class='anchor' id='journal-publications'></span>
+
+# 📖 Journal Papers
+
+{% include journal-publications.html %}
+
+<span class='anchor' id='papers-with-code'></span>
+
+# 💻 Papers with Code
+
+{% include resource-publications.html items=site.data.paper_resources.code_papers label="Papers with verified GitHub code" icon="github" %}
+
+<span class='anchor' id='papers-with-datasets'></span>
+
+# 🗂️ Papers with Datasets
+
+{% include resource-publications.html items=site.data.paper_resources.dataset_papers label="Papers with publicly available datasets" icon="dataset" %}
+
 <span class='anchor' id='complete-publication-record'></span>
 
 # 📚 All Publications
-
-<span class='anchor' id='journal-publications'></span>
-
-## Journal Publications
-
-{% include journal-publications.html %}
 
 ## Browse by research topic
 

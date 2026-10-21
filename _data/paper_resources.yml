@@ -1,0 +1,27 @@
+# Links below are verified from the associated final-paper PDF.
+
+code_papers:
+  - title: "FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU"
+    venue: "ICML 2026"
+    paper: /assets/papers/FlashSinkhorn_paper.pdf
+    resource_url: https://github.com/ot-triton-lab/flash-sinkhorn
+    resource_label: "GitHub code"
+
+  - title: "LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text-to-Image Generation"
+    venue: "ICCV Workshop 2025"
+    paper: /assets/papers/_ICCV_2025__text2image_schedule.pdf
+    resource_url: https://github.com/inventec-ai-center/LSSGen
+    resource_label: "GitHub code"
+
+dataset_papers:
+  - title: "RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization"
+    venue: "MICCAI 2026"
+    paper: /assets/papers/MICCAI26_RatSeizure_cameraready.pdf
+    resource_url: https://github.com/UA-CVML/RatSeizure
+    resource_label: "RatSeizure dataset on GitHub"
+
+  - title: "FE-DETRAC: An Infrastructure Fisheye Video Benchmark with Distortion-Aware Hybrid Data Association for Multi-Object Tracking"
+    venue: "IEEE Internet of Things Journal 2026"
+    paper: /assets/papers/FE-DETRAC_An_Infrastructure_Fisheye_Video_Benchmark_with_Distortion-Aware_Hybrid_Data_Association_for_Multi-Object_Tracking.pdf
+    resource_url: https://doi.org/10.30193/scidm-ds-571593m
+    resource_label: "FE-DETRAC dataset (SciDM DOI)"
