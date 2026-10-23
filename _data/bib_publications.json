@@ -17,6 +17,38 @@
       "paper_url": "/assets/papers/MICCAI26_RatSeizure_cameraready.pdf"
     },
     {
+      "key": "FovealMamba:RingScan:NeurIPS2026",
+      "entry_type": "inproceedings",
+      "title": "Foveal-Mamba: Inside-Out Ring Scanning with Recurrent Offset Prediction for Visual State Space Models",
+      "authors": "Yi-Kuan Hsieh and Jun Wei Hsieh and Kuan-Chuan Peng and Xin Li and Chi-Chia Sun and Yu-Chee Tseng and Ming-Ching Chang",
+      "venue": "Advances in Neural Information Processing Systems (NeurIPS), 2026 (Poster)",
+      "year": "2026",
+      "month": "sep",
+      "date_display": "Sep. 24, 2026",
+      "sort_year": 2026,
+      "sort_month": 9,
+      "sort_day": 24,
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "",
+      "paper_url": "https://openreview.net/pdf?id=v9TJRTPJEp"
+    },
+    {
+      "key": "Counting:ScaleConsistency:NeurIPS2026",
+      "entry_type": "inproceedings",
+      "title": "Counting Without Scale: Scale-Consistent Error Correction for Crowd Counting",
+      "authors": "Yi-Kuan Hsieh and Xin Li and Chi-Chia Sun and Yu-Chee Tseng and Ming-Ching Chang and Kuan-Chuan Peng and Jun Wei Hsieh",
+      "venue": "Advances in Neural Information Processing Systems (NeurIPS), 2026 (Poster)",
+      "year": "2026",
+      "month": "sep",
+      "date_display": "Sep. 24, 2026",
+      "sort_year": 2026,
+      "sort_month": 9,
+      "sort_day": 24,
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "",
+      "paper_url": "https://openreview.net/pdf?id=i4EGsPX5qd"
+    },
+    {
       "key": "SILVA-Mamba:Spatial:ICIP2026",
       "entry_type": "inproceedings",
       "title": "SILVA-Mamba: Spatial Integrity for Landslide Segmentation via Vectorized Hilbert Scanning and Adaptive Mamba",
