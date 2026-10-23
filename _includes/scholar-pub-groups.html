@@ -9,7 +9,12 @@
       <ol class="scholar-pub-list">
       {% for item in group.items %}
         <li>
+          {% if item.scholar_url %}
           <a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+          {% else %}
+          <strong>{{ item.title }}</strong>
+          {% endif %}
+          {% if item.paper_url %}<a class="pub-paper-link" href="{{ item.paper_url | relative_url }}" download>PDF</a>{% endif %}
           <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.year %} ({{ item.year }}){% endif %}.</span>
         </li>
       {% endfor %}

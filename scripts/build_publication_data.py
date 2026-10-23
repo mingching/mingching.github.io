@@ -97,7 +97,7 @@ def main():
         if normalized in seen_titles:
             raise ValueError(f"Duplicate title in canonical BibTeX: {title}")
         seen_titles.add(normalized)
-        publications.append({
+        publication = {
             "key": key,
             "entry_type": kind,
             "title": display_text(title),
@@ -106,7 +106,10 @@ def main():
             "year": fields.get("year", ""),
             "category": fields.get("category", "Unclassified"),
             "scholar_url": fields.get("scholar_url", fields.get("url", "")),
-        })
+        }
+        if fields.get("paper_url"):
+            publication["paper_url"] = fields["paper_url"]
+        publications.append(publication)
     if metadata is None:
         raise ValueError("Missing @misc{changWebsitePublicationStatistics,...} metadata entry")
 

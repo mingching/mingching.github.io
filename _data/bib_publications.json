@@ -11,6 +11,17 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:U4n9YNQMCAIC"
     },
     {
+      "key": "UAPR:MediaBias:TrustNLP2026",
+      "entry_type": "inproceedings",
+      "title": "Uncertainty-Aware Proxy Attribute Reasoning for Reliable Media Bias Detection",
+      "authors": "Chin-Po Chen and Jeng-Lin Li and Ming-Ching Chang",
+      "venue": "TrustNLP Workshop at ACL, 2026",
+      "year": "2026",
+      "category": "Trustworthy AI & Media Forensics",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/UAPR_TrustNLP2026.pdf"
+    },
+    {
       "key": "Training:method:Paper2026",
       "entry_type": "patent",
       "title": "Training method for continual learning model and non-transitory computer-readable medium",
@@ -21,6 +32,17 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kVjdVfd2voEC"
     },
     {
+      "key": "TRACE:TAR:ECCVW2026",
+      "entry_type": "inproceedings",
+      "title": "TRACE-TAR: Reusable Video Evidence and Shared Event Memory for Transportation Anomaly Reasoning",
+      "authors": "Abhineet Kumar Pandey and Ming-Ching Chang and Jun-Wei Hsieh",
+      "venue": "AI City Challenge Workshop at ECCV, 2026",
+      "year": "2026",
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/TRACE_TAR_Challange3.pdf"
+    },
+    {
       "key": "10th:city:arXiv2026",
       "entry_type": "inproceedings",
       "title": "The 10th AI city challenge",
@@ -29,6 +51,17 @@
       "year": "2026",
       "category": "Video Analytics, Tracking & Transportation",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:owLR8QvbtFgC"
+    },
+    {
+      "key": "SoREL:LongTail:CVPR2026",
+      "entry_type": "inproceedings",
+      "title": "SoREL: Soft-Label Refurbishment with Ensemble Learning for Noisy Long-Tailed Classification",
+      "authors": "Jun-Wei Hsieh and Ying-Hsuan Wu and Yi-Kuan Hsieh and Xin Li and Kuan-Chuan Peng and Ming-Ching Chang",
+      "venue": "CVPR 2026 Workshop Proceedings, 2026",
+      "year": "2026",
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/SoREL_CVPR2026.pdf"
     },
     {
       "key": "SMART:Retrieval:TMM2026",
@@ -61,11 +94,33 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:j7_hQOaDUrUC"
     },
     {
+      "key": "RatSeizure:Localization:MICCAI2026",
+      "entry_type": "inproceedings",
+      "title": "RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization",
+      "authors": "Ting Yu Tsai and An Yu and Lucy Lee and Felix X.-F. Ye and Damian S. Shin and Tzu-Jen Kao and Xin Li and Ming-Ching Chang",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026",
+      "year": "2026",
+      "category": "Medical AI & Healthcare",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/MICCAI26_RatSeizure_cameraready.pdf"
+    },
+    {
+      "key": "PreClaim:GCT:AIME2026",
+      "entry_type": "inproceedings",
+      "title": "PreClaim-GCT: Self-Supervised Graph-Transformer Pretraining for Incident Outcome Prediction from Healthcare Claims",
+      "authors": "Rui Wang and Ming-Ching Chang and Emily Leckman-Westin",
+      "venue": "Artificial Intelligence in Medicine (AIME), 2026",
+      "year": "2026",
+      "category": "Medical AI & Healthcare",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/PreClaim_GCT_2026_AIME___shortpaper.pdf"
+    },
+    {
       "key": "Partial:Ring:arXiv2026",
       "entry_type": "inproceedings",
       "title": "Partial Ring Scan: Revisiting Scan Order in Vision State Space Models",
       "authors": "YK Hsieh and KC Peng and Ming-Ching Chang and YC Tseng and JW Hsieh",
-      "venue": "arXiv preprint arXiv:2602.04170, 2026",
+      "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026",
       "year": "2026",
       "category": "Computer Vision & Machine Learning",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ALROH1vI_8AC"
@@ -91,6 +146,28 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:jU7OWUQzBzMC"
     },
     {
+      "key": "LLaVAMR:MomentRetrieval:ICPR2026",
+      "entry_type": "inproceedings",
+      "title": "LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval",
+      "authors": "Weiheng Lu and Jian Li and An Yu and Ming-Ching Chang",
+      "venue": "International Conference on Pattern Recognition (ICPR), 2026",
+      "year": "2026",
+      "category": "Generative AI & Multimodal Learning",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/_ICPR__LLaVA_MR.pdf"
+    },
+    {
+      "key": "Waveforms:CFO:MILCOM2026",
+      "entry_type": "inproceedings",
+      "title": "Jointly Learned Waveforms for Residual CFO Robustness and PAPR Reduction",
+      "authors": "Saksham Dewan and Hany Elgala and Asaf Tzadok and Ming-Ching Chang",
+      "venue": "IEEE Military Communications Conference (MILCOM), 2026",
+      "year": "2026",
+      "category": "Industrial AI & Scientific Computing",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/MILCOM2026_Waveforms_CFO.pdf"
+    },
+    {
       "key": "Inference:conversion:Paper2026",
       "entry_type": "patent",
       "title": "Inference and conversion method for encrypted deep neural network model",
@@ -101,14 +178,58 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:u-coK7KVo8oC"
     },
     {
+      "key": "ForensiText:SceneText:AVSS2026",
+      "entry_type": "inproceedings",
+      "title": "ForensiText: ROI-Guided Multimodal Forensics for Scene Text Tampering Detection and Localization",
+      "authors": "Abhineet Kumar Pandey and Ming-Ching Chang",
+      "venue": "IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS), 2026",
+      "year": "2026",
+      "category": "Trustworthy AI & Media Forensics",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/Beyond_OCR.pdf"
+    },
+    {
       "key": "Flashsinkhorn:aware:arXiv2026",
       "entry_type": "inproceedings",
       "title": "Flashsinkhorn: Io-aware entropic optimal transport",
       "authors": "FXF Ye and X Li and An Yu and Ming-Ching Chang and L Chu and D Wertheimer",
-      "venue": "arXiv e-prints, arXiv: 2602.03067, 2026",
+      "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026 (Oral)",
       "year": "2026",
       "category": "Video Analytics, Tracking & Transportation",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:lgwcVrK6X84C"
+    },
+    {
+      "key": "FAVE:Temporal:CVPR2026",
+      "entry_type": "inproceedings",
+      "title": "FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs",
+      "authors": "Weiheng Lu and An Yu and Jian Li and Zhenfei Zhang and Felix X.-F. Ye and Ming-Ching Chang",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026",
+      "year": "2026",
+      "category": "Generative AI & Multimodal Learning",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/cvpr26_FAVE.pdf"
+    },
+    {
+      "key": "MoneyMule:LVLM:AVSS2026",
+      "entry_type": "inproceedings",
+      "title": "Detecting ATM Money Mule Activities via LVLM-Guided Forensic Analysis",
+      "authors": "Ni Xu and Ming-Ching Chang",
+      "venue": "IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS), 2026",
+      "year": "2026",
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/AVSS2026-246.pdf"
+    },
+    {
+      "key": "CausalVolterra:Mamba:HiLD2026",
+      "entry_type": "inproceedings",
+      "title": "Causal Volterra Dynamics of Mamba",
+      "authors": "Ming-Ching Chang and Ting Yu Tsai and Davis Wertheimer and Felix X.-F. Ye",
+      "venue": "HiLD 2026: Workshop on High-dimensional Learning Dynamics at ICML, 2026",
+      "year": "2026",
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/9_Causal_Volterra_Dynamics_of_.pdf"
     },
     {
       "key": "Accelerated:bootstrapping:Paper2026",

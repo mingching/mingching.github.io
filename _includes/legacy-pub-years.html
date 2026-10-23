@@ -31,6 +31,7 @@
               {% else %}
                 <strong>{{ publication.title }}</strong>
               {% endif %}
+              {% if publication.paper_url %}<a class="pub-paper-link" href="{{ publication.paper_url | relative_url }}" download>PDF</a>{% endif %}
               <span class="scholar-pub-meta">{{ publication.authors }}. {{ publication.venue }}{% if publication.year %} ({{ publication.year }}){% endif %}.</span>
             </li>
           {% endif %}
