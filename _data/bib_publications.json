@@ -1,6 +1,37 @@
 {
   "publications": [
     {
+      "key": "ReDiPrune:Relevance:arXiv2026",
+      "entry_type": "inproceedings",
+      "title": "ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs",
+      "authors": "An Yu and Ting Yu Tsai and Zhenfei Zhang and W Lu and FXF Ye and Ming-Ching Chang",
+      "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027",
+      "year": "2027",
+      "month": "",
+      "date_display": "2027",
+      "sort_year": 2027,
+      "sort_month": 0,
+      "sort_day": 0,
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:j7_hQOaDUrUC"
+    },
+    {
+      "key": "ReflectFree:PointCloud:ACCV2026",
+      "entry_type": "inproceedings",
+      "title": "Reflect for Free: Symmetry for Training-Free Point Cloud 3D Anomaly Detection",
+      "authors": "Jun-Ting Wu and Yuan-Chiun Lo and Chao-Yu Chen and Kuan-Hung Chen and Ming-Ching Chang and Jhih-Ciang Wu",
+      "venue": "Asian Conference on Computer Vision (ACCV), 2026",
+      "year": "2026",
+      "month": "dec",
+      "date_display": "Dec. 2026",
+      "sort_year": 2026,
+      "sort_month": 12,
+      "sort_day": 0,
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "",
+      "paper_url": "https://openreview.net/forum?id=E2StAO7CIu"
+    },
+    {
       "key": "RatSeizure:Localization:MICCAI2026",
       "entry_type": "inproceedings",
       "title": "RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization",
@@ -64,6 +95,22 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:PYBJJbyH-FwC"
     },
     {
+      "key": "FETV:TrafficViolation:ECCVW2026",
+      "entry_type": "inproceedings",
+      "title": "FETV: Traffic Violation Report Generation from Fisheye Camera Systems",
+      "authors": "Ahmed Abduljawad and Mohanrasu S. S. and Nadeem Shahid Shaik and Ming-Ching Chang and Jun-Wei Hsieh and Munkhjargal Gochoo",
+      "venue": "AI City Challenge Workshop at European Conference on Computer Vision (ECCV), 2026",
+      "year": "2026",
+      "month": "sep",
+      "date_display": "Sep. 2026",
+      "sort_year": 2026,
+      "sort_month": 9,
+      "sort_day": 0,
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "",
+      "paper_url": "https://github.com/MoyoG/FETV"
+    },
+    {
       "key": "LLaVAMR:MomentRetrieval:ICPR2026",
       "entry_type": "inproceedings",
       "title": "LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval",
@@ -96,6 +143,22 @@
       "paper_url": "https://arxiv.org/pdf/2507.23534"
     },
     {
+      "key": "IndustrialFM:Manufacturing:MIPR2026",
+      "entry_type": "inproceedings",
+      "title": "Bridging Design and Quality: A Technical Overview of IFMs in Manufacturing",
+      "authors": "Chih-Fan Hsu and Yung-Huei Chiou and Po-Han Huang and Yu-Chi Liao and Shu Huei Yang and Jyun-Ze Tang and Yu-Lun Chang and Ming-Ching Chang",
+      "venue": "IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2026",
+      "year": "2026",
+      "month": "aug",
+      "date_display": "Aug. 2026",
+      "sort_year": 2026,
+      "sort_month": 8,
+      "sort_day": 0,
+      "category": "Industrial AI & Scientific Computing",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/MIPR_Industrial_FM_2026.pdf"
+    },
+    {
       "key": "PreClaim:GCT:AIME2026",
       "entry_type": "inproceedings",
       "title": "PreClaim-GCT: Self-Supervised Graph-Transformer Pretraining for Incident Outcome Prediction from Healthcare Claims",
@@ -112,6 +175,21 @@
       "paper_url": "/assets/papers/PreClaim_GCT_2026_AIME___shortpaper.pdf"
     },
     {
+      "key": "FracQuant:SuperResolution:ICMLW2026",
+      "entry_type": "inproceedings",
+      "title": "FracQuant: Rank-Adaptive Image Super-Resolution Network Quantization via Fractal Complexity Assessment",
+      "authors": "Chia-Ming Lee and Yu-Fan Lin and Wei-Hao Tsai and Ming-Ching Chang and Xin Li and Chih-Chung Hsu",
+      "venue": "CoLoRAI Workshop at the International Conference on Machine Learning (ICML), 2026",
+      "year": "2026",
+      "month": "jul",
+      "date_display": "Jul. 2026",
+      "sort_year": 2026,
+      "sort_month": 7,
+      "sort_day": 0,
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": ""
+    },
+    {
       "key": "SoREL:LongTail:CVPR2026",
       "entry_type": "inproceedings",
       "title": "SoREL: Soft-Label Refurbishment with Ensemble Learning for Noisy Long-Tailed Classification",
@@ -126,6 +204,22 @@
       "category": "Computer Vision & Machine Learning",
       "scholar_url": "",
       "paper_url": "/assets/papers/SoREL_CVPR2026.pdf"
+    },
+    {
+      "key": "FEDETRAC:Fisheye:IoTJ2026",
+      "entry_type": "article",
+      "title": "FE-DETRAC: An Infrastructure Fisheye Video Benchmark with Distortion-Aware Hybrid Data Association for Multi-Object Tracking",
+      "authors": "Chung-I Huang and Wei-Yu Chen and Jun-Wei Hsieh and Ping-Yang Chen and Ming-Ching Chang and Munkhjargal Gochoo and Chun-Ming Tsai and Hsiang-Wei Huang and Vincent S. Tseng and Jenq-Neng Hwang",
+      "venue": "IEEE Internet of Things Journal, Early Access, 2026",
+      "year": "2026",
+      "month": "apr",
+      "date_display": "Apr. 2026",
+      "sort_year": 2026,
+      "sort_month": 4,
+      "sort_day": 0,
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/FE_DETRAC_2026.pdf"
     },
     {
       "key": "Weight:Group:arXiv2026",
@@ -220,11 +314,11 @@
       "scholar_url": ""
     },
     {
-      "key": "ReDiPrune:Relevance:arXiv2026",
+      "key": "PatchEAD:VisualPrompting:WACV2026",
       "entry_type": "inproceedings",
-      "title": "ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs",
-      "authors": "An Yu and Ting Yu Tsai and Zhenfei Zhang and W Lu and FXF Ye and Ming-Ching Chang",
-      "venue": "arXiv preprint arXiv:2603.24680, 2026",
+      "title": "PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection",
+      "authors": "Po-Han Huang and Jeng-Lin Li and Po-Hsuan Huang and Ming-Ching Chang and Wei-Chao Chen",
+      "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026",
       "year": "2026",
       "month": "",
       "date_display": "2026",
@@ -232,7 +326,8 @@
       "sort_month": 0,
       "sort_day": 0,
       "category": "Computer Vision & Machine Learning",
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:j7_hQOaDUrUC"
+      "scholar_url": "",
+      "paper_url": "/assets/papers/PatchEAD_WACV2026.pdf"
     },
     {
       "key": "Partial:Ring:arXiv2026",
@@ -278,6 +373,21 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:jU7OWUQzBzMC"
+    },
+    {
+      "key": "MAESTRO:ImageEditing:AVSS2026",
+      "entry_type": "inproceedings",
+      "title": "MAESTRO: Multi-Anchor and Dual-Constraint Enhanced Sequential Training for Robust Optimization in Image Editing",
+      "authors": "Pei-Tong Ku and Jun-Wei Hsieh and Yi-Kuan Hsieh and Yi-Tang Hsieh and Chi-Chia Sun and Ming-Ching Chang and Xin Li",
+      "venue": "IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS), 2026",
+      "year": "2026",
+      "month": "",
+      "date_display": "2026",
+      "sort_year": 2026,
+      "sort_month": 0,
+      "sort_day": 0,
+      "category": "Generative AI & Multimodal Learning",
+      "scholar_url": ""
     },
     {
       "key": "Waveforms:CFO:MILCOM2026",
@@ -420,6 +530,22 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:cK4Rrx0J3m0C"
     },
     {
+      "key": "AICity:Challenge:ICCVW2025",
+      "entry_type": "inproceedings",
+      "title": "The 9th AI City Challenge",
+      "authors": "Zheng Tang and Shuo Wang and David C. Anastasiu and Ming-Ching Chang and Anuj Sharma and Quan Kong and Norimasa Kobori and Munkhjargal Gochoo and Ganzorig Batnasan and Munkh-Erdene Otgonbold and Fady Alnajjar and Jun-Wei Hsieh and Tomasz Kornuta and Xiaolong Li and Yilin Zhao and Han Zhang and Subhashree Radhakrishnan and Arihant Jain and Ratnesh Kumar and Vidya N. Murali and Yuxing Wang and Sameer Satish Pusegaonkar and Yizhou Wang and Sujit Biswas and Xunlei Wu and Zhedong Zheng and Pranamesh Chakraborty and Rama Chellappa",
+      "venue": "AI City Challenge Workshop at the IEEE/CVF International Conference on Computer Vision (ICCV), 2025",
+      "year": "2025",
+      "month": "oct",
+      "date_display": "Oct. 2025",
+      "sort_year": 2025,
+      "sort_month": 10,
+      "sort_day": 0,
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/AICity_Challenge_2025.pdf"
+    },
+    {
       "key": "FHEW:Optimizing:Paper2025",
       "entry_type": "article",
       "title": "Optimizing Encrypted Neural Networks: Model Design, Quantization and Fine-Tuning Using FHEW/TFHE",
@@ -433,6 +559,22 @@
       "sort_day": 0,
       "category": "Industrial AI & Scientific Computing",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:6yz0xqPARnAC"
+    },
+    {
+      "key": "LSSGen:LatentScaling:ICCVW2025",
+      "entry_type": "inproceedings",
+      "title": "LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text-to-Image Generation",
+      "authors": "Jyun-Ze Tang and Chih-Fan Hsu and Jeng-Lin Li and Ming-Ching Chang and Wei-Chao Chen",
+      "venue": "AI for Content Generation, Quality Enhancement and Streaming Workshop at the IEEE/CVF International Conference on Computer Vision (ICCV), 2025",
+      "year": "2025",
+      "month": "oct",
+      "date_display": "Oct. 2025",
+      "sort_year": 2025,
+      "sort_month": 10,
+      "sort_day": 0,
+      "category": "Generative AI & Multimodal Learning",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/LSSGen_ICCVW2025.pdf"
     },
     {
       "key": "Rlministyler:Light:arXiv2025",
@@ -765,6 +907,22 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:PVgj2kMGcgYC"
     },
     {
+      "key": "ExposureMetadata:Forensics:ISM2025",
+      "entry_type": "inproceedings",
+      "title": "Physics-Guided Exposure Parameter Estimation for Image Metadata Verification",
+      "authors": "Sharmilee Rajkumar Rajan and Ming-Ching Chang and Pradeep K. Atrey",
+      "venue": "IEEE International Symposium on Multimedia (ISM), 2025",
+      "year": "2025",
+      "month": "",
+      "date_display": "2025",
+      "sort_year": 2025,
+      "sort_month": 0,
+      "sort_day": 0,
+      "category": "Trustworthy AI & Media Forensics",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/IEEE_ISM2025_Exposure_Metadata.pdf"
+    },
+    {
       "key": "Operating:system:Paper2025",
       "entry_type": "patent",
       "title": "Operating system and method of a fully homomorphic encryption neural network model",
@@ -913,6 +1071,22 @@
       "sort_day": 0,
       "category": "Computer Vision & Machine Learning",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:0CzhzZyukY4C"
+    },
+    {
+      "key": "LLaMbaSeg:LiverMRI:CARE2025",
+      "entry_type": "inproceedings",
+      "title": "A Latent-Guided Hybrid Architecture for Liver Segmentation in Contrast-Enhanced MRI",
+      "authors": "Ting Yu Tsai and An Yu and Wenqi Li and Ming-Ching Chang",
+      "venue": "Comprehensive Analysis and Computing of Real-World Medical Images Workshop (CARE) at the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2025",
+      "year": "2025",
+      "month": "",
+      "date_display": "2025",
+      "sort_year": 2025,
+      "sort_month": 0,
+      "sort_day": 0,
+      "category": "Medical AI & Healthcare",
+      "scholar_url": "",
+      "paper_url": "/assets/papers/LLaMbaSeg_CARE2025.pdf"
     },
     {
       "key": "Gpu:acceleration:Paper2024",
