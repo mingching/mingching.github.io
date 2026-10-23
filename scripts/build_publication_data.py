@@ -17,6 +17,10 @@ MONTH_NUMBERS = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
                  "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
 MONTH_LABELS = {1: "Jan.", 2: "Feb.", 3: "Mar.", 4: "Apr.", 5: "May", 6: "Jun.",
                 7: "Jul.", 8: "Aug.", 9: "Sep.", 10: "Oct.", 11: "Nov.", 12: "Dec."}
+MONTH_NAMES = {1: ("jan", "january"), 2: ("feb", "february"), 3: ("mar", "march"),
+               4: ("apr", "april"), 5: ("may",), 6: ("jun", "june"),
+               7: ("jul", "july"), 8: ("aug", "august"), 9: ("sep", "sept", "september"),
+               10: ("oct", "october"), 11: ("nov", "november"), 12: ("dec", "december")}
 
 
 def bib_entries(text: str):
@@ -79,17 +83,30 @@ def parse_annual(value: str):
     return sorted(result, key=lambda item: item["year"], reverse=True)
 
 
-def publication_date(fields: dict[str, str]):
+def publication_date(fields: dict[str, str], venue: str = ""):
     year = int(fields["year"]) if fields.get("year", "").isdigit() else 0
     month = MONTH_NUMBERS.get(fields.get("month", "").strip().lower(), 0)
     day = 0
     match = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", fields.get("date", "").strip())
     if match and int(match.group(1)) == year and int(match.group(2)) == month:
         day = int(match.group(3))
+    # A large portion of the canonical venue strings already contains the
+    # publication year (for example, "MICCAI 2025").  Keep the useful month
+    # or day in the rendered parenthetical, but never repeat that same year.
+    venue_has_year = bool(year and re.search(rf"(?<!\\d){year}(?!\\d)", venue))
+    venue_has_month = bool(month and any(
+        re.search(rf"(?<![A-Za-z]){label}\.?($|[^A-Za-z])", venue, re.I)
+        for label in MONTH_NAMES[month]
+    ))
     if month:
-        display = f"{MONTH_LABELS[month]} {day}, {year}" if day else f"{MONTH_LABELS[month]} {year}"
+        if venue_has_year and venue_has_month:
+            display = ""
+        elif venue_has_year:
+            display = f"{MONTH_LABELS[month]} {day}" if day else MONTH_LABELS[month]
+        else:
+            display = f"{MONTH_LABELS[month]} {day}, {year}" if day else f"{MONTH_LABELS[month]} {year}"
     else:
-        display = str(year) if year else ""
+        display = "" if venue_has_year else (str(year) if year else "")
     return year, month, day, display
 
 
@@ -117,13 +134,14 @@ def main():
         if normalized in seen_titles:
             raise ValueError(f"Duplicate title in canonical BibTeX: {title}")
         seen_titles.add(normalized)
-        sort_year, sort_month, sort_day, date_display = publication_date(fields)
+        venue = display_text(fields.get("venue", fields.get("journal", fields.get("booktitle", ""))))
+        sort_year, sort_month, sort_day, date_display = publication_date(fields, venue)
         publication = {
             "key": key,
             "entry_type": kind,
             "title": display_text(title),
             "authors": display_text(fields.get("author", "")),
-            "venue": display_text(fields.get("venue", fields.get("journal", fields.get("booktitle", "")))),
+            "venue": venue,
             "year": fields.get("year", ""),
             "month": fields.get("month", ""),
             "date_display": date_display,
