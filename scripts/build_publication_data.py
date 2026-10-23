@@ -13,6 +13,12 @@ from collections import Counter
 from pathlib import Path
 
 
+MONTH_NUMBERS = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+                 "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
+MONTH_LABELS = {1: "Jan.", 2: "Feb.", 3: "Mar.", 4: "Apr.", 5: "May", 6: "Jun.",
+                7: "Jul.", 8: "Aug.", 9: "Sep.", 10: "Oct.", 11: "Nov.", 12: "Dec."}
+
+
 def bib_entries(text: str):
     start = 0
     while True:
@@ -73,6 +79,20 @@ def parse_annual(value: str):
     return sorted(result, key=lambda item: item["year"], reverse=True)
 
 
+def publication_date(fields: dict[str, str]):
+    year = int(fields["year"]) if fields.get("year", "").isdigit() else 0
+    month = MONTH_NUMBERS.get(fields.get("month", "").strip().lower(), 0)
+    day = 0
+    match = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", fields.get("date", "").strip())
+    if match and int(match.group(1)) == year and int(match.group(2)) == month:
+        day = int(match.group(3))
+    if month:
+        display = f"{MONTH_LABELS[month]} {day}, {year}" if day else f"{MONTH_LABELS[month]} {year}"
+    else:
+        display = str(year) if year else ""
+    return year, month, day, display
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--bib", type=Path, default=Path("data/chang.bib"))
@@ -97,6 +117,7 @@ def main():
         if normalized in seen_titles:
             raise ValueError(f"Duplicate title in canonical BibTeX: {title}")
         seen_titles.add(normalized)
+        sort_year, sort_month, sort_day, date_display = publication_date(fields)
         publication = {
             "key": key,
             "entry_type": kind,
@@ -104,6 +125,11 @@ def main():
             "authors": display_text(fields.get("author", "")),
             "venue": display_text(fields.get("venue", fields.get("journal", fields.get("booktitle", "")))),
             "year": fields.get("year", ""),
+            "month": fields.get("month", ""),
+            "date_display": date_display,
+            "sort_year": sort_year,
+            "sort_month": sort_month,
+            "sort_day": sort_day,
             "category": fields.get("category", "Unclassified"),
             "scholar_url": fields.get("scholar_url", fields.get("url", "")),
         }
@@ -113,7 +139,7 @@ def main():
     if metadata is None:
         raise ValueError("Missing @misc{changWebsitePublicationStatistics,...} metadata entry")
 
-    publications.sort(key=lambda item: (int(item["year"]) if item["year"].isdigit() else 0, item["title"].lower()), reverse=True)
+    publications.sort(key=lambda item: (item["sort_year"], item["sort_month"], item["sort_day"], item["title"].lower()), reverse=True)
     paper_records = [item for item in publications if item["category"] != "Patents & Technology Transfer" and item["entry_type"] != "patent"]
     patent_records = [item for item in publications if item["category"] == "Patents & Technology Transfer" or item["entry_type"] == "patent"]
     journal_records = [item for item in paper_records if item["entry_type"] == "article"]

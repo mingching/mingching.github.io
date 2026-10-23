@@ -14,7 +14,7 @@
           {% else %}
             <strong>{{ publication.title }}</strong>
           {% endif %}
-          <span class="scholar-pub-meta">{{ publication.authors }}. {{ publication.venue }}{% if publication.year %} ({{ publication.year }}){% endif %}.</span>
+          <span class="scholar-pub-meta">{{ publication.authors }}. {{ publication.venue }}{% if publication.date_display %} ({{ publication.date_display }}){% endif %}.</span>
         </li>
       {% endfor %}
     </ol>

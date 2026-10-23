@@ -1,0 +1,784 @@
+{
+  "SMART:Retrieval:TMM2026": null,
+  "4th:Workshop:arXiv2026": null,
+  "Flashsinkhorn:aware:arXiv2026": null,
+  "Optimization:Diverse:CVPR2026": null,
+  "Partial:Ring:arXiv2026": null,
+  "ReDiPrune:Relevance:arXiv2026": null,
+  "SILVA-Mamba:Spatial:ICIP2026": {
+    "title": "SILVA-Mamba: Spatial Integrity for Landslide Segmentation via Vectorized Hilbert Scanning and Adaptive Mamba",
+    "score": 1.0,
+    "year": 2026,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/icip61757.2026.11630416",
+    "field": "published-print"
+  },
+  "10th:city:arXiv2026": {
+    "title": "The 5th AI City Challenge",
+    "score": 0.9302,
+    "year": 2021,
+    "month": 6,
+    "day": null,
+    "doi": "10.1109/cvprw53098.2021.00482",
+    "field": "published-print"
+  },
+  "Weight:Group:arXiv2026": null,
+  "FAVE:Temporal:CVPR2026": null,
+  "SoREL:LongTail:CVPR2026": {
+    "title": "SoREL: Soft-Label Refurbishment with Ensemble Learning for Noisy Long-Tailed Classification",
+    "score": 1.0,
+    "year": 2026,
+    "month": 6,
+    "day": null,
+    "doi": "10.1109/cvprf71909.2026.00657",
+    "field": "published-print"
+  },
+  "Waveforms:CFO:MILCOM2026": null,
+  "PreClaim:GCT:AIME2026": {
+    "title": "PreClaim-GCT: Self-supervised Graph–Transformer Pretraining for Incident Outcome Prediction from Healthcare Claims",
+    "score": 1.0,
+    "year": 2026,
+    "month": 7,
+    "day": 8,
+    "doi": "10.1007/978-3-032-30813-9_60",
+    "field": "published-online"
+  },
+  "UAPR:MediaBias:TrustNLP2026": null,
+  "ForensiText:SceneText:AVSS2026": null,
+  "MoneyMule:LVLM:AVSS2026": null,
+  "CausalVolterra:Mamba:HiLD2026": null,
+  "LLaVAMR:MomentRetrieval:ICPR2026": {
+    "title": "LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval",
+    "score": 1.0,
+    "year": 2026,
+    "month": 8,
+    "day": 3,
+    "doi": "10.1007/978-3-032-31666-0_44",
+    "field": "published-online"
+  },
+  "TRACE:TAR:ECCVW2026": null,
+  "RatSeizure:Localization:MICCAI2026": {
+    "title": "RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization",
+    "score": 1.0,
+    "year": 2026,
+    "month": 9,
+    "day": 25,
+    "doi": "10.1007/978-3-032-38470-6_25",
+    "field": "published-online"
+  },
+  "Underwater:Enhancement:TCI2025": null,
+  "DNN:comprehensive:Paper2025": {
+    "title": "A Comprehensive Evaluation of Encrypted DNN Inference Methods",
+    "score": 1.0,
+    "year": 2025,
+    "month": 5,
+    "day": 25,
+    "doi": "10.1109/iscas56072.2025.11043492",
+    "field": "published-print"
+  },
+  "semantically:impactful:WACV2025": {
+    "title": "A Semantically Impactful Image Manipulation Dataset: Characterizing Image Manipulations Using Semantic Significance",
+    "score": 1.0,
+    "year": 2025,
+    "month": 2,
+    "day": 26,
+    "doi": "10.1109/wacv61041.2025.00744",
+    "field": "published-print"
+  },
+  "BF-YOLOv7:Enhancing:Paper2025": {
+    "title": "BF-YOLOv7: Enhancing Helmet Rule Violation Detection",
+    "score": 1.0,
+    "year": 2025,
+    "month": 7,
+    "day": 12,
+    "doi": "10.1007/978-981-96-8892-0_22",
+    "field": "published-online"
+  },
+  "Continual:Learning:arXiv2025": {
+    "title": "Continual Learning with Support Boundary Experience Blending",
+    "score": 1.0,
+    "year": 2026,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/mipr70517.2026.00039",
+    "field": "published-print"
+  },
+  "Continual:learning:arXiv2025": null,
+  "E4:Energy:AAAI2025": {
+    "title": "E4: Energy-Efficient DNN Inference for Edge Video Analytics via Early Exiting and DVFS",
+    "score": 1.0,
+    "year": 2025,
+    "month": 4,
+    "day": 11,
+    "doi": "10.1609/aaai.v39i1.32104",
+    "field": "published-online"
+  },
+  "LLM:Enhancing:Paper2025": {
+    "title": "Enhancing LLM Question Answering with RAG through Dense Vector Search and Re-Ranking",
+    "score": 1.0,
+    "year": 2025,
+    "month": 8,
+    "day": 11,
+    "doi": "10.1109/avss65446.2025.11149916",
+    "field": "published-print"
+  },
+  "Generative:Kolmogorov:Paper2025": null,
+  "Integrating:manual:Paper2025": {
+    "title": "Integrating manual preprocessing with automated feature extraction for improved rodent seizure classification",
+    "score": 1.0,
+    "year": 2025,
+    "month": 4,
+    "day": null,
+    "doi": "10.1016/j.yebeh.2025.110306",
+    "field": "published-print"
+  },
+  "IntelliCardiac:Intelligent:Paper2025": {
+    "title": "IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification",
+    "score": 1.0,
+    "year": 2025,
+    "month": 8,
+    "day": 6,
+    "doi": "10.1109/mipr67560.2025.00026",
+    "field": "published-print"
+  },
+  "Latent:Orthogonal:Paper2025": {
+    "title": "Latent Orthogonal Perturbation: A Data Poisoning Approach to Prevent Unauthorized LoRA Fine-Tuning",
+    "score": 1.0,
+    "year": 2025,
+    "month": 8,
+    "day": 11,
+    "doi": "10.1109/avss65446.2025.11149894",
+    "field": "published-print"
+  },
+  "Open:set:Paper2025": {
+    "title": "Open-Set Occluded Person Identification With mmWave Radar",
+    "score": 1.0,
+    "year": 2025,
+    "month": 6,
+    "day": null,
+    "doi": "10.1109/tmc.2025.3529735",
+    "field": "published-print"
+  },
+  "FHEW:Optimizing:Paper2025": {
+    "title": "Optimizing Encrypted Neural Networks: Model Design, Quantization and Fine-Tuning Using FHEW/TFHE",
+    "score": 1.0,
+    "year": 2025,
+    "month": 10,
+    "day": null,
+    "doi": "10.56553/popets-2025-0172",
+    "field": "published-online"
+  },
+  "Rlministyler:Light:arXiv2025": {
+    "title": "RLMiniStyler: Light-weight RL Style Agent for  Arbitrary Sequential Neural Style Generation",
+    "score": 1.0,
+    "year": 2025,
+    "month": 9,
+    "day": null,
+    "doi": "10.24963/ijcai.2025/125",
+    "field": "published-print"
+  },
+  "Robust:defense:Paper2025": {
+    "title": "Robust Defense Against Adversarial Attacks with Defensive Preprocessing and Adversarial Training",
+    "score": 1.0,
+    "year": 2025,
+    "month": 1,
+    "day": 11,
+    "doi": "10.1109/icce63647.2025.10930084",
+    "field": "published-print"
+  },
+  "Scale:aware:TIP2025": null,
+  "Scattering:based:JCP2025": {
+    "title": "Scattering-based structural inversion of soft materials via Kolmogorov–Arnold networks",
+    "score": 1.0,
+    "year": 2025,
+    "month": 2,
+    "day": 21,
+    "doi": "10.1063/5.0253877",
+    "field": "published-print"
+  },
+  "Sharpness:Aware:arXiv2025": null,
+  "GAN:Spotting:ACM2025": {
+    "title": "Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection",
+    "score": 1.0,
+    "year": 2025,
+    "month": 7,
+    "day": 31,
+    "doi": "10.1145/3742786",
+    "field": "published-print"
+  },
+  "Training:free:AAAI2025": {
+    "title": "Training-Free Image Manipulation Localization Using Diffusion Models",
+    "score": 1.0,
+    "year": 2025,
+    "month": 4,
+    "day": 11,
+    "doi": "10.1609/aaai.v39i10.33126",
+    "field": "published-online"
+  },
+  "Unsupervised:domain:IJGIS2025": {
+    "title": "Unsupervised domain adaptation for cross-style, cross-year land use understanding from historical maps",
+    "score": 1.0,
+    "year": 2025,
+    "month": 8,
+    "day": 3,
+    "doi": "10.1080/13658816.2025.2473568",
+    "field": "published-print"
+  },
+  "Who:brings:WACV2025": {
+    "title": "Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis",
+    "score": 1.0,
+    "year": 2025,
+    "month": 2,
+    "day": 26,
+    "doi": "10.1109/wacv61041.2025.00597",
+    "field": "published-print"
+  },
+  "Chang:etal:3DPVT04": null,
+  "3D:Activity:RN:AAAI2020": {
+    "title": "3D Single-Person Concurrent Activity Detection Using Stacked Relation Network",
+    "score": 1.0,
+    "year": 2020,
+    "month": 4,
+    "day": 3,
+    "doi": "10.1609/aaai.v34i07.6917",
+    "field": "published-online"
+  },
+  "comprehensive:review:arXiv2024": null,
+  "Leymarie:Chang:etal:VCBM10": null,
+  "live:video:Paper2015": {
+    "title": "A live video analytic system for affect analysis in public space",
+    "score": 1.0,
+    "year": 2015,
+    "month": 5,
+    "day": null,
+    "doi": "10.1109/fg.2015.7163168",
+    "field": "published-print"
+  },
+  "machine:learning:Paper2022": null,
+  "machine:learning:Paper2022:2": {
+    "title": "A machine learning inversion scheme for determining interaction from scattering",
+    "score": 1.0,
+    "year": 2022,
+    "month": 2,
+    "day": 28,
+    "doi": "10.1038/s42005-021-00778-y",
+    "field": "published-online"
+  },
+  "IMD:Benchmark:AAAI2024": {
+    "title": "A New Benchmark and Model for Challenging Image Manipulation Detection",
+    "score": 1.0,
+    "year": 2024,
+    "month": 3,
+    "day": 24,
+    "doi": "10.1609/aaai.v38i7.28571",
+    "field": "published-online"
+  },
+  "CLSyn:MIPR2022": {
+    "title": "A Robust Collaborative Learning Framework Using Data Digests and Synonyms to Represent Absent Clients",
+    "score": 1.0,
+    "year": 2022,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/mipr54900.2022.00010",
+    "field": "published-print"
+  },
+  "Tao:Chang:Skull:SPIE10": {
+    "title": "A skull stripping method using deformable surface and tissue classification",
+    "score": 1.0,
+    "year": 2010,
+    "month": 3,
+    "day": 4,
+    "doi": "10.1117/12.844061",
+    "field": "published-print"
+  },
+  "video:analytic:Paper2021": {
+    "title": "A Video Analytic System for Rail Crossing Point Protection",
+    "score": 1.0,
+    "year": 2021,
+    "month": 11,
+    "day": 16,
+    "doi": "10.1109/avss52988.2021.9663781",
+    "field": "published-print"
+  },
+  "Accelerating:neutron:arXiv2019": null,
+  "Li:Wen:Chang:Lim:Lyu:RNNT:ICCV2017": {
+    "title": "Adaptive RNN Tree for Large-Scale Human Action Recognition",
+    "score": 1.0,
+    "year": 2017,
+    "month": 10,
+    "day": null,
+    "doi": "10.1109/iccv.2017.161",
+    "field": "published-print"
+  },
+  "Addressing:long:arXiv2024": null,
+  "AICity:CCU:CVPRW2020": {
+    "title": "AI City Challenge 2020 – Computer Vision for Smart Transportation Applications",
+    "score": 1.0,
+    "year": 2020,
+    "month": 6,
+    "day": null,
+    "doi": "10.1109/cvprw50498.2020.00318",
+    "field": "published-print"
+  },
+  "efficient:ckks:Paper2023": {
+    "title": "An Efficient CKKS-FHEW/TFHE Hybrid Encrypted Inference Framework",
+    "score": 1.0,
+    "year": 2024,
+    "month": 3,
+    "day": 12,
+    "doi": "10.1007/978-3-031-54129-2_32",
+    "field": "published-online"
+  },
+  "Uncertainty:Aware:arXiv2024": null,
+  "Zhu:Chang:Gupta:SPIE11": {
+    "title": "Automated determination of arterial input function for DCE-MRI of the prostate",
+    "score": 1.0,
+    "year": 2011,
+    "month": 3,
+    "day": 3,
+    "doi": "10.1117/12.878213",
+    "field": "published-print"
+  },
+  "Zhu:Chang:AIFProstate:ISMRM11": null,
+  "AVSS:2016:Paper2016": null,
+  "Chen:Chang:Tian:Yu:Tu:Social:ICIP2015": {
+    "title": "Bridging computer vision and social science: A multi-camera vision system for social interaction training analysis",
+    "score": 1.0,
+    "year": 2015,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/icip.2015.7350914",
+    "field": "published-print"
+  },
+  "Class:Specific:arXiv2022": {
+    "title": "Class-Specific Channel Attention For Few Shot Learning",
+    "score": 1.0,
+    "year": 2024,
+    "month": 10,
+    "day": 27,
+    "doi": "10.1109/icip51287.2024.10647909",
+    "field": "published-print"
+  },
+  "Chang:etal:Cloud:ICIP2017": {
+    "title": "Cloud tracking for solar irradiance prediction",
+    "score": 1.0,
+    "year": 2017,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/icip.2017.8297111",
+    "field": "published-print"
+  },
+  "Wang:Ying:Chang:Lyu:CoPLSA:AAAI2016": {
+    "title": "Co-Regularized PLSA for Multi-Modal Learning",
+    "score": 1.0,
+    "year": 2016,
+    "month": 3,
+    "day": 2,
+    "doi": "10.1609/aaai.v30i1.10204",
+    "field": "published-online"
+  },
+  "Cross:cultural:Paper2015": null,
+  "Tu:Chang:Gao:Agent:Infer:GlobalSIP2016": {
+    "title": "Crowd analytics via one shot learning and agent based inference",
+    "score": 1.0,
+    "year": 2016,
+    "month": 12,
+    "day": null,
+    "doi": "10.1109/globalsip.2016.7906028",
+    "field": "published-print"
+  },
+  "Device:Free:ICCPS2019": {
+    "title": "Deep intelligent network for device-free people tracking",
+    "score": 1.0,
+    "year": 2019,
+    "month": 4,
+    "day": 16,
+    "doi": "10.1145/3302509.3313312",
+    "field": "published-print"
+  },
+  "WIP:Deep:ACM2019": null,
+  "SR:Neutron:MRS2020": {
+    "title": "Deep learning-based super-resolution for small-angle neutron scattering data: attempt to accelerate experimental workflow",
+    "score": 1.0,
+    "year": 2020,
+    "month": 3,
+    "day": null,
+    "doi": "10.1557/mrc.2019.166",
+    "field": "published-print"
+  },
+  "DetPoseNet:Improving:TIP2022": null,
+  "DETRAC:new:arXiv2015": null,
+  "License:Field:IEAAIE2020": {
+    "title": "Driver License Field Detection Using Real-Time Deep Networks",
+    "score": 1.0,
+    "year": 2020,
+    "month": 9,
+    "day": 4,
+    "doi": "10.1007/978-3-030-55789-8_52",
+    "field": "published-online"
+  },
+  "Drone:Vehicle:Flow:ICIP2020": {
+    "title": "Drone-Based Vehicle Flow Estimation and its Application to Traffic Conflict Hotspot Detection at Intersections",
+    "score": 1.0,
+    "year": 2020,
+    "month": 10,
+    "day": null,
+    "doi": "10.1109/icip40778.2020.9190890",
+    "field": "published-print"
+  },
+  "Dual:Phase:Paper2024": {
+    "title": "Dual-Phase Msqnet for Species-Specific Animal Activity Recognition",
+    "score": 1.0,
+    "year": 2024,
+    "month": 7,
+    "day": 15,
+    "doi": "10.1109/icmew63481.2024.10645377",
+    "field": "published-print"
+  },
+  "PLSA:Efficient:Paper2019": {
+    "title": "Efficient algorithms for graph regularized PLSA for probabilistic topic modeling",
+    "score": 1.0,
+    "year": 2019,
+    "month": 2,
+    "day": null,
+    "doi": "10.1016/j.patcog.2018.09.004",
+    "field": "published-print"
+  },
+  "FHEW:Efficient:ACM2024": {
+    "title": "Invited Paper: Efficient Design of FHEW/TFHE Bootstrapping Implementation with Scalable Parameters",
+    "score": 0.925,
+    "year": 2024,
+    "month": 10,
+    "day": 27,
+    "doi": "10.1145/3676536.3698873",
+    "field": "published-print"
+  },
+  "Efficient:large:Paper2016": {
+    "title": "Efficient large-scale photometric reconstruction using Divide-Recon-Fuse 3D Structure from Motion",
+    "score": 1.0,
+    "year": 2016,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/avss.2016.7738070",
+    "field": "published-print"
+  },
+  "Yi:InterpretDNN:ICPR2018": {
+    "title": "Explain Black-box Image Classifications Using Superpixel-based Interpretation",
+    "score": 1.0,
+    "year": 2018,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/icpr.2018.8546302",
+    "field": "published-print"
+  },
+  "Activity:IROS2020": {
+    "title": "Explainable and Efficient Sequential Correlation Network for 3D Single Person Concurrent Activity Detection",
+    "score": 1.0,
+    "year": 2020,
+    "month": 10,
+    "day": 24,
+    "doi": "10.1109/iros45743.2020.9340846",
+    "field": "published-print"
+  },
+  "BgPatches:BMVC2019": null,
+  "Exposing:Synthesized:Paper2022": null,
+  "Eyes:tell:Paper2022": {
+    "title": "Eyes Tell All: Irregular Pupil Shapes Reveal GAN-Generated Faces",
+    "score": 1.0,
+    "year": 2022,
+    "month": 5,
+    "day": 23,
+    "doi": "10.1109/icassp43922.2022.9746597",
+    "field": "published-print"
+  },
+  "Chang:Qi:Wang:Cheng:Lyu:Pose:BMVC2015": null,
+  "Chang:Ke:Pose:CYB2019": {
+    "title": "Fast Online Video Pose Estimation by Dynamic Bayesian Modeling of Mode Transitions",
+    "score": 1.0,
+    "year": 2021,
+    "month": 1,
+    "day": null,
+    "doi": "10.1109/tcyb.2018.2884216",
+    "field": "published-print"
+  },
+  "chang:etal:ijprai01": {
+    "title": "FAST SEARCH ALGORITHMS FOR INDUSTRIAL INSPECTION",
+    "score": 1.0,
+    "year": 2001,
+    "month": 6,
+    "day": null,
+    "doi": "10.1142/s0218001401001039",
+    "field": "published-print"
+  },
+  "chang:etal:mva98": null,
+  "FedDig:Robust:Paper2022": null,
+  "Fisheye:multiple:ICIP2023": {
+    "title": "Fisheye Multiple Object Tracking by Learning Distortions Without Dewarping",
+    "score": 1.0,
+    "year": 2023,
+    "month": 10,
+    "day": 8,
+    "doi": "10.1109/icip49359.2023.10222872",
+    "field": "published-print"
+  },
+  "Fisheye8k:benchmark:CVPR2023": {
+    "title": "FishEye8K: A Benchmark and Dataset for Fisheye Camera Object Detection",
+    "score": 1.0,
+    "year": 2023,
+    "month": 6,
+    "day": null,
+    "doi": "10.1109/cvprw59228.2023.00559",
+    "field": "published-print"
+  },
+  "FlagDetSeg:Multi:Paper2021": {
+    "title": "FlagDetSeg: Multi-Nation Flag Detection and Segmentation in the Wild",
+    "score": 1.0,
+    "year": 2021,
+    "month": 11,
+    "day": 16,
+    "doi": "10.1109/avss52988.2021.9663833",
+    "field": "published-print"
+  },
+  "Gan:generated:Paper2023": {
+    "title": "GAN-Generated Faces Detection: A Survey and New Perspectives",
+    "score": 1.0,
+    "year": 2023,
+    "month": 9,
+    "day": 28,
+    "doi": "10.3233/faia230558",
+    "field": "published-print"
+  },
+  "Krahnstoever:Chang:Gaze:AVSS11": {
+    "title": "Gaze and body pose estimation from a distance",
+    "score": 1.0,
+    "year": 2011,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/avss.2011.6027285",
+    "field": "published-print"
+  },
+  "Gpu:acceleration:Paper2024": {
+    "title": "GPU Acceleration for FHEW/TFHE Bootstrapping",
+    "score": 1.0,
+    "year": 2024,
+    "month": 12,
+    "day": 9,
+    "doi": "10.46586/tches.v2025.i1.314-339",
+    "field": "published-online"
+  },
+  "VOS:AVSS2019": {
+    "title": "Graph-to-Graph Energy Minimization for Video Object Segmentation",
+    "score": 1.0,
+    "year": 2019,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/avss.2019.8909894",
+    "field": "published-print"
+  },
+  "Group:context:WACV2012": {
+    "title": "Group context learning for event recognition",
+    "score": 1.0,
+    "year": 2012,
+    "month": 1,
+    "day": null,
+    "doi": "10.1109/wacv.2012.6163009",
+    "field": "published-print"
+  },
+  "Chang:Krahnstoever:Lim:Yu:AMMCSS2010": {
+    "title": "Group Level Activity Recognition in Crowded Environments across Multiple Cameras",
+    "score": 1.0,
+    "year": 2010,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/avss.2010.65",
+    "field": "published-print"
+  },
+  "Li:etal:Tracking:ICIP2017": {
+    "title": "Hybrid structure hypergraph for online deformable object tracking",
+    "score": 1.0,
+    "year": 2017,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/icip.2017.8296457",
+    "field": "published-print"
+  },
+  "Image:classification:Paper2024": {
+    "title": "Image classification for historical documents: a study on Chinese local gazetteers",
+    "score": 1.0,
+    "year": 2024,
+    "month": 4,
+    "day": 2,
+    "doi": "10.1093/llc/fqad065",
+    "field": "published-print"
+  },
+  "Image:manipulation:Paper2024": {
+    "title": "Image Manipulation Detection with Implicit Neural Representation and Limited Supervision",
+    "score": 1.0,
+    "year": 2024,
+    "month": 11,
+    "day": 8,
+    "doi": "10.1007/978-3-031-73223-2_15",
+    "field": "published-online"
+  },
+  "DCE:Improved:Paper2013": null,
+  "Improving:class:Paper2022": {
+    "title": "Improving Class Activation Map for Weakly Supervised Object Localization",
+    "score": 1.0,
+    "year": 2022,
+    "month": 5,
+    "day": 23,
+    "doi": "10.1109/icassp43922.2022.9747058",
+    "field": "published-print"
+  },
+  "Improving:limited:arXiv2024": {
+    "title": "Improving Limited Supervised Foot Ulcer Segmentation Using Cross-Domain Augmentation Strategies",
+    "score": 0.9375,
+    "year": 2024,
+    "month": 4,
+    "day": 14,
+    "doi": "10.1109/icassp48485.2024.10446498",
+    "field": "published-print"
+  },
+  "Improving:limited:Paper2024": {
+    "title": "Improving Limited Supervised Foot Ulcer Segmentation Using Cross-Domain Augmentation Strategies",
+    "score": 1.0,
+    "year": 2024,
+    "month": 4,
+    "day": 14,
+    "doi": "10.1109/icassp48485.2024.10446498",
+    "field": "published-print"
+  },
+  "ictu:oculi:Paper2018": {
+    "title": "In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking",
+    "score": 1.0,
+    "year": 2018,
+    "month": 12,
+    "day": null,
+    "doi": "10.1109/wifs.2018.8630787",
+    "field": "published-print"
+  },
+  "ictu:oculi:arXiv2018": null,
+  "Chang:etal:PUMotionPose:ICIP2017": {
+    "title": "In-bed patient motion and pose analysis using depth videos for pressure ulcer prevention",
+    "score": 1.0,
+    "year": 2017,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/icip.2017.8297057",
+    "field": "published-print"
+  },
+  "OZML:Carbon:Trends:2023": {
+    "title": "Inferring colloidal interaction from scattering by machine learning",
+    "score": 1.0,
+    "year": 2023,
+    "month": 3,
+    "day": null,
+    "doi": "10.1016/j.cartre.2023.100252",
+    "field": "published-print"
+  },
+  "Inferring:effective:Paper2024": {
+    "title": "Inferring effective electrostatic interaction of charge-stabilized colloids from scattering using deep learning",
+    "score": 1.0,
+    "year": 2024,
+    "month": 8,
+    "day": 1,
+    "doi": "10.1107/s1600576724004515",
+    "field": "published-print"
+  },
+  "CNN:Instance:Paper2022": {
+    "title": "Instance Contour Adjustment via Structure-Driven CNN",
+    "score": 1.0,
+    "year": 2022,
+    "month": 11,
+    "day": 13,
+    "doi": "10.1007/978-3-031-20071-7_9",
+    "field": "published-online"
+  },
+  "LDW:Learnable:arXiv2021": null,
+  "Learning:multi:Paper2024": {
+    "title": "Learning Multi-Manifold Embedding for Out-of-Distribution Detection",
+    "score": 1.0,
+    "year": 2025,
+    "month": 5,
+    "day": 12,
+    "doi": "10.1007/978-3-031-91585-7_25",
+    "field": "published-online"
+  },
+  "Learning:Instance:ICIP2024": {
+    "title": "Learning With Instance-Dependent Noisy Labels By Anchor Hallucination And Hard Sample Label Correction",
+    "score": 1.0,
+    "year": 2024,
+    "month": 10,
+    "day": 27,
+    "doi": "10.1109/icip51287.2024.10648232",
+    "field": "published-print"
+  },
+  "Leveraging:Semantic:Paper2024": {
+    "title": "Leveraging Semantic Segmentation for Image Manipulation Detection and Localization",
+    "score": 1.0,
+    "year": 2024,
+    "month": 8,
+    "day": 7,
+    "doi": "10.1109/mipr62202.2024.00022",
+    "field": "published-print"
+  },
+  "Lightning:YOLOv4:Paper2022": {
+    "title": "Lightning YOLOv4 for a Surface Defect Detection System for Sawn Lumber",
+    "score": 1.0,
+    "year": 2022,
+    "month": 8,
+    "day": null,
+    "doi": "10.1109/mipr54900.2022.00039",
+    "field": "published-print"
+  },
+  "MagGAN:ACCV2020": {
+    "title": "MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network",
+    "score": 1.0,
+    "year": 2021,
+    "month": 2,
+    "day": 25,
+    "doi": "10.1007/978-3-030-69538-5_40",
+    "field": "published-online"
+  },
+  "MS:NAS:TAI2022": {
+    "title": "Mean-Shift Based Differentiable Architecture Search",
+    "score": 1.0,
+    "year": 2024,
+    "month": 3,
+    "day": null,
+    "doi": "10.1109/tai.2023.3329792",
+    "field": "published-print"
+  },
+  "Chang:Kimia:ShockMatch:CVIU11": {
+    "title": "Measuring 3D shape similarity by graph-based matching of the medial scaffolds",
+    "score": 1.0,
+    "year": 2011,
+    "month": 5,
+    "day": null,
+    "doi": "10.1016/j.cviu.2010.10.013",
+    "field": "published-print"
+  },
+  "Chang:Kimia:3DIM09": {
+    "title": "Measuring 3D shape similarity by matching the medial scaffolds",
+    "score": 1.0,
+    "year": 2009,
+    "month": 9,
+    "day": null,
+    "doi": "10.1109/iccvw.2009.5457437",
+    "field": "published-print"
+  },
+  "Mitigating:Data:arXiv2022": null,
+  "Mixnet:toward:arXiv2023": null,
+  "Modeling:Latent:Paper2020": null,
+  "Modeling:transition:Paper2015": {
+    "title": "Modeling transition patterns between events for temporal human action segmentation and classification",
+    "score": 1.0,
+    "year": 2015,
+    "month": 5,
+    "day": null,
+    "doi": "10.1109/fg.2015.7163130",
+    "field": "published-print"
+  },
+  "MOTE-NAS:Multi:Paper2024": null
+}
