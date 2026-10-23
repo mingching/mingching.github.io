@@ -3,7 +3,7 @@
     {
       "key": "Weight:Group:arXiv2026",
       "entry_type": "inproceedings",
-      "title": "Weight Group-wise Post-Training Quantization for Medical Foundation Model",
+      "title": "Weight Group-Wise Post-Training Quantization for Medical Foundation Model",
       "authors": "Y Chen and P Huang and A Zhang and Hui Guo and P Yin and Shu Hu and Shih-Syun Lin and X Li and TJ Kao and ...",
       "venue": "arXiv preprint arXiv:2604.07674, 2026",
       "year": "2026",
@@ -45,7 +45,7 @@
     {
       "key": "10th:city:arXiv2026",
       "entry_type": "inproceedings",
-      "title": "The 10th AI city challenge",
+      "title": "The 10th AI City Challenge",
       "authors": "Zheng Tang and Shuo Wang and David C. Anastasiu and Ming-Ching Chang and Anuj Sharma and Quan Kong and ...",
       "venue": "arXiv preprint arXiv:2608.17044, 2026",
       "year": "2026",
@@ -191,7 +191,7 @@
     {
       "key": "Flashsinkhorn:aware:arXiv2026",
       "entry_type": "inproceedings",
-      "title": "Flashsinkhorn: Io-aware entropic optimal transport",
+      "title": "FlashSinkhorn: IO-Aware Entropic Optimal Transport",
       "authors": "FXF Ye and X Li and An Yu and Ming-Ching Chang and L Chu and D Wertheimer",
       "venue": "Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026 (Oral)",
       "year": "2026",
@@ -254,7 +254,7 @@
     {
       "key": "Who:brings:WACV2025",
       "entry_type": "inproceedings",
-      "title": "Who brings the frisbee: Probing hidden hallucination factors in large vision-language model via causality analysis",
+      "title": "Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis",
       "authors": "PH Huang and JL Li and CP Chen and Ming-Ching Chang and WC Chen",
       "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
       "year": "2025",
@@ -264,7 +264,7 @@
     {
       "key": "Unsupervised:domain:IJGIS2025",
       "entry_type": "article",
-      "title": "Unsupervised domain adaptation for cross-style, cross-year land use understanding from historical maps",
+      "title": "Unsupervised Domain Adaptation for Cross-Style, Cross-Year Land Use Understanding from Historical Maps",
       "authors": "JH Wang and ADY Wang and HM Liao and Ming-Ching Chang and RTH Tsai",
       "venue": "International Journal of Geographical Information Science 39 (8), 1750-1769, 2025",
       "year": "2025",
@@ -284,7 +284,7 @@
     {
       "key": "Training:free:AAAI2025",
       "entry_type": "inproceedings",
-      "title": "Training-free image manipulation localization using diffusion models",
+      "title": "Training-Free Image Manipulation Localization Using Diffusion Models",
       "authors": "Zhenfei Zhang and Ming-Ching Chang and X Li",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (10), 10376 …, 2025",
       "year": "2025",
@@ -304,7 +304,7 @@
     {
       "key": "GAN:Spotting:ACM2025",
       "entry_type": "article",
-      "title": "Spotting the fakes: A deep dive into GAN-generated face detection",
+      "title": "Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection",
       "authors": "Xin Wang and Ting Yu Tsai and Li Lin and Hui Guo and Shu Hu and Ming-Ching Chang and PK Atrey and S Lyu",
       "venue": "ACM Transactions on Multimedia Computing, Communications and Applications 21 …, 2025",
       "year": "2025",
@@ -314,7 +314,7 @@
     {
       "key": "Sharpness:Aware:arXiv2025",
       "entry_type": "inproceedings",
-      "title": "Sharpness-Aware Geometric Defense for Robust Out-Of-Distribution Detection",
+      "title": "Sharpness-Aware Geometric Defense for Robust Out-of-Distribution Detection",
       "authors": "JL Li and Ming-Ching Chang and WC Chen",
       "venue": "arXiv preprint arXiv:2508.17174, 2025",
       "year": "2025",
@@ -334,7 +334,7 @@
     {
       "key": "Scattering:based:JCP2025",
       "entry_type": "article",
-      "title": "Scattering-based structural inversion of soft materials via Kolmogorov–Arnold networks",
+      "title": "Scattering-Based Structural Inversion of Soft Materials via Kolmogorov–Arnold Networks",
       "authors": "CH Tung and L Ding and Ming-Ching Chang and GR Huang and Lionel Porcar and Y Wang and JMY Carrillo and ...",
       "venue": "The Journal of Chemical Physics 162 (7), 2025",
       "year": "2025",
@@ -344,7 +344,7 @@
     {
       "key": "Scale:aware:TIP2025",
       "entry_type": "article",
-      "title": "Scale-aware crowd counting network with annotation error modeling",
+      "title": "Scale-Aware Crowd Counting Network with Annotation Error Modeling",
       "authors": "YK Hsieh and JW Hsieh and X Li and YM Zhang and YC Tseng and Ming-Ching Chang",
       "venue": "IEEE Transactions on Image Processing 34, 2750-2764, 2025",
       "year": "2025",
@@ -364,7 +364,7 @@
     {
       "key": "Robust:defense:Paper2025",
       "entry_type": "inproceedings",
-      "title": "Robust defense against adversarial attacks with defensive preprocessing and adversarial training",
+      "title": "Robust Defense Against Adversarial Attacks with Defensive Preprocessing and Adversarial Training",
       "authors": "CY Lin and BH Lai and HF Ng and WY Lin and Ming-Ching Chang",
       "venue": "2025 IEEE International Conference on Consumer Electronics (ICCE), 1-6, 2025",
       "year": "2025",
@@ -374,7 +374,7 @@
     {
       "key": "Rlministyler:Light:arXiv2025",
       "entry_type": "inproceedings",
-      "title": "Rlministyler: Light-weight rl style agent for arbitrary sequential neural style generation",
+      "title": "RLMiniStyler: Light-Weight RL Style Agent for Arbitrary Sequential Neural Style Generation",
       "authors": "J Hu and C Feng and Shu Hu and Ming-Ching Chang and X Li and Xunlei Wu and Xin Wang",
       "venue": "arXiv preprint arXiv:2505.04424, 2025",
       "year": "2025",
@@ -404,7 +404,7 @@
     {
       "key": "Open:set:Paper2025",
       "entry_type": "article",
-      "title": "Open-set occluded person identification with mmWave radar",
+      "title": "Open-Set Occluded Person Identification with mmWave Radar",
       "authors": "T Wang and Yang Zhao and Ming-Ching Chang and J Liu",
       "venue": "IEEE Transactions on Mobile Computing 24 (6), 5229-5244, 2025",
       "year": "2025",
@@ -484,7 +484,7 @@
     {
       "key": "Integrating:manual:Paper2025",
       "entry_type": "article",
-      "title": "Integrating manual preprocessing with automated feature extraction for improved rodent seizure classification",
+      "title": "Integrating Manual Preprocessing with Automated Feature Extraction for Improved Rodent Seizure Classification",
       "authors": "An Yu and M Singh and Abhineet Kumar Pandey and E Dybas and A Agarwal and Y Kao and G Zhao and TJ Kao and ...",
       "venue": "Epilepsy & Behavior 165, 110306, 2025",
       "year": "2025",
@@ -514,7 +514,7 @@
     {
       "key": "LLM:Enhancing:Paper2025",
       "entry_type": "inproceedings",
-      "title": "Enhancing LLM Question Answering with RAG through Dense Vector Search and Re-Ranking",
+      "title": "Enhancing LLM Question Answering with RAG Through Dense Vector Search and Re-Ranking",
       "authors": "TL Yang and JS Liu and YH Tseng and JS Jang and Ming-Ching Chang and WC Chen",
       "venue": "2025 IEEE International Conference on Advanced Visual and Signal-Based …, 2025",
       "year": "2025",
@@ -524,7 +524,7 @@
     {
       "key": "E4:Energy:AAAI2025",
       "entry_type": "inproceedings",
-      "title": "E4: Energy-efficient DNN inference for edge video analytics via early exiting and DVFS",
+      "title": "E4: Energy-Efficient DNN Inference for Edge Video Analytics via Early Exiting and DVFS",
       "authors": "Zhenfei Zhang and Yang Zhao and Ming-Ching Chang and C Lin and J Liu",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (1), 1165-1173, 2025",
       "year": "2025",
@@ -544,7 +544,7 @@
     {
       "key": "Continual:learning:arXiv2025",
       "entry_type": "inproceedings",
-      "title": "Continual learning with synthetic boundary experience blending",
+      "title": "Continual Learning with Synthetic Boundary Experience Blending",
       "authors": "CF Hsu and Ming-Ching Chang and WC Chen",
       "venue": "arXiv e-prints, arXiv: 2507.23534, 2025",
       "year": "2025",
@@ -574,7 +574,7 @@
     {
       "key": "semantically:impactful:WACV2025",
       "entry_type": "inproceedings",
-      "title": "A semantically impactful image manipulation dataset: Characterizing image manipulations using semantic significance",
+      "title": "A Semantically Impactful Image Manipulation Dataset: Characterizing Image Manipulations Using Semantic Significance",
       "authors": "Y Chen and Ming-Ching Chang and M Kirchner and Zhenfei Zhang and X Li and A Basharat and A Hoogs",
       "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
       "year": "2025",
@@ -584,7 +584,7 @@
     {
       "key": "DNN:comprehensive:Paper2025",
       "entry_type": "inproceedings",
-      "title": "A comprehensive evaluation of encrypted DNN inference methods",
+      "title": "A Comprehensive Evaluation of Encrypted DNN Inference Methods",
       "authors": "YT Ku and MC Ho and Yu Xiao and FH Liu and CF Hsu and Ming-Ching Chang and SH Hung and WC Chen",
       "venue": "2025 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2025",
       "year": "2025",
@@ -594,7 +594,7 @@
     {
       "key": "Uu-mamba:Uncertainty:arXiv2024",
       "entry_type": "inproceedings",
-      "title": "Uu-mamba: Uncertainty-aware u-mamba for cardiovascular segmentation",
+      "title": "UU-Mamba: Uncertainty-Aware U-Mamba for Cardiovascular Segmentation",
       "authors": "Ting Yu Tsai and Li Lin and Shu Hu and CW Tsao and X Li and Ming-Ching Chang and Hongyu Zhu and Xin Wang",
       "venue": "arXiv e-prints, arXiv: 2409.14305, 2024",
       "year": "2024",
@@ -604,7 +604,7 @@
     {
       "key": "Uu-mamba:uncertainty:Paper2024",
       "entry_type": "inproceedings",
-      "title": "Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation",
+      "title": "UU-Mamba: Uncertainty-Aware U-Mamba for Cardiac Image Segmentation",
       "authors": "Ting Yu Tsai and Li Lin and Shu Hu and Ming-Ching Chang and Hongyu Zhu and Xin Wang",
       "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
       "year": "2024",
@@ -614,7 +614,7 @@
     {
       "key": "Unveiling:mesoscopic:Paper2024",
       "entry_type": "article",
-      "title": "Unveiling mesoscopic structures in distorted lamellar phases through deep learning-based small angle neutron scattering analysis",
+      "title": "Unveiling Mesoscopic Structures in Distorted Lamellar Phases Through Deep Learning-Based Small Angle Neutron Scattering Analysis",
       "authors": "CH Tung and YJ Hsiao and HL Chen and GR Huang and Lionel Porcar and Ming-Ching Chang and ...",
       "venue": "Journal of Colloid and Interface Science 659, 739-750, 2024",
       "year": "2024",
@@ -624,7 +624,7 @@
     {
       "key": "8th:city:CVPR2024",
       "entry_type": "inproceedings",
-      "title": "The 8th ai city challenge",
+      "title": "The 8th AI City Challenge",
       "authors": "Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Shaiqur Rahman and Meenakshi S. Arya and Anuj Sharma and Pranamesh Chakraborty and Sanjita Prajapati and Quan Kong and Norimasa Kobori and Munkhjargal Gochoo and Munkh-Erdene Otgonbold and Fady Alnajjar and Ganzorig Batnasan and Ping-Yang Chen and Jun-Wei Hsieh and Xunlei Wu and Sameer Satish Pusegaonkar and Yizhou Wang and Sujit Biswas and Rama Chellappa",
       "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
       "year": "2024",
@@ -634,7 +634,7 @@
     {
       "key": "TextSleuth:new:Paper2024",
       "entry_type": "inproceedings",
-      "title": "TextSleuth: a new dataset and baseline for scene text manipulation detection",
+      "title": "TextSleuth: A New Dataset and Baseline for Scene Text Manipulation Detection",
       "authors": "Abhineet Kumar Pandey and Ming-Ching Chang and Xin Li",
       "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
       "year": "2024",
@@ -644,7 +644,7 @@
     {
       "key": "Text:driven:Paper2024",
       "entry_type": "inproceedings",
-      "title": "Text-driven synchronized diffusion video and audio talking head generation",
+      "title": "Text-Driven Synchronized Diffusion Video and Audio Talking Head Generation",
       "authors": "Zhenfei Zhang and TW Huang and GM Su and Ming-Ching Chang and X Li",
       "venue": "2024 IEEE 7th International Conference on Multimedia Information Processing …, 2024",
       "year": "2024",
@@ -654,7 +654,7 @@
     {
       "key": "Smiletrack:Similarity:AAAI2024",
       "entry_type": "inproceedings",
-      "title": "Smiletrack: Similarity learning for occlusion-aware multiple object tracking",
+      "title": "SMILEtrack: Similarity Learning for Occlusion-Aware Multiple Object Tracking",
       "authors": "Yu-Hsiang Wang and Jun-Wei Hsieh and Ping-Yang Chen and Ming-Ching Chang and Hung-Hin So and Xin Li",
       "venue": "Proceedings of the AAAI conference on artificial intelligence 38 (6), 5740-5748, 2024",
       "year": "2024",
@@ -664,7 +664,7 @@
     {
       "key": "Set-Nas:Sample:ICIP2024",
       "entry_type": "inproceedings",
-      "title": "Set-Nas: Sample-Efficient Training For Neural Architecture Search With Strong Predictor And Stratified Sampling",
+      "title": "Set-NAS: Sample-Efficient Training for Neural Architecture Search with Strong Predictor and Stratified Sampling",
       "authors": "Yu-Ming Zhang and Yu-Hsiu Chang and Jun-Wei Hsieh and Xin Li and Ming-Ching Chang and Chun-Chieh Lee and Kuo-Chin Fan",
       "venue": "2024 IEEE International Conference on Image Processing (ICIP), 680-686, 2024",
       "year": "2024",
@@ -674,7 +674,7 @@
     {
       "key": "Pushing:limit:AAAI2024",
       "entry_type": "inproceedings",
-      "title": "Pushing the limit of fine-tuning for few-shot learning: where feature reusing meets cross-scale attention",
+      "title": "Pushing the Limit of Fine-Tuning for Few-Shot Learning: Where Feature Reusing Meets Cross-Scale Attention",
       "authors": "Ying-Yu Chen and Jun-Wei Hsieh and Xin Li and Ming-Ching Chang",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (10), 11434 …, 2024",
       "year": "2024",
@@ -694,7 +694,7 @@
     {
       "key": "PreAugNet:improve:Paper2024",
       "entry_type": "article",
-      "title": "PreAugNet: improve data augmentation for industrial defect classification with small-scale training data",
+      "title": "PreAugNet: Improve Data Augmentation for Industrial Defect Classification with Small-Scale Training Data",
       "authors": "Isack Farady and Chih-Yang Lin and Ming-Ching Chang",
       "venue": "Journal of Intelligent Manufacturing 35 (3), 1233-1246, 2024",
       "year": "2024",
@@ -704,7 +704,7 @@
     {
       "key": "NAS:based:Paper2024",
       "entry_type": "inproceedings",
-      "title": "NAS-based Recursive Stage Partial Network (RSPNet) for Light-Weight Semantic Segmentation",
+      "title": "NAS-Based Recursive Stage Partial Network (RSPNet) for Light-Weight Semantic Segmentation",
       "authors": "YC Wang and JW Hsieh and YK Hsieh and CW Chang",
       "venue": "2024 International Computer Symposium (ICS), 213-218, 2024",
       "year": "2024",
@@ -714,7 +714,7 @@
     {
       "key": "MOTE-NAS:Multi:Paper2024",
       "entry_type": "inproceedings",
-      "title": "MOTE-NAS: Multi-objective training-based estimate for efficient neural architecture search",
+      "title": "MOTE-NAS: Multi-Objective Training-Based Estimate for Efficient Neural Architecture Search",
       "authors": "YM Zhang and JW Hsieh and X Li and Ming-Ching Chang and CC Lee and KC Fan",
       "venue": "Advances in Neural Information Processing Systems 37, 100845-100869, 2024",
       "year": "2024",
@@ -734,7 +734,7 @@
     {
       "key": "Learning:Instance:ICIP2024",
       "entry_type": "inproceedings",
-      "title": "Learning With Instance-Dependent Noisy Labels By Anchor Hallucination And Hard Sample Label Correction",
+      "title": "Learning with Instance-Dependent Noisy Labels by Anchor Hallucination and Hard Sample Label Correction",
       "authors": "Po-Hsuan Huang and Chia-Ching Lin and Chih-Fan Hsu and Ming-Ching Chang and Wei-Chao Chen",
       "venue": "2024 IEEE International Conference on Image Processing (ICIP), 901-907, 2024",
       "year": "2024",
@@ -744,7 +744,7 @@
     {
       "key": "Learning:multi:Paper2024",
       "entry_type": "inproceedings",
-      "title": "Learning multi-manifold embedding for out-of-distribution detection",
+      "title": "Learning Multi-Manifold Embedding for Out-of-Distribution Detection",
       "authors": "Jeng-Lin Li and Ming-Ching Chang and Wei-Chao Chen",
       "venue": "European Conference on Computer Vision, 417-433, 2024",
       "year": "2024",
@@ -754,7 +754,7 @@
     {
       "key": "Inferring:effective:Paper2024",
       "entry_type": "article",
-      "title": "Inferring effective electrostatic interaction of charge-stabilized colloids from scattering using deep learning",
+      "title": "Inferring Effective Electrostatic Interaction of Charge-Stabilized Colloids from Scattering Using Deep Learning",
       "authors": "CH Tung and MZ Chen and HL Chen and GR Huang and Lionel Porcar and Ming-Ching Chang and ...",
       "venue": "Applied Crystallography 57 (4), 1047-1058, 2024",
       "year": "2024",
@@ -764,7 +764,7 @@
     {
       "key": "Improving:limited:Paper2024",
       "entry_type": "inproceedings",
-      "title": "Improving limited supervised foot ulcer segmentation using cross-domain augmentation strategies",
+      "title": "Improving Limited Supervised Foot Ulcer Segmentation Using Cross-Domain Augmentation Strategies",
       "authors": "Shang-Jui Kuo and Po-Han Huang and Chia-Ching Lin and Jeng-Lin Li and Ming-Ching Chang",
       "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
       "year": "2024",
@@ -774,7 +774,7 @@
     {
       "key": "Improving:limited:arXiv2024",
       "entry_type": "inproceedings",
-      "title": "Improving limited supervised foot ulcer segmentation using cross-domain augmentation",
+      "title": "Improving Limited Supervised Foot Ulcer Segmentation Using Cross-Domain Augmentation",
       "authors": "SJ Kuo and PH Huang and CC Lin and JL Li and Ming-Ching Chang",
       "venue": "arXiv preprint arXiv:2401.08422, 2024",
       "year": "2024",
@@ -784,7 +784,7 @@
     {
       "key": "Image:manipulation:Paper2024",
       "entry_type": "inproceedings",
-      "title": "Image manipulation detection with implicit neural representation and limited supervision",
+      "title": "Image Manipulation Detection with Implicit Neural Representation and Limited Supervision",
       "authors": "Zhenfei Zhang and Mingyang Li and Xin Li and Ming-Ching Chang and Jun-Wei Hsieh",
       "venue": "European Conference on Computer Vision, 255-273, 2024",
       "year": "2024",
@@ -794,7 +794,7 @@
     {
       "key": "Image:classification:Paper2024",
       "entry_type": "article",
-      "title": "Image classification for historical documents: a study on Chinese local gazetteers",
+      "title": "Image Classification for Historical Documents: A Study on Chinese Local Gazetteers",
       "authors": "Jhe-An Chen and Jen-Chien Hou and Richard Tzong-Han Tsai and Hsiung-Ming Liao and Shih-Pei Chen and Ming-Ching Chang",
       "venue": "Digital Scholarship in the Humanities 39 (1), 61-73, 2024",
       "year": "2024",
@@ -804,7 +804,7 @@
     {
       "key": "Gpu:acceleration:Paper2024",
       "entry_type": "article",
-      "title": "GPU acceleration for FHEW/TFHE bootstrapping",
+      "title": "GPU Acceleration for FHEW/TFHE Bootstrapping",
       "authors": "Yu Xiao and FH Liu and YT Ku and MC Ho and CF Hsu and Ming-Ching Chang and SH Hung and WC Chen",
       "venue": "Ruhr-University of Bochum, 2024",
       "year": "2024",
@@ -824,7 +824,7 @@
     {
       "key": "FHEW:Efficient:ACM2024",
       "entry_type": "inproceedings",
-      "title": "Efficient design of FHEW/TFHE bootstrapping implementation with scalable parameters",
+      "title": "Efficient Design of FHEW/TFHE Bootstrapping Implementation with Scalable Parameters",
       "authors": "Ming-Chien Ho and Yu-Te Ku and Yu Xiao and Feng-Hao Liu and Chih-Fan Hsu and Ming-Ching Chang and Shih-Hao Hung and Wei-Chao Chen",
       "venue": "Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided …, 2024",
       "year": "2024",
@@ -834,7 +834,7 @@
     {
       "key": "Dual:Phase:Paper2024",
       "entry_type": "inproceedings",
-      "title": "Dual-Phase Msqnet for Species-Specific Animal Activity Recognition",
+      "title": "Dual-Phase MSQNet for Species-Specific Animal Activity Recognition",
       "authors": "An Yu and Jeremy Varghese and Ferhat Demirkiran and Peter Buonaiuto and Xin Li and Ming-Ching Chang",
       "venue": "2024 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 1-6, 2024",
       "year": "2024",
@@ -854,7 +854,7 @@
     {
       "key": "Addressing:long:arXiv2024",
       "entry_type": "inproceedings",
-      "title": "Addressing long-tail noisy label learning problems: a two-stage solution with label refurbishment considering label rarity",
+      "title": "Addressing Long-Tail Noisy Label Learning Problems: A Two-Stage Solution with Label Refurbishment Considering Label Rarity",
       "authors": "Ying-Hsuan Wu and Jun-Wei Hsieh and Li Xin and Shin-You Teng and Yi-Kuan Hsieh and Ming-Ching Chang",
       "venue": "arXiv preprint arXiv:2403.02363, 2024",
       "year": "2024",
@@ -874,7 +874,7 @@
     {
       "key": "comprehensive:review:arXiv2024",
       "entry_type": "inproceedings",
-      "title": "A comprehensive review of machine learning advances on data change: A cross-field perspective",
+      "title": "A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective",
       "authors": "JL Li and CF Hsu and Ming-Ching Chang and WC Chen",
       "venue": "arXiv preprint arXiv:2402.12627, 2024",
       "year": "2024",
@@ -884,7 +884,7 @@
     {
       "key": "Video:analytics:CVPR2023",
       "entry_type": "inproceedings",
-      "title": "Video analytics for detecting motorcyclist helmet rule violations",
+      "title": "Video Analytics for Detecting Motorcyclist Helmet Rule Violations",
       "authors": "Chun-Ming Tsai and Jun-Wei Hsieh and Ming-Ching Chang and Guan-Lin He and Ping-Yang Chen and Wei-Tsung Chang and Yi-Kuan Hsieh",
       "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
       "year": "2023",
@@ -894,7 +894,7 @@
     {
       "key": "Using:vocoder:Paper2023",
       "entry_type": "inproceedings",
-      "title": "Using vocoder artifacts for audio deepfakes detection",
+      "title": "Using Vocoder Artifacts for Audio Deepfakes Detection",
       "authors": "Chengzhe Sun and E AlBadawy and TF Davison and SR Robinson and Ming-Ching Chang and S Lyu",
       "venue": "Adversarial Multimedia Forensics, 263-282, 2023",
       "year": "2023",
@@ -904,7 +904,7 @@
     {
       "key": "Two:stage:Paper2023",
       "entry_type": "inproceedings",
-      "title": "Two-stage dual augmentation with clip for improved text-to-sketch synthesis",
+      "title": "Two-Stage Dual Augmentation with CLIP for Improved Text-to-Sketch Synthesis",
       "authors": "Zhenfei Zhang and Ming-Ching Chang",
       "venue": "2023 IEEE 6th International Conference on Multimedia Information Processing …, 2023",
       "year": "2023",
@@ -944,7 +944,7 @@
     {
       "key": "Region:aware:Paper2023",
       "entry_type": "inproceedings",
-      "title": "Region-aware photo assurance system for image authentication",
+      "title": "Region-Aware Photo Assurance System for Image Authentication",
       "authors": "Ke-Han Li and Chih-Fan Hsu and Ming-Ching Chang and Feng-Hao Liu and Shao-Yi Chien and Wei-Chao Chen",
       "venue": "2023 IEEE 6th International Conference on Multimedia Information Processing …, 2023",
       "year": "2023",
@@ -954,7 +954,7 @@
     {
       "key": "Prb:fpn:CVPR2023",
       "entry_type": "inproceedings",
-      "title": "Prb-fpn+: Video analytics for enforcing motorcycle helmet laws",
+      "title": "Prb-Fpn+: Video Analytics for Enforcing Motorcycle Helmet Laws",
       "authors": "Bor-Shiun Wang and Ping-Yang Chen and Yi-Kuan Hsieh and Jun-Wei Hsieh and Ming-Ching Chang and JiaXin He and Shin-You Teng and HaoYuan Yue",
       "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
       "year": "2023",
@@ -964,7 +964,7 @@
     {
       "key": "Mixnet:toward:arXiv2023",
       "entry_type": "inproceedings",
-      "title": "Mixnet: toward accurate detection of challenging scene text in the wild",
+      "title": "Mixnet: Toward Accurate Detection of Challenging Scene Text in the Wild",
       "authors": "YX Zeng and JW Hsieh and X Li and Ming-Ching Chang",
       "venue": "arXiv preprint arXiv:2308.12817, 2023",
       "year": "2023",
@@ -994,7 +994,7 @@
     {
       "key": "Gan:generated:Paper2023",
       "entry_type": "inproceedings",
-      "title": "Gan-generated faces detection: A survey and new perspectives",
+      "title": "GAN-Generated Faces Detection: A Survey and New Perspectives",
       "authors": "Xin Wang and Hui Guo and Shu Hu and Ming-Ching Chang and Siwei Lyu",
       "venue": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
       "year": "2023",
@@ -1004,7 +1004,7 @@
     {
       "key": "Fisheye8k:benchmark:CVPR2023",
       "entry_type": "inproceedings",
-      "title": "Fisheye8k: A benchmark and dataset for fisheye camera object detection",
+      "title": "Fisheye8K: A Benchmark and Dataset for Fisheye Camera Object Detection",
       "authors": "Munkhjargal Gochoo and Munkh-Erdene Otgonbold and Erkhembayar Ganbold and Jun-Wei Hsieh and Ming-Ching Chang and Ping-Yang Chen and Byambaa Dorj and Hamad Al Jassmi and Ganzorig Batnasan and Fady Alnajjar and Mohammed Abduljabbar and Fang-Peng Lin",
       "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2023",
       "year": "2023",
@@ -1014,7 +1014,7 @@
     {
       "key": "Fisheye:multiple:ICIP2023",
       "entry_type": "inproceedings",
-      "title": "Fisheye multiple object tracking by learning distortions without dewarping",
+      "title": "Fisheye Multiple Object Tracking by Learning Distortions without Dewarping",
       "authors": "Ping-Yang Chen and Jun-Wei Hsieh and Ming-Ching Chang and Munkhjargal Gochoo and Fang-Pang Lin and Yong-Sheng Chen",
       "venue": "2023 IEEE International Conference on Image Processing (ICIP), 1855-1859, 2023",
       "year": "2023",
@@ -1044,7 +1044,7 @@
     {
       "key": "efficient:ckks:Paper2023",
       "entry_type": "inproceedings",
-      "title": "An efficient ckks-fhew/tfhe hybrid encrypted inference framework",
+      "title": "An Efficient CKKS-FHEW/TFHE Hybrid Encrypted Inference Framework",
       "authors": "Tzu-Li Liu and Yu-Te Ku and Ming-Chien Ho and Feng-Hao Liu and Ming-Ching Chang and Chih-Fan Hsu and Wei-Chao Chen and Shih-Hao Hung",
       "venue": "European Symposium on Research in Computer Security, 535-551, 2023",
       "year": "2023",
@@ -1064,7 +1064,7 @@
     {
       "key": "Vocbench:neural:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Vocbench: A neural vocoder benchmark for speech synthesis",
+      "title": "VocBench: A Neural Vocoder Benchmark for Speech Synthesis",
       "authors": "Ehab. AlBadawy and Andrew Gibiansky and Qing He and Jilong Wu and Ming-Ching Chang and Siwei Lyu",
       "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
       "year": "2022",
@@ -1074,7 +1074,7 @@
     {
       "key": "Towards:multimodal:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Towards multimodal semantic consistency analysis of long form articles",
+      "title": "Towards Multimodal Semantic Consistency Analysis of Long Form Articles",
       "authors": "Y Chen and Ming-Ching Chang",
       "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
       "year": "2022",
@@ -1084,7 +1084,7 @@
     {
       "key": "Text:image:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Text-image de-contextualization detection using vision-language models",
+      "title": "Text-Image De-Contextualization Detection Using Vision-Language Models",
       "authors": "Mingzhen Huang and Shan Jia and Ming-Ching Chang and Siwei Lyu",
       "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
       "year": "2022",
@@ -1094,7 +1094,7 @@
     {
       "key": "Track:Activity:CVIU2022",
       "entry_type": "article",
-      "title": "Simultaneous Multi-Person Tracking and Activity Recognition based on Cohesive Cluster Search",
+      "title": "Simultaneous Multi-Person Tracking and Activity Recognition Based on Cohesive Cluster Search",
       "authors": "Wenbo Li and Yi Wei and Siwei Lyu and Ming-Ching Chang",
       "venue": "Computer Vision and Image Understanding 214, 103301, 2022",
       "year": "2022",
@@ -1104,7 +1104,7 @@
     {
       "key": "Bridge:Seg:NSR2022",
       "entry_type": "article",
-      "title": "Semi-supervised Learning for Topographic Map Analysis Over Time: a Study of Bridge Segmentation",
+      "title": "Semi-Supervised Learning for Topographic Map Analysis over Time: A Study of Bridge Segmentation",
       "authors": "Cheng-Shih Wong and Hsiung-Ming Liao and Richard Tzong-Han Tsai and Ming-Ching Chang",
       "venue": "Scientific Reports 12 (1), 18997, 2022",
       "year": "2022",
@@ -1124,7 +1124,7 @@
     {
       "key": "Robust:attentive:Paper2022",
       "entry_type": "article",
-      "title": "Robust attentive deep neural network for detecting gan-generated faces",
+      "title": "Robust Attentive Deep Neural Network for Detecting GAN-Generated Faces",
       "authors": "Hui Guo and Shu Hu and Xin Wang and Ming-Ching Chang and Siwei Lyu",
       "venue": "Ieee Access 10, 32574-32583, 2022",
       "year": "2022",
@@ -1134,7 +1134,7 @@
     {
       "key": "Pseudoprop:Robust:CVPR2022",
       "entry_type": "inproceedings",
-      "title": "Pseudoprop: Robust pseudo-label generation for semi-supervised object detection in autonomous driving systems",
+      "title": "Pseudoprop: Robust Pseudo-Label Generation for Semi-Supervised Object Detection in Autonomous Driving Systems",
       "authors": "Shu Hu and Chun-Hao Liu and Jayanta Dutta and Ming-Ching Chang and Siwei Lyu and Naveen Ramakrishnan",
       "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2022",
       "year": "2022",
@@ -1144,7 +1144,7 @@
     {
       "key": "Open-eye:open:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Open-eye: An open platform to study human performance on identifying ai-synthesized faces",
+      "title": "Open-Eye: An Open Platform to Study Human Performance on Identifying AI-Synthesized Faces",
       "authors": "Hui Guo and Shu Hu and Ming-Ching Chang and Siwei Lyu",
       "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
       "year": "2022",
@@ -1154,7 +1154,7 @@
     {
       "key": "multimodal:semantic:Paper2022",
       "entry_type": "inproceedings",
-      "title": "On multimodal semantic consistency detection of news articles with image caption pairs",
+      "title": "On Multimodal Semantic Consistency Detection of News Articles with Image Caption Pairs",
       "authors": "Yuwei Chen and Ming-Ching Chang",
       "venue": "2022 IEEE International Conference on Consumer Electronics-Taiwan, 355-356, 2022",
       "year": "2022",
@@ -1164,7 +1164,7 @@
     {
       "key": "Observation:attention:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Observation of attention mechanism baseline for pcb surface inspection system",
+      "title": "Observation of Attention Mechanism Baseline for PCB Surface Inspection System",
       "authors": "Fityanul Akhyar and Ledya Novamizanti and Muhammad Azka Imaddudin and Ikhsanico Henda Pratama and Shandy Ramanda Firmansyach and Ming-Ching Chang and Chih-Yang Lin",
       "venue": "2022 IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob), 1-6, 2022",
       "year": "2022",
@@ -1184,7 +1184,7 @@
     {
       "key": "Lightning:YOLOv4:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Lightning YOLOv4 for a surface defect detection system for sawn lumber",
+      "title": "Lightning YOLOv4 for a Surface Defect Detection System for Sawn Lumber",
       "authors": "Fityanul Akhyar and Ledya Novamizanti and Trianusa Putra and Elvin Nur Furqon and Ming-Ching Chang and Chih-Yang Lin",
       "venue": "2022 IEEE 5th International Conference on Multimedia Information Processing …, 2022",
       "year": "2022",
@@ -1194,7 +1194,7 @@
     {
       "key": "CNN:Instance:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Instance contour adjustment via structure-driven CNN",
+      "title": "Instance Contour Adjustment via Structure-Driven CNN",
       "authors": "Shuchen Weng and Yi Wei and Ming-Ching Chang and Boxin Shi",
       "venue": "European Conference on Computer Vision, 146-161, 2022",
       "year": "2022",
@@ -1204,7 +1204,7 @@
     {
       "key": "Improving:class:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Improving class activation map for weakly supervised object localization",
+      "title": "Improving Class Activation Map for Weakly Supervised Object Localization",
       "authors": "Zhenfei Zhang and Ming-Ching Chang and Tien D. Bui",
       "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
       "year": "2022",
@@ -1234,7 +1234,7 @@
     {
       "key": "Eyes:tell:Paper2022",
       "entry_type": "inproceedings",
-      "title": "Eyes tell all: Irregular pupil shapes reveal gan-generated faces",
+      "title": "Eyes Tell All: Irregular Pupil Shapes Reveal GAN-Generated Faces",
       "authors": "Hui Guo and Shu Hu and Xin Wang and Ming-Ching Chang",
       "venue": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …, 2022",
       "year": "2022",
@@ -1254,7 +1254,7 @@
     {
       "key": "DetPoseNet:Improving:TIP2022",
       "entry_type": "article",
-      "title": "DetPoseNet: Improving multi-person pose estimation via coarse-pose filtering",
+      "title": "DetPoseNet: Improving Multi-Person Pose Estimation via Coarse-Pose Filtering",
       "authors": "Lipeng Ke and Ming-Ching Chang and H Qi and S Lyu",
       "venue": "IEEE Transactions on Image Processing 31, 2782-2795, 2022",
       "year": "2022",
@@ -1284,7 +1284,7 @@
     {
       "key": "machine:learning:Paper2022:2",
       "entry_type": "article",
-      "title": "A machine learning inversion scheme for determining interaction from scattering",
+      "title": "A Machine Learning Inversion Scheme for Determining Interaction from Scattering",
       "authors": "Ming-Ching Chang and CH Tung and SY Chang and JM Carrillo and Y Wang and BG Sumpter and ...",
       "venue": "Communications Physics 5 (1), 46, 2022",
       "year": "2022",
@@ -1294,7 +1294,7 @@
     {
       "key": "machine:learning:Paper2022",
       "entry_type": "inproceedings",
-      "title": "A machine learning inversion scheme for determining effective interaction of charged colloidal suspensions using scattering",
+      "title": "A Machine Learning Inversion Scheme for Determining Effective Interaction of Charged Colloidal Suspensions Using Scattering",
       "authors": "CH Tung and Ming-Ching Chang and SY Chang and JM Carrillo and Y Wang and B Sumpter and ...",
       "venue": "APS March Meeting Abstracts 2022, T31. 010, 2022",
       "year": "2022",
@@ -1304,7 +1304,7 @@
     {
       "key": "Transrpn:Towards:Paper2021",
       "entry_type": "article",
-      "title": "Transrpn: Towards the transferable adversarial perturbations using region proposal networks and beyond",
+      "title": "TransRPN: Towards the Transferable Adversarial Perturbations Using Region Proposal Networks and Beyond",
       "authors": "Yuezun Li and Ming-Ching Chang and Pu Sun and Honggang Qi and Junyu Dong and Siwei Lyu",
       "venue": "Computer Vision and Image Understanding 213, 103302, 2021",
       "year": "2021",
@@ -1354,7 +1354,7 @@
     {
       "key": "MS-DARTS:Mean:arXiv2021",
       "entry_type": "inproceedings",
-      "title": "MS-DARTS: Mean-shift based differentiable architecture search",
+      "title": "MS-DARTS: Mean-Shift Based Differentiable Architecture Search",
       "authors": "Jun-Wei Hsieh and Ming-Ching Chang and Ping-Yang Chen and Santanu Santra and Cheng-Han Chou and Chih-Sheng Huang",
       "venue": "arXiv preprint arXiv:2108.09996, 2021",
       "year": "2021",
@@ -1364,7 +1364,7 @@
     {
       "key": "LDW:Learnable:arXiv2021",
       "entry_type": "inproceedings",
-      "title": "Learnable discrete wavelet pooling (LDW-Pooling) for convolutional networks",
+      "title": "Learnable Discrete Wavelet Pooling (LDW-Pooling) for Convolutional Networks",
       "authors": "BS Wang and JW Hsieh and Ming-Ching Chang and PY Chen and Lipeng Ke and S Lyu",
       "venue": "arXiv preprint arXiv:2109.06638, 2021",
       "year": "2021",
@@ -1374,7 +1374,7 @@
     {
       "key": "FlagDetSeg:Multi:Paper2021",
       "entry_type": "inproceedings",
-      "title": "FlagDetSeg: Multi-nation flag detection and segmentation in the wild",
+      "title": "FlagDetSeg: Multi-Nation Flag Detection and Segmentation in the Wild",
       "authors": "Shou-Fang Wu and Ming-Ching Chang and Siwei Lyu and Cheng-Shih Wong and Abhineet Kumar Pandey and Po-Chi Su",
       "venue": "2021 17th IEEE International Conference on Advanced Video and Signal Based …, 2021",
       "year": "2021",
@@ -1384,7 +1384,7 @@
     {
       "key": "video:analytic:Paper2021",
       "entry_type": "inproceedings",
-      "title": "A video analytic system for rail crossing point protection",
+      "title": "A Video Analytic System for Rail Crossing Point Protection",
       "authors": "Guanliang Zhao and Abhineet Kumar Pandey and Ming-Ching Chang and Siwei Lyu",
       "venue": "2021 17th IEEE International Conference on Advanced Video and Signal Based …, 2021",
       "year": "2021",
@@ -1434,7 +1434,7 @@
     {
       "key": "MULTI:PASS:Paper2020",
       "entry_type": "inproceedings",
-      "title": "MULTI-PASS YOLOV3 FOR SCOOTER LICENSE PLATE DETECTION AND RECOGNITION (Best paper candidate)",
+      "title": "MULTI-PASS YOLOV3 FOR SCOOTER LICENSE PLATE DETECTION AND RECOGNITION (Best Paper Candidate)",
       "authors": "Ming-Ching Chang and JW Hsieh and CM Tsai and ZY Lin",
       "venue": "The 33rd IPPR Conference On Computer Vision, Graphics, And Image Processing …, 2020",
       "year": "2020",
@@ -1484,7 +1484,7 @@
     {
       "key": "Drone:Vehicle:Flow:ICIP2020",
       "entry_type": "inproceedings",
-      "title": "Drone-Based Vehicle Flow Estimation and its Application to Traffic Conflict Hotspot Detection at Intersections",
+      "title": "Drone-Based Vehicle Flow Estimation and Its Application to Traffic Conflict Hotspot Detection at Intersections",
       "authors": "Ping-Yang Chen and Jun-Wei Hsieh and Munkhjargal Gochoo and Ming-Ching Chang and Chien-Yao Wang and Mark Hong-Yuan Liao",
       "venue": "2020 IEEE International Conference on Image Processing (ICIP), 1521-1525, 2020",
       "year": "2020",
@@ -1534,7 +1534,7 @@
     {
       "key": "WIP:abstract:ACM2019",
       "entry_type": "inproceedings",
-      "title": "WIP abstract: Deep intelligent network for device-free people tracking",
+      "title": "WIP Abstract: Deep Intelligent Network for Device-Free People Tracking",
       "authors": "Yang Zhao and Ming-Ching Chang and Peter Tu",
       "venue": "ICCPS 2019-Proc. 2019 ACM/IEEE Int. Conf. Cyber-Physical Syst., 302-303, 2019",
       "year": "2019",
@@ -1574,7 +1574,7 @@
     {
       "key": "PLSA:Efficient:Paper2019",
       "entry_type": "article",
-      "title": "Efficient algorithms for graph regularized PLSA for probabilistic topic modeling",
+      "title": "Efficient Algorithms for Graph Regularized PLSA for Probabilistic Topic Modeling",
       "authors": "Xin Wang and Ming-Ching Chang and L Wang and S Lyu",
       "venue": "Pattern Recognition 86, 236-247, 2019",
       "year": "2019",
@@ -1584,7 +1584,7 @@
     {
       "key": "WIP:Deep:ACM2019",
       "entry_type": "inproceedings",
-      "title": "Deep intelligent network for device-free people tracking: WIP abstract",
+      "title": "Deep Intelligent Network for Device-Free People Tracking: WIP Abstract",
       "authors": "Yang Zhao and Ming-Ching Chang and Peter Tu",
       "venue": "Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical …, 2019",
       "year": "2019",
@@ -1594,7 +1594,7 @@
     {
       "key": "Device:Free:ICCPS2019",
       "entry_type": "inproceedings",
-      "title": "Deep Intelligent Network for Device-free People Tracking",
+      "title": "Deep Intelligent Network for Device-Free People Tracking",
       "authors": "Yang Zhao and Ming-Ching Chang and Peter Tu",
       "venue": "Intentional Conference on Cyber-Physical Systems (ICCPS)",
       "year": "2019",
@@ -1614,7 +1614,7 @@
     {
       "key": "Accelerating:neutron:arXiv2019",
       "entry_type": "inproceedings",
-      "title": "Accelerating neutron scattering data collection and experiments using AI deep super-resolution learning",
+      "title": "Accelerating Neutron Scattering Data Collection and Experiments Using AI Deep Super-Resolution Learning",
       "authors": "Ming-Ching Chang and Yi Wei and Wei-Ren Chen and Changwoo Do",
       "venue": "arXiv preprint arXiv:1904.08450, 2019",
       "year": "2019",
@@ -1624,7 +1624,7 @@
     {
       "key": "Who:did:arXiv2018",
       "entry_type": "inproceedings",
-      "title": "Who did what at where and when: simultaneous multi-person tracking and activity recognition",
+      "title": "Who Did What at Where and When: Simultaneous Multi-Person Tracking and Activity Recognition",
       "authors": "Wenbo Li and Ming-Ching Chang and Siwei Lyu",
       "venue": "arXiv preprint arXiv:1807.01253, 2018",
       "year": "2018",
@@ -1644,7 +1644,7 @@
     {
       "key": "2018:nvidia:CVPR2018",
       "entry_type": "inproceedings",
-      "title": "The 2018 nvidia ai city challenge",
+      "title": "The 2018 NVIDIA AI City Challenge",
       "authors": "Milind Naphade and Ming-Ching Chang and Anuj Sharma and David C. Anastasiu and V Jagarlamudi and ...",
       "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2018",
       "year": "2018",
@@ -1664,7 +1664,7 @@
     {
       "key": "Robust:adversarial:arXiv2018",
       "entry_type": "inproceedings",
-      "title": "Robust adversarial perturbation on deep proposal-based models",
+      "title": "Robust Adversarial Perturbation on Deep Proposal-Based Models",
       "authors": "Y Li and D Tian and Ming-Ching Chang and Xiao Bian and S Lyu",
       "venue": "arXiv preprint arXiv:1809.05962, 2018",
       "year": "2018",
@@ -1674,7 +1674,7 @@
     {
       "key": "Pixel:offset:Paper2018",
       "entry_type": "inproceedings",
-      "title": "Pixel offset regression (por) for single-shot instance segmentation",
+      "title": "Pixel Offset Regression (POR) for Single-Shot Instance Segmentation",
       "authors": "Yuezun Li and Xiao Bian and Ming-Ching Chang and Longyin Wen and Siwei Lyu",
       "venue": "2018 15th IEEE International Conference on Advanced Video and Signal Based …, 2018",
       "year": "2018",
@@ -1694,7 +1694,7 @@
     {
       "key": "ictu:oculi:arXiv2018",
       "entry_type": "inproceedings",
-      "title": "In ictu oculi: Exposing AI generated fake face videos by detecting eye blinking. 2018",
+      "title": "In Ictu Oculi: Exposing AI Generated Fake Face Videos by Detecting Eye Blinking. 2018",
       "authors": "Y Li and Ming-Ching Chang and S Lyu",
       "venue": "arXiv preprint arXiv:1806.02877, 2018",
       "year": "2018",
@@ -1704,7 +1704,7 @@
     {
       "key": "ictu:oculi:Paper2018",
       "entry_type": "inproceedings",
-      "title": "In ictu oculi: Exposing ai created fake videos by detecting eye blinking",
+      "title": "In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking",
       "authors": "Yuezun Li and Ming-Ching Chang and Siwei Lyu",
       "venue": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "year": "2018",
@@ -1724,7 +1724,7 @@
     {
       "key": "Yi:InterpretDNN:ICPR2018",
       "entry_type": "inproceedings",
-      "title": "Explain Black-box Image Classifications Using Superpixel-based Interpretation",
+      "title": "Explain Black-Box Image Classifications Using Superpixel-Based Interpretation",
       "authors": "Yi Wei and Ming-Ching Chang and Yiming Ying and Ser Nam Lim and Siwei Lyu",
       "venue": "2018 24th International Conference on Pattern Recognition (ICPR), 1640-1645, 2018",
       "year": "2018",
@@ -1774,7 +1774,7 @@
     {
       "key": "Wen:Lei:Chang:Qi:Lyu:IJCV2017",
       "entry_type": "article",
-      "title": "Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph",
+      "title": "Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-Graph",
       "authors": "Longyin Wen and Zhen Lei and Ming-Ching Chang and Honggang Qi and Siwei Lyu",
       "venue": "International Journal of Computer Vision 122 (2), 313-333, 2017",
       "year": "2017",
@@ -1824,7 +1824,7 @@
     {
       "key": "Efficient:large:Paper2016",
       "entry_type": "inproceedings",
-      "title": "Efficient large-scale photometric reconstruction using Divide-Recon-Fuse 3D Structure from Motion",
+      "title": "Efficient Large-Scale Photometric Reconstruction Using Divide-Recon-Fuse 3D Structure from Motion",
       "authors": "Yueming Yang and Ming-Ching Chang and Longyin Wen and Peter Tu and Honggang Qi and Siwei Lyu",
       "venue": "2016 13th IEEE International Conference on Advanced Video and Signal Based …, 2016",
       "year": "2016",
@@ -1854,7 +1854,7 @@
     {
       "key": "AVSS:2016:Paper2016",
       "entry_type": "inproceedings",
-      "title": "AVSS 2016 Message from the chairs",
+      "title": "AVSS 2016 Message from the Chairs",
       "authors": "T Boult and R Nevatia and S Velipasalar and V Ramesh and C Sanderson and Ming-Ching Chang",
       "venue": "2016 13th IEEE International Conference on Advanced Video and Signal Based …, 2016",
       "year": "2016",
@@ -1864,7 +1864,7 @@
     {
       "key": "visual:object:Paper2015",
       "entry_type": "inproceedings",
-      "title": "The visual object tracking vot2015 challenge results",
+      "title": "The Visual Object Tracking VOT2015 Challenge Results",
       "authors": "( as participating team)",
       "venue": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "year": "2015",
@@ -1874,7 +1874,7 @@
     {
       "key": "VOT:thermal:Paper2015",
       "entry_type": "inproceedings",
-      "title": "The thermal infrared visual object tracking VOT-TIR2015 challenge results",
+      "title": "The Thermal Infrared Visual Object Tracking VOT-TIR2015 Challenge Results",
       "authors": "M Felsberg and A Berg and G Hager and J Ahlberg and M Kristan and J Matas and A Leonardis and ...",
       "venue": "Proceedings of the ieee international conference on computer vision …, 2015",
       "year": "2015",
@@ -1904,7 +1904,7 @@
     {
       "key": "DCE:Quantitative:Paper2015",
       "entry_type": "article",
-      "title": "Quantitative pharmacokinetic analysis of prostate cancer DCE-MRI at 3 T: comparison of two arterial input functions on cancer detection with digitized whole mount …",
+      "title": "Quantitative Pharmacokinetic Analysis of Prostate Cancer DCE-MRI at 3 T: Comparison of Two Arterial Input Functions on Cancer Detection with Digitized Whole Mount …",
       "authors": "Fiona M. Fennessy and Andriy Fedorov and T Penzkofer and KW Kim and MS Hirsch and MG Vangel and ...",
       "venue": "Magnetic resonance imaging 33 (7), 886-894, 2015",
       "year": "2015",
@@ -1914,7 +1914,7 @@
     {
       "key": "Modeling:transition:Paper2015",
       "entry_type": "inproceedings",
-      "title": "Modeling transition patterns between events for temporal human action segmentation and classification",
+      "title": "Modeling Transition Patterns Between Events for Temporal Human Action Segmentation and Classification",
       "authors": "Yelin Kim and J Chen and Ming-Ching Chang and Xin Wang and Emily Mower Provost and S Lyu",
       "venue": "2015 11th IEEE International Conference and Workshops on Automatic Face and …, 2015",
       "year": "2015",
@@ -1934,7 +1934,7 @@
     {
       "key": "DETRAC:new:arXiv2015",
       "entry_type": "inproceedings",
-      "title": "DETRAC: A new benchmark and protocol for multi-object tracking",
+      "title": "DETRAC: A New Benchmark and Protocol for Multi-Object Tracking",
       "authors": "Longyin Wen and Dawei Du and Zhaowei Cai and Zhen Lei and Ming-Ching Chang and Honggang Qi and Jongwoo Lim and Ming-Hsuan Yang and Siwei Lyu",
       "venue": "arXiv preprint arXiv:1511.04136 2 (4), 7, 2015",
       "year": "2015",
@@ -1944,7 +1944,7 @@
     {
       "key": "Cross:cultural:Paper2015",
       "entry_type": "inproceedings",
-      "title": "Cross-cultural training analysis via social science and computer vision methods",
+      "title": "Cross-Cultural Training Analysis via Social Science and Computer Vision Methods",
       "authors": "Peter Tu and J Chen and Ming-Ching Chang and Ting Yu and TP Tian and G Rubin and J Hockett and ...",
       "venue": "Procedia Manufacturing 3, 4068-4075, 2015",
       "year": "2015",
@@ -1964,7 +1964,7 @@
     {
       "key": "live:video:Paper2015",
       "entry_type": "inproceedings",
-      "title": "A live video analytic system for affect analysis in public space",
+      "title": "A Live Video Analytic System for Affect Analysis in Public Space",
       "authors": "J Chen and Ming-Ching Chang and Peter Tu",
       "venue": "2015 11th IEEE International Conference and Workshops on Automatic Face and …, 2015",
       "year": "2015",
@@ -2044,7 +2044,7 @@
     {
       "key": "DCE:Improved:Paper2013",
       "entry_type": "inproceedings",
-      "title": "Improved T1 mapping and DCE-MRI quantification for prostate at 3T by Incorporating B1 inhomogeneity correction",
+      "title": "Improved T1 Mapping and DCE-MRI Quantification for Prostate at 3T by Incorporating B1 Inhomogeneity Correction",
       "authors": "Ming-Ching Chang and Sandeep N. Gupta and LI Sacolick and C Tempany-Afdhal and F Fennessy and ...",
       "venue": "ISMRM, Salt Lake city, USA 2199, 2013",
       "year": "2013",
@@ -2074,7 +2074,7 @@
     {
       "key": "Group:context:WACV2012",
       "entry_type": "inproceedings",
-      "title": "Group context learning for event recognition",
+      "title": "Group Context Learning for Event Recognition",
       "authors": "Y Zhang and Weina Ge and Ming-Ching Chang and Xiaoming Liu",
       "venue": "2012 IEEE Workshop on the Applications of Computer Vision (WACV), 249-255, 2012",
       "year": "2012",
@@ -2144,7 +2144,7 @@
     {
       "key": "Chang:Tao:Cortical:SPIE10",
       "entry_type": "inproceedings",
-      "title": "Subvoxel Segmentation and Representation of Brain Cortex using Fuzzy Clustering and Gradient Vector Diffusion",
+      "title": "Subvoxel Segmentation and Representation of Brain Cortex Using Fuzzy Clustering and Gradient Vector Diffusion",
       "authors": "Ming-Ching Chang and Xiaodong Tao",
       "venue": "Medical Imaging 2010: Image Processing 7623, 507-517, 2010",
       "year": "2010",
@@ -2164,7 +2164,7 @@
     {
       "key": "Chang:Krahnstoever:Lim:Yu:AMMCSS2010",
       "entry_type": "inproceedings",
-      "title": "Group Level Activity Recognition in Crowded Environments across Multiple Cameras",
+      "title": "Group Level Activity Recognition in Crowded Environments Across Multiple Cameras",
       "authors": "Ming-Ching Chang and Nils Krahnstoever and Sernam Lim and Ting Yu",
       "venue": "2010 7th IEEE International Conference on Advanced Video and Signal Based …, 2010",
       "year": "2010",
@@ -2194,7 +2194,7 @@
     {
       "key": "medial:scaffold:Paper2009",
       "entry_type": "inproceedings",
-      "title": "The medial scaffold for three-dimensional shape modeling and recognition",
+      "title": "The Medial Scaffold for Three-Dimensional Shape Modeling and Recognition",
       "authors": "Ming-Ching Chang",
       "venue": "Brown University, 2009",
       "year": "2009",
@@ -2244,7 +2244,7 @@
     {
       "key": "Shape:Registration:Paper2004",
       "entry_type": "inproceedings",
-      "title": "Shape Registration using Regularized Medial Scaffolds",
+      "title": "Shape Registration Using Regularized Medial Scaffolds",
       "authors": "Frederic F. Leymarie and Ming-Ching Chang and Benjamin B. Kimia",
       "venue": "",
       "year": "2004",
@@ -2314,7 +2314,7 @@
     {
       "key": "CNN:Supplementary:Paper",
       "entry_type": "inproceedings",
-      "title": "Supplementary Material: Instance Contour Adjustment via Structure-driven CNN",
+      "title": "Supplementary Material: Instance Contour Adjustment via Structure-Driven CNN",
       "authors": "Shuchen Weng and Yi Wei and Ming-Ching Chang and B Shi and category = Industrial AI & Scientific Computing",
       "venue": "",
       "year": "",
@@ -2334,7 +2334,7 @@
     {
       "key": "Occupancy:sensing:Paper2019",
       "entry_type": "inproceedings",
-      "title": "Occupancy sensing and activity recognition with cameras and wireless sensors",
+      "title": "Occupancy Sensing and Activity Recognition with Cameras and Wireless Sensors",
       "authors": "Yang Zhao and Peter Tu and Ming-Ching Chang and year = 2019",
       "venue": "Proceedings of the 2nd Workshop on Data Acquisition to Analysis, 1-6, 2019",
       "year": "",
@@ -2384,7 +2384,7 @@
     {
       "key": "Deeppvmap:Deep:Paper",
       "entry_type": "inproceedings",
-      "title": "Deeppvmap: Deep Photovoltaic Map for Efficient Segmentation of Solar Panels from Low-Resolution Aerial Imagery",
+      "title": "DeepPVMap: Deep Photovoltaic Map for Efficient Segmentation of Solar Panels from Low-Resolution Aerial Imagery",
       "authors": "YH Wang and Y Cartus Bo-Xiang and HM Liao and Ming-Ching Chang and R Tsai and venue = Hsiung-Ming and Chang and Ming-Ching and Tsai and Richard and Tzong-Han and Deeppvmap … and 0",
       "venue": "",
       "year": "",
@@ -2394,7 +2394,7 @@
     {
       "key": "Cross:scale:Paper",
       "entry_type": "inproceedings",
-      "title": "Cross-scale Patch-Attention with Prototype-guided Siamese Network for Effective Anomaly Detection",
+      "title": "Cross-Scale Patch-Attention with Prototype-Guided Siamese Network for Effective Anomaly Detection",
       "authors": "JW Hsieh and TL Wang and YK Hsieh and Ming-Ching Chang and venue = Available at SSRN 7139006 and 0",
       "venue": "",
       "year": "",
@@ -2404,7 +2404,7 @@
     {
       "key": "Counting:Very:Paper",
       "entry_type": "inproceedings",
-      "title": "Counting Very Small Vehicles and Crowds in Uav Images Using Mdamdl Framework",
+      "title": "Counting Very Small Vehicles and Crowds in UAV Images Using Mdamdl Framework",
       "authors": "CM Tsai and JW Hsieh and Ming-Ching Chang and PY Chen and GL He and venue = Available at SSRN 4455947 and 0",
       "venue": "",
       "year": "",
@@ -2424,7 +2424,7 @@
     {
       "key": "Andre:Kaup:Paper",
       "entry_type": "inproceedings",
-      "title": "Andre Kaup, Friedrich-Alexander University Erlangen-Nürnberg Changick Kim, Korea Advanced Institute of Science and Technology Serkan Kiranyaz, Qatar University",
+      "title": "Andre Kaup, Friedrich-Alexander University Erlangen-NüRnberg Changick Kim, Korea Advanced Institute of Science and Technology Serkan Kiranyaz, Qatar University",
       "authors": "A Achim and G Akar and S Asif and I Bajic and E Bas and AF Battisti and Y Berthoumieu and ...",
       "venue": "",
       "year": "",
