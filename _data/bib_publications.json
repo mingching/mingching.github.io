@@ -80,6 +80,22 @@
       "paper_url": "/assets/papers/_ICPR__LLaVA_MR.pdf"
     },
     {
+      "key": "Continual:Learning:arXiv2025",
+      "entry_type": "inproceedings",
+      "title": "Continual Learning with Support Boundary Experience Blending",
+      "authors": "Chih-Fan Hsu and Yung-Huei Chiou and Ming-Ching Chang and Wei-Chao Chen",
+      "venue": "IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2026 (Best Paper Award)",
+      "year": "2026",
+      "month": "aug",
+      "date_display": "Aug. 2026",
+      "sort_year": 2026,
+      "sort_month": 8,
+      "sort_day": 0,
+      "category": "Computer Vision & Machine Learning",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:7H_MAutzIkAC",
+      "paper_url": "https://arxiv.org/pdf/2507.23534"
+    },
+    {
       "key": "PreClaim:GCT:AIME2026",
       "entry_type": "inproceedings",
       "title": "PreClaim-GCT: Self-Supervised Graph-Transformer Pretraining for Incident Outcome Prediction from Healthcare Claims",
@@ -897,21 +913,6 @@
       "sort_day": 0,
       "category": "Computer Vision & Machine Learning",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:0CzhzZyukY4C"
-    },
-    {
-      "key": "Continual:Learning:arXiv2025",
-      "entry_type": "inproceedings",
-      "title": "Continual Learning with Support Boundary Experience Blending",
-      "authors": "CF Hsu and Ming-Ching Chang and WC Chen",
-      "venue": "arXiv preprint arXiv:2507.23534, 2025",
-      "year": "2025",
-      "month": "",
-      "date_display": "2025",
-      "sort_year": 2025,
-      "sort_month": 0,
-      "sort_day": 0,
-      "category": "Computer Vision & Machine Learning",
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:7H_MAutzIkAC"
     },
     {
       "key": "Gpu:acceleration:Paper2024",
