@@ -80,6 +80,21 @@
       "paper_url": "https://openreview.net/pdf?id=i4EGsPX5qd"
     },
     {
+      "key": "AICity:Challenge:ECCVW2026",
+      "entry_type": "inproceedings",
+      "title": "The 10th AI City Challenge",
+      "authors": "Zheng Tang and Shuo Wang and David C. Anastasiu and Ming-Ching Chang and Anuj Sharma and Quan Kong and Munkhjargal Gochoo and Jun-Wei Hsieh and Tomasz Kornuta and Zhedong Zheng and Renran Tian and Judah Goldfeder and Fulgencio Navarro and Yuxing Wang and Yizhou Wang and Sameer Satish Pusegaonkar and Anqi Li and Nalin Dadhich and Ridham Kachhadiya and Dhanishtha Patil and Haoquan Liang and Jiajun Li and Han Zhang and Yilin Zhao and Zaid Pervaiz Bhat and Shuyu Yang and Ashutosh Kumar and Rong Wang and Rafael Martin Nieto and Peter Christiansen and Ahmed Abduljawad and Mohanrasu Shanmugam and Nadeem Shaik and Sujit Biswas and Xunlei Wu and Vidya Murali and Rama Chellappa",
+      "venue": "Proceedings of the European Conference on Computer Vision Workshops (ECCVW), Malm\\\"o, Sweden, September 2026",
+      "year": "2026",
+      "month": "sep",
+      "date_display": "",
+      "sort_year": 2026,
+      "sort_month": 9,
+      "sort_day": 8,
+      "category": "Video Analytics, Tracking & Transportation",
+      "scholar_url": "https://arxiv.org/abs/2608.17044"
+    },
+    {
       "key": "SILVA-Mamba:Spatial:ICIP2026",
       "entry_type": "inproceedings",
       "title": "SILVA-Mamba: Spatial Integrity for Landslide Segmentation via Vectorized Hilbert Scanning and Adaptive Mamba",
@@ -282,21 +297,6 @@
       "category": "Video Analytics, Tracking & Transportation",
       "scholar_url": "",
       "paper_url": "/assets/papers/TRACE_TAR_Challange3.pdf"
-    },
-    {
-      "key": "10th:city:arXiv2026",
-      "entry_type": "inproceedings",
-      "title": "The 10th AI City Challenge",
-      "authors": "Zheng Tang and Shuo Wang and David C. Anastasiu and Ming-Ching Chang and Anuj Sharma and Quan Kong and ...",
-      "venue": "arXiv preprint arXiv:2608.17044, 2026",
-      "year": "2026",
-      "month": "",
-      "date_display": "",
-      "sort_year": 2026,
-      "sort_month": 0,
-      "sort_day": 0,
-      "category": "Video Analytics, Tracking & Transportation",
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:owLR8QvbtFgC"
     },
     {
       "key": "SMART:Retrieval:TMM2026",
