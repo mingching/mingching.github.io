@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6adaa6b5d65b8c1ddcaa2743",
+    "id": "6adbf6a21b6c6eea925f973c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/BJLfxilcFRT2m3kOJ6NoMLK4VANtHEaUK4_v5AAAhJ8/6adaa6b5d65b8c1ddcaa2743.json",
-    "markdown_endpoint": "https://serpapi.com/searches/BJLfxilcFRT2m3kOJ6NoMLK4VANtHEaUK4_v5AAAhJ8/6adaa6b5d65b8c1ddcaa2743.md",
-    "created_at": "2026-10-23 00:13:41 UTC",
-    "processed_at": "2026-10-23 00:13:41 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Zbby21UFiAOoZh-2bywFpJxHlYUSpSBrp0g03HlpwgE/6adbf6a21b6c6eea925f973c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Zbby21UFiAOoZh-2bywFpJxHlYUSpSBrp0g03HlpwgE/6adbf6a21b6c6eea925f973c.md",
+    "created_at": "2026-10-24 00:06:58 UTC",
+    "processed_at": "2026-10-24 00:06:58 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/BJLfxilcFRT2m3kOJ6NoMLK4VANtHEaUK4_v5AAAhJ8/6adaa6b5d65b8c1ddcaa2743.html",
-    "total_time_taken": 3.84
+    "raw_html_file": "https://serpapi.com/searches/Zbby21UFiAOoZh-2bywFpJxHlYUSpSBrp0g03HlpwgE/6adbf6a21b6c6eea925f973c.html",
+    "total_time_taken": 1.21
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1875,
+        "value": 1877,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -326,14 +326,14 @@
     "table": [
       {
         "citations": {
-          "all": 10153,
-          "since_2021": 7099
+          "all": 10157,
+          "since_2021": 7102
         }
       },
       {
         "h_index": {
           "all": 36,
-          "since_2021": 31
+          "since_2021": 32
         }
       },
       {
@@ -402,11 +402,11 @@
       },
       {
         "year": 2025,
-        "citations": 1496
+        "citations": 1495
       },
       {
         "year": 2026,
-        "citations": 1208
+        "citations": 1212
       }
     ]
   },
