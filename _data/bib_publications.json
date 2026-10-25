@@ -281,7 +281,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:kVjdVfd2voEC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "TRACE:TAR:ECCVW2026",
@@ -374,7 +375,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:jU7OWUQzBzMC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "MAESTRO:ImageEditing:AVSS2026",
@@ -421,7 +423,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:u-coK7KVo8oC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "ForensiText:SceneText:AVSS2026",
@@ -516,7 +519,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:v1_lew4L6wgC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "4th:Workshop:arXiv2026",
@@ -849,7 +853,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:yFnVuubrUp4C",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Sharpness:Aware:arXiv2025",
@@ -880,7 +885,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:AHdEip9mkN0C",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Scale:aware:TIP2025",
@@ -911,7 +917,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:PVgj2kMGcgYC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "ExposureMetadata:Forensics:ISM2025",
@@ -943,7 +950,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:lvd772isFD0C",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Multi:manifold:Paper2025",
@@ -959,7 +967,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:LgRImbQfgY4C",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US, Taiwan"
     },
     {
       "key": "Method:training:Paper2025",
@@ -975,7 +984,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4xDN1ZYqzskC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Method:verifying:Paper2025",
@@ -991,14 +1001,15 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:9c2xU6iGI7YC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Method:machine:Paper2025",
       "entry_type": "patent",
       "title": "Method for machine learning model verification and transaction",
       "authors": "Y Te KU and Yu Xiao and HO Ming-Chien and CF Hsu and WC Chen and FH Liu and Ming-Ching Chang and ...",
-      "venue": "Taiwan Patent TWI875327B (2025); US Patent App. 18/420,744 (2025)",
+      "venue": "Taiwan Patent TWI875327B (2025); US Patent App. 18/420,744 (2025); China Patent Publication CN120013531A (2025)",
       "year": "2025",
       "month": "",
       "date_display": "",
@@ -1007,7 +1018,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:F1b5ZUV5XREC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US, Taiwan, China"
     },
     {
       "key": "Machine:learning:Paper2025",
@@ -1023,7 +1035,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:5MTHONV0fEkC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Generative:Kolmogorov:Paper2025",
@@ -1054,7 +1067,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:NXb4pA-qfm4C",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Device:executing:Paper2025",
@@ -1070,7 +1084,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:uDGL6kOW6j0C",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Continual:learning:arXiv2025",
@@ -1417,7 +1432,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:DJbcl8HfkQkC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "PreAugNet:improve:Paper2024",
@@ -1493,7 +1509,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:ODE9OILHJdcC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Uncertainty:Aware:arXiv2024",
@@ -1764,7 +1781,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:6ZxmRoH8BuwC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Federated:learning:Paper2023",
@@ -1780,7 +1798,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=200&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:HtEfBTGE9r8C",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "efficient:ckks:Paper2023",
@@ -2441,7 +2460,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:JQOojiI6XY0C",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Railcar:ICIP2020",
@@ -2517,7 +2537,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:uLbwQdceFCQC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "VOS:AVSS2019",
@@ -2743,7 +2764,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:K3LRdlH-MEoC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Robust:adversarial:arXiv2018",
@@ -3224,7 +3246,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:Wp0gIr-vW9MC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Apparatus:method:Paper2014",
@@ -3240,7 +3263,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:qxL8FJ1GzNcC",
-      "patent_status": "granted"
+      "patent_status": "granted",
+      "jurisdictions": "US"
     },
     {
       "key": "Usage:measurent:Paper2013",
@@ -3256,7 +3280,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:4TOpqqG69KYC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Mullick:Gupta:Shanbhag:Chang:etal:ISMRM2013",
@@ -3278,7 +3303,7 @@
       "entry_type": "patent",
       "title": "Person tracking and interactive advertising",
       "authors": "NO Krahnstoever and PH Tu and Ming-Ching Chang and Weina Ge",
-      "venue": "US Patent App. 13/221,896, 2013",
+      "venue": "US Patent App. 13/221,896 (2013); China Patent Publication CN102982753A (2013)",
       "year": "2013",
       "month": "",
       "date_display": "",
@@ -3287,7 +3312,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:3fE2CSJIrl8C",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US, China"
     },
     {
       "key": "DCE:Improved:Paper2013",
@@ -3318,7 +3344,8 @@
       "sort_day": 0,
       "category": "Patents & Technology Transfer",
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=a3-Gl8YAAAAJ&cstart=100&pagesize=100&citation_for_view=a3-Gl8YAAAAJ:_kc_bZDykSQC",
-      "patent_status": "application"
+      "patent_status": "application",
+      "jurisdictions": "US"
     },
     {
       "key": "Group:context:WACV2012",

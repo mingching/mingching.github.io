@@ -1,0 +1,29 @@
+{% assign patent_records = site.data.bib_publications.publications | where: "entry_type", "patent" %}
+{% assign country_count = 0 %}
+{% for item in patent_records %}
+  {% if item.jurisdictions contains include.country %}{% assign country_count = country_count | plus: 1 %}{% endif %}
+{% endfor %}
+<section class="pub-section patent-section">
+  <h2>{{ include.label }} <span class="pub-topic__count">{{ country_count }} records</span></h2>
+  <p class="scholar-pub-meta">Formal public patent records only; an entry may appear in more than one jurisdiction when a patent family has filings or grants in multiple countries.</p>
+  {% assign patent_years = patent_records | group_by: "year" %}
+  {% for year_group in patent_years %}
+    {% assign year_count = 0 %}
+    {% for item in year_group.items %}
+      {% if item.jurisdictions contains include.country %}{% assign year_count = year_count | plus: 1 %}{% endif %}
+    {% endfor %}
+    {% if year_count > 0 %}
+    <h3>{{ year_group.name }}</h3>
+    <ol class="scholar-pub-list">
+      {% for item in year_group.items %}
+        {% if item.jurisdictions contains include.country %}
+        <li>
+          {% if item.scholar_url %}<a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>{% else %}<strong>{{ item.title }}</strong>{% endif %}
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}.</span>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+    {% endif %}
+  {% endfor %}
+</section>

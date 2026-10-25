@@ -160,6 +160,15 @@ def main():
                 "patent_status",
                 "application" if "Patent App." in venue else "granted",
             )
+            jurisdictions = []
+            for country, markers in {
+                "US": ("US Patent", "US20", "US "),
+                "Taiwan": ("Taiwan Patent", "TWI"),
+                "China": ("China Patent", "CN"),
+            }.items():
+                if any(marker in venue for marker in markers):
+                    jurisdictions.append(country)
+            publication["jurisdictions"] = fields.get("jurisdictions", ", ".join(jurisdictions))
         if fields.get("paper_url"):
             publication["paper_url"] = fields["paper_url"]
         publications.append(publication)

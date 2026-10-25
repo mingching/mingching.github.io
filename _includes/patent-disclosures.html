@@ -1,0 +1,12 @@
+<section class="pub-section disclosure-section">
+  <p class="scholar-pub-meta">Invention disclosures are internal submissions for patent review. They are listed separately from formal patent records and may not result in a patent filing or grant.</p>
+  {% assign disclosure_years = site.data.patent_disclosures | group_by: "year" %}
+  {% for year_group in disclosure_years %}
+    <h2>{{ year_group.name }}</h2>
+    <ol class="scholar-pub-list">
+    {% for item in year_group.items %}
+      <li><strong>{{ item.docket }}</strong>, {{ item.authors }}, “{{ item.title }},”{% if item.note %} {{ item.note }},{% endif %} {{ item.date }}.</li>
+    {% endfor %}
+    </ol>
+  {% endfor %}
+</section>

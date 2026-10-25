@@ -63,6 +63,20 @@ I lead research spanning intelligent video understanding, visual perception, and
 
 <span class='anchor' id='complete-publication-record'></span>
 
+# ⚖️ Patents
+
+{% include patent-records.html country="US" label="US Patent Records" %}
+
+{% include patent-records.html country="Taiwan" label="Taiwan Patent Records" %}
+
+{% include patent-records.html country="China" label="China Patent Records" %}
+
+<span class='anchor' id='disclosures'></span>
+
+# 📄 Patent Disclosures
+
+{% include patent-disclosures.html %}
+
 # 📚 All Publications
 
 ## Browse by research topic

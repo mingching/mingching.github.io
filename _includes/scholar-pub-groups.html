@@ -1,5 +1,6 @@
 {% assign groups = site.data.bib_publications.publications | group_by: "category" %}
 {% for group in groups %}
+  {% unless group.name == "Patents & Technology Transfer" %}
   <details class="pub-topic"{% if group.name == "Patents & Technology Transfer" %} id="patents-technology-transfer"{% endif %}>
     <summary class="pub-topic__toggle">
       <span>{{ group.name }}</span>
@@ -53,4 +54,5 @@
       {% endif %}
     </div>
   </details>
+  {% endunless %}
 {% endfor %}
