@@ -101,9 +101,8 @@
       countUp(cit, parseInt(data.citedby, 10) || 0);
     }
     var hEl = document.querySelector(".js-hindex");
-    var hTile = document.querySelector(".js-hindex-tile");
+    var hTile = document.querySelector(".js-scholar-indices-tile");
     if (hEl && hTile && typeof data.hindex !== "undefined") {
-      hTile.removeAttribute("hidden");
       countUp(hEl, parseInt(data.hindex, 10) || 0);
     }
     var i10El = document.querySelector(".js-i10index");

@@ -289,6 +289,21 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   font-size: 0.82rem;
   color: var(--ink-2);
 }
+.stat-tile__indices {
+  display: flex;
+  gap: 1.05rem;
+  align-items: baseline;
+}
+.stat-tile__indices > span {
+  display: flex;
+  align-items: baseline;
+  gap: 0.3rem;
+}
+.stat-tile__index-label {
+  color: var(--ink-2);
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
 .stat-tile__trend {
   display: block;
   margin-top: 8px;
