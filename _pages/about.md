@@ -61,9 +61,9 @@ I lead research spanning intelligent video understanding, visual perception, and
 
 {% include resource-publications.html items=site.data.paper_resources.dataset_papers label="Papers with publicly available datasets" icon="dataset" %}
 
-<span class='anchor' id='complete-publication-record'></span>
+<span class='anchor' id='patents'></span>
 
-# ⚖️ Patents
+# ⚖️ Patents <span class="pub-topic__count">{{ site.data.publication_stats.patents }} formal records</span>
 
 {% include patent-records.html country="US" label="US Patent Records" %}
 
@@ -73,7 +73,7 @@ I lead research spanning intelligent video understanding, visual perception, and
 
 <span class='anchor' id='disclosures'></span>
 
-# 📄 Patent Disclosures
+# 📄 Patent Disclosures <span class="pub-topic__count">{{ site.data.patent_disclosures | size }} records</span>
 
 {% include patent-disclosures.html %}
 

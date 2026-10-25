@@ -1,3 +1,13 @@
+{% assign patent_records = site.data.bib_publications.publications | where: "entry_type", "patent" %}
+{% assign patent_year_groups = patent_records | group_by: "year" %}
+{% capture patent_year_counts %}[
+  {% for group in patent_year_groups %}{"year":{{ group.name | jsonify }},"count":{{ group.items | size }}}{% unless forloop.last %},{% endunless %}{% endfor %}
+]{% endcapture %}
+{% assign disclosure_year_groups = site.data.patent_disclosures | group_by: "year" %}
+{% capture disclosure_year_counts %}[
+  {% for group in disclosure_year_groups %}{"year":{{ group.name | jsonify }},"count":{{ group.items | size }}}{% unless forloop.last %},{% endunless %}{% endfor %}
+]{% endcapture %}
+
 <div class="stats-row reveal" aria-label="Research metrics">
   <a class="stat-tile js-cit-tile" href="https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="View Google Scholar profile">
     <span class="stat-tile__value js-count js-cit-count" data-count="{{ site.data.scholar_stats.citations }}">0</span>
@@ -11,9 +21,13 @@
     <span class="stat-tile__value js-count" data-count="{{ site.data.publication_stats.journal_publications }}">0</span>
     <span class="stat-tile__label">Journal publications</span>
   </a>
-  <a class="stat-tile" href="#patents-technology-transfer" aria-label="View patents and technology transfer records">
+  <a class="stat-tile js-patents-tile" href="#patents" aria-label="View all formal patent records" data-patent-year-counts='{{ patent_year_counts | strip_newlines | strip }}'>
     <span class="stat-tile__value js-count" data-count="{{ site.data.publication_stats.patents }}">0</span>
-    <span class="stat-tile__label">Patents &amp; Technology Transfer</span>
+    <span class="stat-tile__label">Patents</span>
+  </a>
+  <a class="stat-tile js-disclosures-tile" href="#disclosures" aria-label="View all invention disclosures" data-disclosure-year-counts='{{ disclosure_year_counts | strip_newlines | strip }}'>
+    <span class="stat-tile__value js-count" data-count="{{ site.data.patent_disclosures | size }}">0</span>
+    <span class="stat-tile__label">Patent disclosures</span>
   </a>
   <a class="stat-tile js-hindex-tile" href="https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="View Google Scholar profile">
     <span class="stat-tile__value js-count js-hindex" data-count="{{ site.data.scholar_stats.h_index }}">0</span>

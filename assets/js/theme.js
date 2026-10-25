@@ -128,6 +128,20 @@
     "Journal publications",
     "journal publication",
   );
+  renderYearCountBars(
+    ".js-patents-tile",
+    "data-patent-year-counts",
+    "stat-tile__patent-trend",
+    "Patents",
+    "patent",
+  );
+  renderYearCountBars(
+    ".js-disclosures-tile",
+    "data-disclosure-year-counts",
+    "stat-tile__disclosure-trend",
+    "Patent disclosures",
+    "disclosure",
+  );
 
   /* ---------- Per-paper "Cited by N" chips ---------- */
   function normTitle(s) {
