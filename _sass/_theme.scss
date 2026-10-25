@@ -441,21 +441,23 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
 
 .publication-search {
   margin: 0 0 1.25rem;
-  padding: 1rem 1.1rem;
-  border: 1px solid var(--border);
+  padding: 1.15rem 1.25rem;
+  border: 2px solid #7db7eb;
   border-radius: 14px;
-  background: var(--surface);
+  background: linear-gradient(135deg, #e8f4ff 0%, #f5faff 100%);
+  box-shadow: 0 8px 20px rgba(42, 123, 190, 0.12);
 }
-.publication-search label { display: block; margin-bottom: 0.45rem; font-weight: 700; }
+.publication-search label { display: block; margin-bottom: 0.45rem; color: #124b7c; font-weight: 800; font-size: 1.05rem; }
 .publication-search input {
   width: 100%;
   padding: 0.7rem 0.8rem;
-  border: 1px solid var(--border);
+  border: 1px solid #77addb;
   border-radius: 8px;
   background: var(--bg);
   color: var(--ink);
   font: inherit;
 }
+.publication-search input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(42, 123, 190, 0.2); outline: none; }
 .publication-search__status { min-height: 1.25rem; margin: 0.55rem 0 0; color: var(--ink-2); font-size: 0.9rem; }
 .all-publication-item[hidden] { display: none; }
 
