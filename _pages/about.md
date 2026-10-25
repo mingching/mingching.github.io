@@ -37,6 +37,18 @@ I lead research spanning intelligent video understanding, visual perception, and
   </div>
 </div>
 
+<span class='anchor' id='professional-service'></span>
+
+# 🤝 Professional Service
+
+{% include services-list.html %}
+
+<span class='anchor' id='teaching'></span>
+
+# 🎓 Teaching
+
+{% include teaching-list.html %}
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Recent Publications with PDFs
