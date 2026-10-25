@@ -414,6 +414,17 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   overscroll-behavior: contain;
   padding: 1rem 1.15rem 0;
 }
+.pub-topic--year {
+  border-width: 2px;
+}
+.pub-topic--year .pub-topic__toggle {
+  padding: 1.15rem 1.3rem;
+  font-size: 1.08rem;
+}
+.pub-topic--year .pub-topic__scroll {
+  max-height: 48rem;
+  padding: 1.25rem 1.4rem 0;
+}
 .pub-topic__scroll--cards { max-height: 42rem; }
 .pub-topic__scroll .pub-list { margin-bottom: 1rem; }
 

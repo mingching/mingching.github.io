@@ -8,9 +8,16 @@
   <div class="pub-topic__scroll">
     <ol class="scholar-pub-list scholar-pub-list--year">
       {% for publication in resources %}
+        {% assign matching_publications = site.data.bib_publications.publications | where: "title", publication.title %}
+        {% assign citation = matching_publications | first %}
         <li class="journal-publication-item">
-          <strong>{{ publication.title }}</strong>
-          {% if publication.venue %}<span class="scholar-pub-meta">{{ publication.venue }}.</span>{% endif %}
+          {% if citation.scholar_url %}
+          <a href="{{ citation.scholar_url }}" target="_blank" rel="noopener">{{ citation.title }}</a>
+          {% else %}
+          <strong>{{ citation.title | default: publication.title }}</strong>
+          {% endif %}
+          {% if citation.paper_url %}<a class="pub-paper-link" href="{{ citation.paper_url | relative_url }}" download>PDF</a>{% endif %}
+          <span class="scholar-pub-meta">{% if citation %}{{ citation.authors }}. {{ citation.venue }}{% if citation.date_display %} ({{ citation.date_display }}){% endif %}.{% elsif publication.venue %}{{ publication.venue }}.{% endif %}</span>
           <span class="resource-publication-links">
             <a href="{{ publication.paper | relative_url }}" download><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
             <a href="{{ publication.resource_url }}" target="_blank" rel="noopener"><i class="{% if include.icon == 'github' %}fab fa-github{% else %}fas fa-database{% endif %}" aria-hidden="true"></i> {{ publication.resource_label }}</a>
