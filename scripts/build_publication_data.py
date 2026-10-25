@@ -151,6 +151,15 @@ def main():
             "category": fields.get("category", "Unclassified"),
             "scholar_url": fields.get("scholar_url", fields.get("url", "")),
         }
+        if kind == "patent" or publication["category"] == "Patents & Technology Transfer":
+            # A patent family can include both a granted right in one jurisdiction
+            # and an application in another.  The canonical BibTeX may explicitly
+            # record that fact; otherwise the venue wording distinguishes a formal
+            # patent application from an issued patent.
+            publication["patent_status"] = fields.get(
+                "patent_status",
+                "application" if "Patent App." in venue else "granted",
+            )
         if fields.get("paper_url"):
             publication["paper_url"] = fields["paper_url"]
         publications.append(publication)

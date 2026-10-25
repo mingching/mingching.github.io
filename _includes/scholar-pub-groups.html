@@ -3,9 +3,40 @@
   <details class="pub-topic"{% if group.name == "Patents & Technology Transfer" %} id="patents-technology-transfer"{% endif %}>
     <summary class="pub-topic__toggle">
       <span>{{ group.name }}</span>
-      <span class="pub-topic__count">{{ group.items | size }} publications</span>
+      <span class="pub-topic__count">{{ group.items | size }}{% if group.name == "Patents & Technology Transfer" %} patent records{% else %} publications{% endif %}</span>
     </summary>
     <div class="pub-topic__scroll">
+      {% if group.name == "Patents & Technology Transfer" %}
+      {% assign granted_patents = group.items | where: "patent_status", "granted" %}
+      {% assign patent_applications = group.items | where: "patent_status", "application" %}
+      <p class="scholar-pub-meta">Only formal patent records are listed here. Internal invention disclosures are intentionally excluded. A record is classified as granted when at least one jurisdiction has issued a patent.</p>
+      <h3>Granted Patents ({{ granted_patents | size }})</h3>
+      <ol class="scholar-pub-list">
+      {% for item in granted_patents %}
+        <li>
+          {% if item.scholar_url %}
+          <a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+          {% else %}
+          <strong>{{ item.title }}</strong>
+          {% endif %}
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %} ({{ item.date_display }}){% endif %}.</span>
+        </li>
+      {% endfor %}
+      </ol>
+      <h3>Published Patent Applications ({{ patent_applications | size }})</h3>
+      <ol class="scholar-pub-list">
+      {% for item in patent_applications %}
+        <li>
+          {% if item.scholar_url %}
+          <a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+          {% else %}
+          <strong>{{ item.title }}</strong>
+          {% endif %}
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %} ({{ item.date_display }}){% endif %}.</span>
+        </li>
+      {% endfor %}
+      </ol>
+      {% else %}
       <ol class="scholar-pub-list">
       {% for item in group.items %}
         <li>
@@ -19,6 +50,7 @@
         </li>
       {% endfor %}
       </ol>
+      {% endif %}
     </div>
   </details>
 {% endfor %}
