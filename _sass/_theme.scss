@@ -289,21 +289,6 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   font-size: 0.82rem;
   color: var(--ink-2);
 }
-.stat-tile__indices {
-  display: flex;
-  gap: 1.05rem;
-  align-items: baseline;
-}
-.stat-tile__indices > span {
-  display: flex;
-  align-items: baseline;
-  gap: 0.3rem;
-}
-.stat-tile__index-label {
-  color: var(--ink-2);
-  font-size: 0.78rem;
-  white-space: nowrap;
-}
 .stat-tile__trend {
   display: block;
   margin-top: 8px;
@@ -737,20 +722,6 @@ html[data-theme="dark"] .author__urls_sm i[class*="ai-"] {
   white-space: nowrap;
 }
 .funded-item__text { color: var(--ink); font-size: 0.93em; flex: 1 1 20em; }
-
-.service-list { display: flex; flex-direction: column; gap: 8px; margin-bottom: 1.4em; }
-.service-item, .teaching-item {
-  padding: 0.72em 0.9em;
-  border-radius: 12px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-}
-.service-item__group { display: block; color: var(--accent); font-size: 0.78em; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; }
-.service-item__role { font-weight: 700; color: var(--ink); }
-.service-item__items, .teaching-item__terms { display: block; margin-top: 0.22em; color: var(--ink-2); font-size: 0.93em; line-height: 1.45; }
-.teaching-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 10px; margin-bottom: 1.4em; }
-.teaching-item__course { display: block; font-weight: 700; color: var(--ink); }
-.teaching-item__code { display: block; color: var(--accent); font-size: 0.88em; margin-top: 0.12em; }
 
 /* ---------- 12. Globe card ---------- */
 
