@@ -53,9 +53,15 @@
   }
 
   /* ---------- Count-up animation ---------- */
+  function formatCount(el, value) {
+    return el.classList.contains("js-cit-count")
+      ? Number(value).toLocaleString("en-US")
+      : value;
+  }
+
   function countUp(el, target) {
     if (reduceMotion || !window.requestAnimationFrame) {
-      el.textContent = target;
+      el.textContent = formatCount(el, target);
       return;
     }
     var duration = 1100;
@@ -64,13 +70,13 @@
       if (!start) start = ts;
       var p = Math.min((ts - start) / duration, 1);
       var eased = 1 - Math.pow(1 - p, 3); /* ease-out cubic */
-      el.textContent = Math.round(target * eased);
+      el.textContent = formatCount(el, Math.round(target * eased));
       if (p < 1) requestAnimationFrame(step);
     }
     requestAnimationFrame(step);
     /* safety net: rAF can stall (background tab, frozen virtual time) —
        make sure the final value always lands */
-    setTimeout(function () { el.textContent = target; }, duration + 400);
+    setTimeout(function () { el.textContent = formatCount(el, target); }, duration + 400);
   }
 
   /* Static counters (from data-count) start when scrolled into view */
@@ -89,7 +95,8 @@
     counters.forEach(function (el) { cio.observe(el); });
   } else {
     counters.forEach(function (el) {
-      el.textContent = el.getAttribute("data-count") || "0";
+      var value = el.getAttribute("data-count") || "0";
+      el.textContent = formatCount(el, value);
     });
   }
 
