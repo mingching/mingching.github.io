@@ -36,7 +36,7 @@ I lead research spanning intelligent video understanding, visual perception, and
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Recent Publications with PDFs
+# 📝 Selected Recent Publications
 
 {% include pub-groups.html %}
 
