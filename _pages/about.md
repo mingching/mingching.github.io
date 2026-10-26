@@ -32,9 +32,6 @@ I lead research spanning intelligent video understanding, visual perception, and
 
   {% include stats-row.html %}
 
-  <div style="margin-top: 0.8em;">
-    <a class="btn-pill btn-pill--paper" href="https://mingching.github.io/CV_Ming-Ching_Chang.pdf" download="CV_Ming-Ching_Chang.pdf" type="application/pdf"><i class="fas fa-file-download" aria-hidden="true"></i> Download Curriculum Vitae</a>
-  </div>
 </div>
 
 <span class='anchor' id='publications'></span>
