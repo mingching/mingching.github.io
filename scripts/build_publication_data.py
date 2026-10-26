@@ -83,31 +83,40 @@ def parse_annual(value: str):
     return sorted(result, key=lambda item: item["year"], reverse=True)
 
 
-def publication_date(fields: dict[str, str], venue: str = ""):
+def publication_date(fields: dict[str, str]):
     year = int(fields["year"]) if fields.get("year", "").isdigit() else 0
     month = MONTH_NUMBERS.get(fields.get("month", "").strip().lower(), 0)
     day = 0
     match = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", fields.get("date", "").strip())
     if match and int(match.group(1)) == year and int(match.group(2)) == month:
         day = int(match.group(3))
-    # A large portion of the canonical venue strings already contains the
-    # publication year (for example, "MICCAI 2025").  Keep the useful month
-    # or day in the rendered parenthetical, but never repeat that same year.
-    venue_has_year = bool(year and re.search(rf"(?<!\\d){year}(?!\\d)", venue))
-    venue_has_month = bool(month and any(
-        re.search(rf"(?<![A-Za-z]){label}\.?($|[^A-Za-z])", venue, re.I)
-        for label in MONTH_NAMES[month]
-    ))
     if month:
-        if venue_has_year and venue_has_month:
-            display = ""
-        elif venue_has_year:
-            display = f"{MONTH_LABELS[month]} {day}" if day else MONTH_LABELS[month]
-        else:
-            display = f"{MONTH_LABELS[month]} {day}, {year}" if day else f"{MONTH_LABELS[month]} {year}"
+        display = f"{MONTH_LABELS[month]} {day}, {year}" if day else f"{MONTH_LABELS[month]} {year}"
     else:
-        display = "" if venue_has_year else (str(year) if year else "")
+        display = str(year) if year else ""
     return year, month, day, display
+
+
+def display_venue(venue: str, year: int, month: int) -> str:
+    """Keep dates in one canonical final position, not inside the venue text."""
+    if not venue or not year:
+        return venue
+    month_names = "|".join(name.capitalize() for name in MONTH_NAMES.get(month, ()))
+    if month_names:
+        venue = re.sub(
+            rf",?\s*(?:{month_names})\.?\s+{year}(?=\s*(?:\([^)]*\))?\s*$)",
+            "",
+            venue,
+            flags=re.I,
+        )
+    # Conference and journal exports often prefix or append the publication
+    # year to the venue.  The final date display owns that year.  Preserve
+    # patent application numbers such as US 2024/0123456.
+    venue = re.sub(rf"(?<![\d/]){year}(?![\d/])", "", venue)
+    venue = re.sub(r"\(\s*\)", "", venue)
+    venue = re.sub(r"\s+,", ",", venue)
+    venue = re.sub(r",\s*,+", ",", venue)
+    return re.sub(r"\s{2,}", " ", venue).strip(" ,")
 
 
 def main():
@@ -135,7 +144,8 @@ def main():
             raise ValueError(f"Duplicate title in canonical BibTeX: {title}")
         seen_titles.add(normalized)
         venue = display_text(fields.get("venue", fields.get("journal", fields.get("booktitle", ""))))
-        sort_year, sort_month, sort_day, date_display = publication_date(fields, venue)
+        sort_year, sort_month, sort_day, date_display = publication_date(fields)
+        venue = display_venue(venue, sort_year, sort_month)
         publication = {
             "key": key,
             "entry_type": kind,

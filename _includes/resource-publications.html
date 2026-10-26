@@ -17,7 +17,7 @@
           <strong>{{ citation.title | default: publication.title }}</strong>
           {% endif %}
           {% if citation.paper_url %}<a class="pub-paper-link" href="{{ citation.paper_url | relative_url }}" download>PDF</a>{% endif %}
-          <span class="scholar-pub-meta">{% if citation %}{{ citation.authors }}. {{ citation.venue }}{% if citation.date_display %} ({{ citation.date_display }}){% endif %}.{% elsif publication.venue %}{{ publication.venue }}.{% endif %}</span>
+          <span class="scholar-pub-meta">{% if citation %}{{ citation.authors }}. {{ citation.venue }}{% if citation.date_display %}, {{ citation.date_display }}{% endif %}.{% elsif publication.venue %}{{ publication.venue }}.{% endif %}</span>
           <span class="resource-publication-links">
             <a href="{{ publication.paper | relative_url }}" download><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
             <a href="{{ publication.resource_url }}" target="_blank" rel="noopener"><i class="{% if include.icon == 'github' %}fab fa-github{% else %}fas fa-database{% endif %}" aria-hidden="true"></i> {{ publication.resource_label }}</a>

@@ -24,7 +24,7 @@
             {% if item.jurisdictions contains include.country %}
             <li>
               {% if item.scholar_url %}<a href="{{ item.scholar_url }}" target="_blank" rel="noopener">{{ item.title }}</a>{% else %}<strong>{{ item.title }}</strong>{% endif %}
-              <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}.</span>
+              <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %}, {{ item.date_display }}{% endif %}.</span>
             </li>
             {% endif %}
           {% endfor %}

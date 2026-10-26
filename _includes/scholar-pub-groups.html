@@ -20,7 +20,7 @@
           {% else %}
           <strong>{{ item.title }}</strong>
           {% endif %}
-          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %} ({{ item.date_display }}){% endif %}.</span>
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %}, {{ item.date_display }}{% endif %}.</span>
         </li>
       {% endfor %}
       </ol>
@@ -33,7 +33,7 @@
           {% else %}
           <strong>{{ item.title }}</strong>
           {% endif %}
-          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %} ({{ item.date_display }}){% endif %}.</span>
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %}, {{ item.date_display }}{% endif %}.</span>
         </li>
       {% endfor %}
       </ol>
@@ -47,7 +47,7 @@
           <strong>{{ item.title }}</strong>
           {% endif %}
           {% if item.paper_url %}<a class="pub-paper-link" href="{{ item.paper_url | relative_url }}" download>PDF</a>{% endif %}
-          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %} ({{ item.date_display }}){% endif %}.</span>
+          <span class="scholar-pub-meta">{{ item.authors }}. {{ item.venue }}{% if item.date_display %}, {{ item.date_display }}{% endif %}.</span>
         </li>
       {% endfor %}
       </ol>
