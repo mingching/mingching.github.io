@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6adff71ee65caddde6726753",
+    "id": "6ae146418ffee1548ca4bef6",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/TrmX3QLk3PT367IkjyvPWW0BD6WbiFASbKMFMxh5qco/6adff71ee65caddde6726753.json",
-    "markdown_endpoint": "https://serpapi.com/searches/TrmX3QLk3PT367IkjyvPWW0BD6WbiFASbKMFMxh5qco/6adff71ee65caddde6726753.md",
-    "created_at": "2026-10-27 00:58:06 UTC",
-    "processed_at": "2026-10-27 00:58:06 UTC",
+    "json_endpoint": "https://serpapi.com/searches/LQ9OjMs-DAxxqOWNjIPuVQTc4mOkR_UfVmivRY2ZI6I/6ae146418ffee1548ca4bef6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LQ9OjMs-DAxxqOWNjIPuVQTc4mOkR_UfVmivRY2ZI6I/6ae146418ffee1548ca4bef6.md",
+    "created_at": "2026-10-28 00:48:01 UTC",
+    "processed_at": "2026-10-28 00:48:01 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/TrmX3QLk3PT367IkjyvPWW0BD6WbiFASbKMFMxh5qco/6adff71ee65caddde6726753.html",
-    "total_time_taken": 1.66
+    "raw_html_file": "https://serpapi.com/searches/LQ9OjMs-DAxxqOWNjIPuVQTc4mOkR_UfVmivRY2ZI6I/6ae146418ffee1548ca4bef6.html",
+    "total_time_taken": 4.28
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1884,
+        "value": 1887,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -104,7 +104,7 @@
       "authors": "M Naphade, S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, ...",
       "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2023",
       "cited_by": {
-        "value": 365,
+        "value": 366,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8514837401369599104,13362556837794583216",
         "serpapi_link": "https://serpapi.com/search.json?cites=8514837401369599104%2C13362556837794583216&engine=google_scholar&hl=en",
         "cites_id": "8514837401369599104,13362556837794583216"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10176,
-          "since_2021": 7121
+          "all": 10181,
+          "since_2021": 7126
         }
       },
       {
@@ -398,15 +398,15 @@
       },
       {
         "year": 2024,
-        "citations": 1296
+        "citations": 1297
       },
       {
         "year": 2025,
-        "citations": 1494
+        "citations": 1492
       },
       {
         "year": 2026,
-        "citations": 1233
+        "citations": 1239
       }
     ]
   },
