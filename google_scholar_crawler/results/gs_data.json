@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae3f1c85d4ad5e51592bbe9",
+    "id": "6ae53fdddf79cfdcbeb45016",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/LNbqU8cN3d7xzYErAD0lnhz4YdXa8e8rtClwb0_PeeE/6ae3f1c85d4ad5e51592bbe9.json",
-    "markdown_endpoint": "https://serpapi.com/searches/LNbqU8cN3d7xzYErAD0lnhz4YdXa8e8rtClwb0_PeeE/6ae3f1c85d4ad5e51592bbe9.md",
-    "created_at": "2026-10-30 01:24:24 UTC",
-    "processed_at": "2026-10-30 01:24:24 UTC",
+    "json_endpoint": "https://serpapi.com/searches/vGkOKV_KiIlJ6HpvJrQldsmzFXY54vXqFRQDiude-pQ/6ae53fdddf79cfdcbeb45016.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vGkOKV_KiIlJ6HpvJrQldsmzFXY54vXqFRQDiude-pQ/6ae53fdddf79cfdcbeb45016.md",
+    "created_at": "2026-10-31 01:09:49 UTC",
+    "processed_at": "2026-10-31 01:09:49 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/LNbqU8cN3d7xzYErAD0lnhz4YdXa8e8rtClwb0_PeeE/6ae3f1c85d4ad5e51592bbe9.html",
-    "total_time_taken": 3.34
+    "raw_html_file": "https://serpapi.com/searches/vGkOKV_KiIlJ6HpvJrQldsmzFXY54vXqFRQDiude-pQ/6ae53fdddf79cfdcbeb45016.html",
+    "total_time_taken": 1.1
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1888,
+        "value": 1891,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1750,
+        "value": 1753,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -90,7 +90,7 @@
       "authors": "L Ke, MC Chang, H Qi, S Lyu",
       "publication": "European Conference on Computer Vision, 731-746, 2018",
       "cited_by": {
-        "value": 425,
+        "value": 426,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1806551976928360372",
         "serpapi_link": "https://serpapi.com/search.json?cites=1806551976928360372&engine=google_scholar&hl=en",
         "cites_id": "1806551976928360372"
@@ -174,7 +174,7 @@
       "authors": "PY Chen, MC Chang, JW Hsieh, YS Chen",
       "publication": "IEEE transactions on Image Processing 30, 9099-9111, 2021",
       "cited_by": {
-        "value": 168,
+        "value": 169,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6300912631097634278",
         "serpapi_link": "https://serpapi.com/search.json?cites=6300912631097634278&engine=google_scholar&hl=en",
         "cites_id": "6300912631097634278"
@@ -272,7 +272,7 @@
       "authors": "S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, MS Rahman, ...",
       "publication": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
       "cited_by": {
-        "value": 101,
+        "value": 103,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11141166804242901158",
         "serpapi_link": "https://serpapi.com/search.json?cites=11141166804242901158&engine=google_scholar&hl=en",
         "cites_id": "11141166804242901158"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10182,
-          "since_2021": 7128
+          "all": 10195,
+          "since_2021": 7138
         }
       },
       {
@@ -398,15 +398,15 @@
       },
       {
         "year": 2024,
-        "citations": 1297
+        "citations": 1299
       },
       {
         "year": 2025,
-        "citations": 1492
+        "citations": 1493
       },
       {
         "year": 2026,
-        "citations": 1241
+        "citations": 1248
       }
     ]
   },
@@ -462,15 +462,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v0Qt7BAAAAAJ&citpid=10"
     },
     {
-      "name": "Xin Wang",
-      "link": "https://scholar.google.com/citations?user=jUWx8fcAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=jUWx8fcAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "jUWx8fcAAAAJ",
-      "affiliations": "Assistant Professor, CIHS | AI Plus Institute, University at Albany SUNY",
-      "email": "Verified email at albany.edu",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUWx8fcAAAAJ&citpid=4"
-    },
-    {
       "name": "Ping-Yang Chen",
       "link": "https://scholar.google.com/citations?user=cGHFHm0AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=cGHFHm0AAAAJ&engine=google_scholar_author&hl=en",
@@ -478,6 +469,15 @@
       "affiliations": "National Yang Ming Chiao Tung University",
       "email": "Verified email at nctu.edu.tw",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cGHFHm0AAAAJ&citpid=1"
+    },
+    {
+      "name": "Xin Wang",
+      "link": "https://scholar.google.com/citations?user=jUWx8fcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jUWx8fcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jUWx8fcAAAAJ",
+      "affiliations": "Assistant Professor, CIHS | AI Plus Institute, University at Albany SUNY",
+      "email": "Verified email at albany.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUWx8fcAAAAJ&citpid=4"
     },
     {
       "name": "Chih-Fan Hsu",
