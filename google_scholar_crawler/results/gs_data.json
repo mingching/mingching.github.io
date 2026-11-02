@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae6883ae52c0531c5710094",
+    "id": "6ae7e1d721fa2ca7a87afb73",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/yhYG3GDZ02BbS9AMxIwKOmZsUTP1uylGLcNaAdIcRBs/6ae6883ae52c0531c5710094.json",
-    "markdown_endpoint": "https://serpapi.com/searches/yhYG3GDZ02BbS9AMxIwKOmZsUTP1uylGLcNaAdIcRBs/6ae6883ae52c0531c5710094.md",
-    "created_at": "2026-11-01 00:30:50 UTC",
-    "processed_at": "2026-11-01 00:30:50 UTC",
+    "json_endpoint": "https://serpapi.com/searches/SjmQ7EfiS1qpKJHVcvJ_8HT0ZCZPJa7-DrJM_ZNYWmA/6ae7e1d721fa2ca7a87afb73.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SjmQ7EfiS1qpKJHVcvJ_8HT0ZCZPJa7-DrJM_ZNYWmA/6ae7e1d721fa2ca7a87afb73.md",
+    "created_at": "2026-11-02 01:05:27 UTC",
+    "processed_at": "2026-11-02 01:05:27 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/yhYG3GDZ02BbS9AMxIwKOmZsUTP1uylGLcNaAdIcRBs/6ae6883ae52c0531c5710094.html",
-    "total_time_taken": 0.52
+    "raw_html_file": "https://serpapi.com/searches/SjmQ7EfiS1qpKJHVcvJ_8HT0ZCZPJa7-DrJM_ZNYWmA/6ae7e1d721fa2ca7a87afb73.html",
+    "total_time_taken": 2.59
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1891,
+        "value": 1892,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1753,
+        "value": 1752,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -327,7 +327,7 @@
       {
         "citations": {
           "all": 10195,
-          "since_2021": 7138
+          "since_2021": 7139
         }
       },
       {
@@ -406,7 +406,7 @@
       },
       {
         "year": 2026,
-        "citations": 1248
+        "citations": 1249
       }
     ]
   },
