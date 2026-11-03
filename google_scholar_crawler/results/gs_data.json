@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae7e1d721fa2ca7a87afb73",
+    "id": "6ae9500ac0d7a377e936b71c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/SjmQ7EfiS1qpKJHVcvJ_8HT0ZCZPJa7-DrJM_ZNYWmA/6ae7e1d721fa2ca7a87afb73.json",
-    "markdown_endpoint": "https://serpapi.com/searches/SjmQ7EfiS1qpKJHVcvJ_8HT0ZCZPJa7-DrJM_ZNYWmA/6ae7e1d721fa2ca7a87afb73.md",
-    "created_at": "2026-11-02 01:05:27 UTC",
-    "processed_at": "2026-11-02 01:05:27 UTC",
+    "json_endpoint": "https://serpapi.com/searches/SGi73et1oYdv8Ix8ogeYKfDXI1NQGmsI73WuA_VMNTU/6ae9500ac0d7a377e936b71c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SGi73et1oYdv8Ix8ogeYKfDXI1NQGmsI73WuA_VMNTU/6ae9500ac0d7a377e936b71c.md",
+    "created_at": "2026-11-03 03:07:54 UTC",
+    "processed_at": "2026-11-03 03:07:54 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/SjmQ7EfiS1qpKJHVcvJ_8HT0ZCZPJa7-DrJM_ZNYWmA/6ae7e1d721fa2ca7a87afb73.html",
-    "total_time_taken": 2.59
+    "raw_html_file": "https://serpapi.com/searches/SGi73et1oYdv8Ix8ogeYKfDXI1NQGmsI73WuA_VMNTU/6ae9500ac0d7a377e936b71c.html",
+    "total_time_taken": 1.24
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1752,
+        "value": 1751,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1056,
+        "value": 1057,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -272,7 +272,7 @@
       "authors": "S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, MS Rahman, ...",
       "publication": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
       "cited_by": {
-        "value": 103,
+        "value": 105,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11141166804242901158",
         "serpapi_link": "https://serpapi.com/search.json?cites=11141166804242901158&engine=google_scholar&hl=en",
         "cites_id": "11141166804242901158"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10195,
-          "since_2021": 7139
+          "all": 10202,
+          "since_2021": 7145
         }
       },
       {
@@ -358,7 +358,7 @@
       },
       {
         "year": 2014,
-        "citations": 85
+        "citations": 86
       },
       {
         "year": 2015,
@@ -402,11 +402,11 @@
       },
       {
         "year": 2025,
-        "citations": 1493
+        "citations": 1492
       },
       {
         "year": 2026,
-        "citations": 1249
+        "citations": 1256
       }
     ]
   },
