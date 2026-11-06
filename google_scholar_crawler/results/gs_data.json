@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6aebe16a758ad41ece1dbce6",
+    "id": "6aed32a82c7c69aed96aa023",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/3icMQuC4eRfPHTUXm3h3lFtKwaKNgV8CA2VyU0OAOU4/6aebe16a758ad41ece1dbce6.json",
-    "markdown_endpoint": "https://serpapi.com/searches/3icMQuC4eRfPHTUXm3h3lFtKwaKNgV8CA2VyU0OAOU4/6aebe16a758ad41ece1dbce6.md",
-    "created_at": "2026-11-05 01:52:42 UTC",
-    "processed_at": "2026-11-05 01:52:42 UTC",
+    "json_endpoint": "https://serpapi.com/searches/RSRqbrM78SMDvEtv3xsjheCwyYWe0vNX8-X8q5W2Rls/6aed32a82c7c69aed96aa023.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RSRqbrM78SMDvEtv3xsjheCwyYWe0vNX8-X8q5W2Rls/6aed32a82c7c69aed96aa023.md",
+    "created_at": "2026-11-06 01:51:36 UTC",
+    "processed_at": "2026-11-06 01:51:36 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/3icMQuC4eRfPHTUXm3h3lFtKwaKNgV8CA2VyU0OAOU4/6aebe16a758ad41ece1dbce6.html",
-    "total_time_taken": 3.77
+    "raw_html_file": "https://serpapi.com/searches/RSRqbrM78SMDvEtv3xsjheCwyYWe0vNX8-X8q5W2Rls/6aed32a82c7c69aed96aa023.html",
+    "total_time_taken": 1.3
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1895,
+        "value": 1898,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1058,
+        "value": 1057,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -174,7 +174,7 @@
       "authors": "PY Chen, MC Chang, JW Hsieh, YS Chen",
       "publication": "IEEE transactions on Image Processing 30, 9099-9111, 2021",
       "cited_by": {
-        "value": 169,
+        "value": 170,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6300912631097634278",
         "serpapi_link": "https://serpapi.com/search.json?cites=6300912631097634278&engine=google_scholar&hl=en",
         "cites_id": "6300912631097634278"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10207,
-          "since_2021": 7150
+          "all": 10211,
+          "since_2021": 7153
         }
       },
       {
@@ -386,11 +386,11 @@
       },
       {
         "year": 2021,
-        "citations": 963
+        "citations": 962
       },
       {
         "year": 2022,
-        "citations": 991
+        "citations": 992
       },
       {
         "year": 2023,
@@ -406,7 +406,7 @@
       },
       {
         "year": 2026,
-        "citations": 1260
+        "citations": 1263
       }
     ]
   },
