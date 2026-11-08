@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6aee7d63bd62cd35d323b9f2",
+    "id": "6aefc8e04308755d57ec8958",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/3a5rxpyf_pxxg9YKrD7Dol-DT4Vef7AbUX9H0C4uIJI/6aee7d63bd62cd35d323b9f2.json",
-    "markdown_endpoint": "https://serpapi.com/searches/3a5rxpyf_pxxg9YKrD7Dol-DT4Vef7AbUX9H0C4uIJI/6aee7d63bd62cd35d323b9f2.md",
-    "created_at": "2026-11-07 01:22:43 UTC",
-    "processed_at": "2026-11-07 01:22:43 UTC",
+    "json_endpoint": "https://serpapi.com/searches/v4QAQJgIgo_Kd92JICKLNAZHsAXs--Z1e2hnqYGAzWI/6aefc8e04308755d57ec8958.json",
+    "markdown_endpoint": "https://serpapi.com/searches/v4QAQJgIgo_Kd92JICKLNAZHsAXs--Z1e2hnqYGAzWI/6aefc8e04308755d57ec8958.md",
+    "created_at": "2026-11-08 00:57:04 UTC",
+    "processed_at": "2026-11-08 00:57:04 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/3a5rxpyf_pxxg9YKrD7Dol-DT4Vef7AbUX9H0C4uIJI/6aee7d63bd62cd35d323b9f2.html",
-    "total_time_taken": 6.82
+    "raw_html_file": "https://serpapi.com/searches/v4QAQJgIgo_Kd92JICKLNAZHsAXs--Z1e2hnqYGAzWI/6aefc8e04308755d57ec8958.html",
+    "total_time_taken": 2.22
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1898,
+        "value": 1899,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1752,
+        "value": 1753,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1057,
+        "value": 1058,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -202,7 +202,7 @@
       "authors": "Y Zhang, X Liu, MC Chang, W Ge, T Chen",
       "publication": "European Conference on Computer Vision, 707-721, 2012",
       "cited_by": {
-        "value": 163,
+        "value": 164,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12806578858985845952",
         "serpapi_link": "https://serpapi.com/search.json?cites=12806578858985845952&engine=google_scholar&hl=en",
         "cites_id": "12806578858985845952"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10211,
-          "since_2021": 7153
+          "all": 10217,
+          "since_2021": 7158
         }
       },
       {
@@ -374,7 +374,7 @@
       },
       {
         "year": 2018,
-        "citations": 457
+        "citations": 458
       },
       {
         "year": 2019,
@@ -402,11 +402,11 @@
       },
       {
         "year": 2025,
-        "citations": 1492
+        "citations": 1491
       },
       {
         "year": 2026,
-        "citations": 1263
+        "citations": 1269
       }
     ]
   },
