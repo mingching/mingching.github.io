@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6af11f09eb6ec5e730f750e9",
+    "id": "6af294f510ceed2e513a885b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/CSPXeD7JStoeiVTy5qbwO5OBAVHbMtDB6Q7iW1puMrs/6af11f09eb6ec5e730f750e9.json",
-    "markdown_endpoint": "https://serpapi.com/searches/CSPXeD7JStoeiVTy5qbwO5OBAVHbMtDB6Q7iW1puMrs/6af11f09eb6ec5e730f750e9.md",
-    "created_at": "2026-11-09 01:16:57 UTC",
-    "processed_at": "2026-11-09 01:16:57 UTC",
+    "json_endpoint": "https://serpapi.com/searches/TToRZmsPvC-PF91L2BOQNhvSd5-lOsYIXJUfacZbwoA/6af294f510ceed2e513a885b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TToRZmsPvC-PF91L2BOQNhvSd5-lOsYIXJUfacZbwoA/6af294f510ceed2e513a885b.md",
+    "created_at": "2026-11-10 03:52:21 UTC",
+    "processed_at": "2026-11-10 03:52:21 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/CSPXeD7JStoeiVTy5qbwO5OBAVHbMtDB6Q7iW1puMrs/6af11f09eb6ec5e730f750e9.html",
-    "total_time_taken": 0.64
+    "raw_html_file": "https://serpapi.com/searches/TToRZmsPvC-PF91L2BOQNhvSd5-lOsYIXJUfacZbwoA/6af294f510ceed2e513a885b.html",
+    "total_time_taken": 1.21
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1899,
+        "value": 1901,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1059,
+        "value": 1061,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -146,7 +146,7 @@
       "authors": "W Huang, X Li, Y Chen, X Li, MC Chang, MJ Oborski, DI Malyarenko, ...",
       "publication": "Translational oncology 7 (1), 153-166, 2014",
       "cited_by": {
-        "value": 192,
+        "value": 193,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16543770493271082768",
         "serpapi_link": "https://serpapi.com/search.json?cites=16543770493271082768&engine=google_scholar&hl=en",
         "cites_id": "16543770493271082768"
@@ -188,7 +188,7 @@
       "authors": "X Wang, H Guo, S Hu, MC Chang, S Lyu",
       "publication": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
       "cited_by": {
-        "value": 164,
+        "value": 165,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=361822992601821542",
         "serpapi_link": "https://serpapi.com/search.json?cites=361822992601821542&engine=google_scholar&hl=en",
         "cites_id": "361822992601821542"
@@ -230,7 +230,7 @@
       "authors": "Y Li, D Tian, MC Chang, X Bian, S Lyu",
       "publication": "arXiv preprint arXiv:1809.05962, 2018",
       "cited_by": {
-        "value": 155,
+        "value": 156,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12556617050203552423",
         "serpapi_link": "https://serpapi.com/search.json?cites=12556617050203552423&engine=google_scholar&hl=en",
         "cites_id": "12556617050203552423"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10222,
-          "since_2021": 7164
+          "all": 10235,
+          "since_2021": 7177
         }
       },
       {
@@ -398,7 +398,7 @@
       },
       {
         "year": 2024,
-        "citations": 1299
+        "citations": 1301
       },
       {
         "year": 2025,
@@ -406,7 +406,7 @@
       },
       {
         "year": 2026,
-        "citations": 1274
+        "citations": 1285
       }
     ]
   },
