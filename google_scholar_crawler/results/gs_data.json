@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6af3c5b67d1233b66f800a47",
+    "id": "6af525bb35b27a28efb0c9eb",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/jP2a8A2yA7HkXwLvEJlynlN7qTs_cXI-uT8x-IL7Rig/6af3c5b67d1233b66f800a47.json",
-    "markdown_endpoint": "https://serpapi.com/searches/jP2a8A2yA7HkXwLvEJlynlN7qTs_cXI-uT8x-IL7Rig/6af3c5b67d1233b66f800a47.md",
-    "created_at": "2026-11-11 01:32:38 UTC",
-    "processed_at": "2026-11-11 01:32:38 UTC",
+    "json_endpoint": "https://serpapi.com/searches/KW3xt0zh3N4H1FVxiMIXX6nH3ozcjlDItca1ybiYjo4/6af525bb35b27a28efb0c9eb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KW3xt0zh3N4H1FVxiMIXX6nH3ozcjlDItca1ybiYjo4/6af525bb35b27a28efb0c9eb.md",
+    "created_at": "2026-11-12 02:34:35 UTC",
+    "processed_at": "2026-11-12 02:34:35 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/jP2a8A2yA7HkXwLvEJlynlN7qTs_cXI-uT8x-IL7Rig/6af3c5b67d1233b66f800a47.html",
-    "total_time_taken": 1.15
+    "raw_html_file": "https://serpapi.com/searches/KW3xt0zh3N4H1FVxiMIXX6nH3ozcjlDItca1ybiYjo4/6af525bb35b27a28efb0c9eb.html",
+    "total_time_taken": 6.0
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1901,
+        "value": 1904,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1061,
+        "value": 1060,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10235,
-          "since_2021": 7177
+          "all": 10237,
+          "since_2021": 7179
         }
       },
       {
@@ -374,11 +374,11 @@
       },
       {
         "year": 2018,
-        "citations": 458
+        "citations": 459
       },
       {
         "year": 2019,
-        "citations": 699
+        "citations": 698
       },
       {
         "year": 2020,
@@ -402,11 +402,11 @@
       },
       {
         "year": 2025,
-        "citations": 1491
+        "citations": 1490
       },
       {
         "year": 2026,
-        "citations": 1285
+        "citations": 1289
       }
     ]
   },
