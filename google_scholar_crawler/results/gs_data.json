@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6af6724d24ba0ae6dfbd3229",
+    "id": "6af7bf1167e8338a6f06ef0c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ns5HlqgGeC08SXv52tHFPccSCcnziqzcYpeQWHpLr4s/6af6724d24ba0ae6dfbd3229.json",
-    "markdown_endpoint": "https://serpapi.com/searches/ns5HlqgGeC08SXv52tHFPccSCcnziqzcYpeQWHpLr4s/6af6724d24ba0ae6dfbd3229.md",
-    "created_at": "2026-11-13 02:13:33 UTC",
-    "processed_at": "2026-11-13 02:13:33 UTC",
+    "json_endpoint": "https://serpapi.com/searches/f7teos53TVme7VdVF6AZLEW6QV5o9Y4mglh6kv7jqdA/6af7bf1167e8338a6f06ef0c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/f7teos53TVme7VdVF6AZLEW6QV5o9Y4mglh6kv7jqdA/6af7bf1167e8338a6f06ef0c.md",
+    "created_at": "2026-11-14 01:53:21 UTC",
+    "processed_at": "2026-11-14 01:53:21 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/ns5HlqgGeC08SXv52tHFPccSCcnziqzcYpeQWHpLr4s/6af6724d24ba0ae6dfbd3229.html",
-    "total_time_taken": 3.4
+    "raw_html_file": "https://serpapi.com/searches/f7teos53TVme7VdVF6AZLEW6QV5o9Y4mglh6kv7jqdA/6af7bf1167e8338a6f06ef0c.html",
+    "total_time_taken": 0.3
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1060,
+        "value": 1063,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -146,7 +146,7 @@
       "authors": "W Huang, X Li, Y Chen, X Li, MC Chang, MJ Oborski, DI Malyarenko, ...",
       "publication": "Translational oncology 7 (1), 153-166, 2014",
       "cited_by": {
-        "value": 193,
+        "value": 194,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16543770493271082768",
         "serpapi_link": "https://serpapi.com/search.json?cites=16543770493271082768&engine=google_scholar&hl=en",
         "cites_id": "16543770493271082768"
@@ -216,7 +216,7 @@
       "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
       "publication": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …, 2022",
       "cited_by": {
-        "value": 156,
+        "value": 157,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=807434030695780708",
         "serpapi_link": "https://serpapi.com/search.json?cites=807434030695780708&engine=google_scholar&hl=en",
         "cites_id": "807434030695780708"
@@ -272,7 +272,7 @@
       "authors": "S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, MS Rahman, ...",
       "publication": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
       "cited_by": {
-        "value": 105,
+        "value": 106,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11141166804242901158",
         "serpapi_link": "https://serpapi.com/search.json?cites=11141166804242901158&engine=google_scholar&hl=en",
         "cites_id": "11141166804242901158"
@@ -326,13 +326,13 @@
     "table": [
       {
         "citations": {
-          "all": 10237,
-          "since_2021": 7179
+          "all": 10250,
+          "since_2021": 7192
         }
       },
       {
         "h_index": {
-          "all": 36,
+          "all": 37,
           "since_2021": 33
         }
       },
@@ -398,15 +398,15 @@
       },
       {
         "year": 2024,
-        "citations": 1301
+        "citations": 1302
       },
       {
         "year": 2025,
-        "citations": 1490
+        "citations": 1489
       },
       {
         "year": 2026,
-        "citations": 1289
+        "citations": 1301
       }
     ]
   },
