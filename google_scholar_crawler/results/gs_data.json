@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6afd1778d12e2e654bf47ceb",
+    "id": "6afe644cd928dae78b4c8c45",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/iUeahjOjotvoSTPexWPrSKRCb5-w1R6IuLZ-SDcFzXw/6afd1778d12e2e654bf47ceb.json",
-    "markdown_endpoint": "https://serpapi.com/searches/iUeahjOjotvoSTPexWPrSKRCb5-w1R6IuLZ-SDcFzXw/6afd1778d12e2e654bf47ceb.md",
-    "created_at": "2026-11-18 03:11:52 UTC",
-    "processed_at": "2026-11-18 03:11:52 UTC",
+    "json_endpoint": "https://serpapi.com/searches/f-3Wx7igAOGzlMPRkeh4AgQzHlS1c2-_NtJLuW8z5ho/6afe644cd928dae78b4c8c45.json",
+    "markdown_endpoint": "https://serpapi.com/searches/f-3Wx7igAOGzlMPRkeh4AgQzHlS1c2-_NtJLuW8z5ho/6afe644cd928dae78b4c8c45.md",
+    "created_at": "2026-11-19 02:51:56 UTC",
+    "processed_at": "2026-11-19 02:51:56 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/iUeahjOjotvoSTPexWPrSKRCb5-w1R6IuLZ-SDcFzXw/6afd1778d12e2e654bf47ceb.html",
-    "total_time_taken": 0.57
+    "raw_html_file": "https://serpapi.com/searches/f-3Wx7igAOGzlMPRkeh4AgQzHlS1c2-_NtJLuW8z5ho/6afe644cd928dae78b4c8c45.html",
+    "total_time_taken": 0.51
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1064,
+        "value": 1065,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10261,
-          "since_2021": 7205
+          "all": 10264,
+          "since_2021": 7208
         }
       },
       {
@@ -406,7 +406,7 @@
       },
       {
         "year": 2026,
-        "citations": 1316
+        "citations": 1319
       }
     ]
   },
