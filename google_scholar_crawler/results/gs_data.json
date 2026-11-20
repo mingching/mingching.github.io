@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6afe644cd928dae78b4c8c45",
+    "id": "6affb3d59616214c91699a65",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/f-3Wx7igAOGzlMPRkeh4AgQzHlS1c2-_NtJLuW8z5ho/6afe644cd928dae78b4c8c45.json",
-    "markdown_endpoint": "https://serpapi.com/searches/f-3Wx7igAOGzlMPRkeh4AgQzHlS1c2-_NtJLuW8z5ho/6afe644cd928dae78b4c8c45.md",
-    "created_at": "2026-11-19 02:51:56 UTC",
-    "processed_at": "2026-11-19 02:51:56 UTC",
+    "json_endpoint": "https://serpapi.com/searches/10ZkvBEzZSlW-znOLT0Wbe96QynVS5Y77qwPndGpl-s/6affb3d59616214c91699a65.json",
+    "markdown_endpoint": "https://serpapi.com/searches/10ZkvBEzZSlW-znOLT0Wbe96QynVS5Y77qwPndGpl-s/6affb3d59616214c91699a65.md",
+    "created_at": "2026-11-20 02:43:33 UTC",
+    "processed_at": "2026-11-20 02:43:33 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/f-3Wx7igAOGzlMPRkeh4AgQzHlS1c2-_NtJLuW8z5ho/6afe644cd928dae78b4c8c45.html",
-    "total_time_taken": 0.51
+    "raw_html_file": "https://serpapi.com/searches/10ZkvBEzZSlW-znOLT0Wbe96QynVS5Y77qwPndGpl-s/6affb3d59616214c91699a65.html",
+    "total_time_taken": 2.23
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1906,
+        "value": 1908,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1753,
+        "value": 1754,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1065,
+        "value": 1064,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -188,7 +188,7 @@
       "authors": "X Wang, H Guo, S Hu, MC Chang, S Lyu",
       "publication": "ECAI 2023: 26th European Conference on Artificial Intelligence, September 30 …, 2023",
       "cited_by": {
-        "value": 165,
+        "value": 166,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=361822992601821542",
         "serpapi_link": "https://serpapi.com/search.json?cites=361822992601821542&engine=google_scholar&hl=en",
         "cites_id": "361822992601821542"
@@ -216,7 +216,7 @@
       "authors": "H Guo, S Hu, X Wang, MC Chang, S Lyu",
       "publication": "ICASSP 2022-2022 IEEE international conference on acoustics, speech and …, 2022",
       "cited_by": {
-        "value": 157,
+        "value": 158,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=807434030695780708",
         "serpapi_link": "https://serpapi.com/search.json?cites=807434030695780708&engine=google_scholar&hl=en",
         "cites_id": "807434030695780708"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10264,
-          "since_2021": 7208
+          "all": 10271,
+          "since_2021": 7214
         }
       },
       {
@@ -374,7 +374,7 @@
       },
       {
         "year": 2018,
-        "citations": 459
+        "citations": 460
       },
       {
         "year": 2019,
@@ -382,7 +382,7 @@
       },
       {
         "year": 2020,
-        "citations": 807
+        "citations": 806
       },
       {
         "year": 2021,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2023,
-        "citations": 1131
+        "citations": 1130
       },
       {
         "year": 2024,
@@ -402,11 +402,11 @@
       },
       {
         "year": 2025,
-        "citations": 1488
+        "citations": 1490
       },
       {
         "year": 2026,
-        "citations": 1319
+        "citations": 1324
       }
     ]
   },
@@ -462,15 +462,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v0Qt7BAAAAAJ&citpid=10"
     },
     {
-      "name": "Ping-Yang Chen",
-      "link": "https://scholar.google.com/citations?user=cGHFHm0AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=cGHFHm0AAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "cGHFHm0AAAAJ",
-      "affiliations": "National Yang Ming Chiao Tung University",
-      "email": "Verified email at nctu.edu.tw",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cGHFHm0AAAAJ&citpid=1"
-    },
-    {
       "name": "Xin Wang",
       "link": "https://scholar.google.com/citations?user=jUWx8fcAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=jUWx8fcAAAAJ&engine=google_scholar_author&hl=en",
@@ -478,6 +469,15 @@
       "affiliations": "Assistant Professor, College of Integrated Health Sc | AI Plus Institute, University at Albany SUNY",
       "email": "Verified email at albany.edu",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUWx8fcAAAAJ&citpid=4"
+    },
+    {
+      "name": "Ping-Yang Chen",
+      "link": "https://scholar.google.com/citations?user=cGHFHm0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=cGHFHm0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "cGHFHm0AAAAJ",
+      "affiliations": "National Yang Ming Chiao Tung University",
+      "email": "Verified email at nctu.edu.tw",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cGHFHm0AAAAJ&citpid=1"
     },
     {
       "name": "Chih-Fan Hsu",
@@ -552,15 +552,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NimM6-gAAAAJ&citpid=6"
     },
     {
-      "name": "Milind Naphade",
-      "link": "https://scholar.google.com/citations?user=aZ-O-f4AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=aZ-O-f4AAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "aZ-O-f4AAAAJ",
-      "affiliations": "Senior Vice President, Capital One AI Foundations",
-      "email": "Verified email at capitalone.com",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aZ-O-f4AAAAJ&citpid=2"
-    },
-    {
       "name": "Yi Wei",
       "link": "https://scholar.google.com/citations?user=8iSmJXoAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=8iSmJXoAAAAJ&engine=google_scholar_author&hl=en",
@@ -568,6 +559,15 @@
       "affiliations": "Samsung Research America",
       "email": "Verified email at samsung.com",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8iSmJXoAAAAJ&citpid=1"
+    },
+    {
+      "name": "Milind Naphade",
+      "link": "https://scholar.google.com/citations?user=aZ-O-f4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=aZ-O-f4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "aZ-O-f4AAAAJ",
+      "affiliations": "Senior Vice President, Capital One AI Foundations",
+      "email": "Verified email at capitalone.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aZ-O-f4AAAAJ&citpid=2"
     },
     {
       "name": "Hui Guo",
