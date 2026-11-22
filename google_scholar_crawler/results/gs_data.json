@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b0107bfce77193d910ca12d",
+    "id": "6b0248b5afaa6727b76be211",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/kPt5stdQhP3mz_ylLIoJUX_GUZAOkwQafzgXPvKYxYM/6b0107bfce77193d910ca12d.json",
-    "markdown_endpoint": "https://serpapi.com/searches/kPt5stdQhP3mz_ylLIoJUX_GUZAOkwQafzgXPvKYxYM/6b0107bfce77193d910ca12d.md",
-    "created_at": "2026-11-21 02:53:51 UTC",
-    "processed_at": "2026-11-21 02:53:51 UTC",
+    "json_endpoint": "https://serpapi.com/searches/KrnjrXwXoDKedyIjK9fjMYlJZffmm1xAiR2KLhkmXEU/6b0248b5afaa6727b76be211.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KrnjrXwXoDKedyIjK9fjMYlJZffmm1xAiR2KLhkmXEU/6b0248b5afaa6727b76be211.md",
+    "created_at": "2026-11-22 01:43:17 UTC",
+    "processed_at": "2026-11-22 01:43:17 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/kPt5stdQhP3mz_ylLIoJUX_GUZAOkwQafzgXPvKYxYM/6b0107bfce77193d910ca12d.html",
-    "total_time_taken": 0.52
+    "raw_html_file": "https://serpapi.com/searches/KrnjrXwXoDKedyIjK9fjMYlJZffmm1xAiR2KLhkmXEU/6b0248b5afaa6727b76be211.html",
+    "total_time_taken": 5.85
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1908,
+        "value": 1909,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1064,
+        "value": 1066,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -272,7 +272,7 @@
       "authors": "S Wang, DC Anastasiu, Z Tang, MC Chang, Y Yao, L Zheng, MS Rahman, ...",
       "publication": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
       "cited_by": {
-        "value": 106,
+        "value": 107,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11141166804242901158",
         "serpapi_link": "https://serpapi.com/search.json?cites=11141166804242901158&engine=google_scholar&hl=en",
         "cites_id": "11141166804242901158"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10271,
-          "since_2021": 7214
+          "all": 10278,
+          "since_2021": 7221
         }
       },
       {
@@ -374,7 +374,7 @@
       },
       {
         "year": 2018,
-        "citations": 460
+        "citations": 459
       },
       {
         "year": 2019,
@@ -382,7 +382,7 @@
       },
       {
         "year": 2020,
-        "citations": 806
+        "citations": 807
       },
       {
         "year": 2021,
@@ -394,19 +394,19 @@
       },
       {
         "year": 2023,
-        "citations": 1130
+        "citations": 1129
       },
       {
         "year": 2024,
-        "citations": 1302
+        "citations": 1303
       },
       {
         "year": 2025,
-        "citations": 1490
+        "citations": 1489
       },
       {
         "year": 2026,
-        "citations": 1324
+        "citations": 1332
       }
     ]
   },
