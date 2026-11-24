@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b039eb42b56831386e123bf",
+    "id": "6b052315f479a38062930059",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/vJ2SJM13TvWFSWl-XZTpBkzLa6FobKhRl5PZ9lVi7YI/6b039eb42b56831386e123bf.json",
-    "markdown_endpoint": "https://serpapi.com/searches/vJ2SJM13TvWFSWl-XZTpBkzLa6FobKhRl5PZ9lVi7YI/6b039eb42b56831386e123bf.md",
-    "created_at": "2026-11-23 02:02:28 UTC",
-    "processed_at": "2026-11-23 02:02:28 UTC",
+    "json_endpoint": "https://serpapi.com/searches/3LRK1wLuLxDXOE2EexQghKyTbf5VePXKvnTSd_OqTdM/6b052315f479a38062930059.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3LRK1wLuLxDXOE2EexQghKyTbf5VePXKvnTSd_OqTdM/6b052315f479a38062930059.md",
+    "created_at": "2026-11-24 05:39:33 UTC",
+    "processed_at": "2026-11-24 05:39:33 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/vJ2SJM13TvWFSWl-XZTpBkzLa6FobKhRl5PZ9lVi7YI/6b039eb42b56831386e123bf.html",
-    "total_time_taken": 1.02
+    "raw_html_file": "https://serpapi.com/searches/3LRK1wLuLxDXOE2EexQghKyTbf5VePXKvnTSd_OqTdM/6b052315f479a38062930059.html",
+    "total_time_taken": 1.13
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1909,
+        "value": 1910,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -62,7 +62,7 @@
       "authors": "M Kristan, J Matas, A Leonardis, M Felsberg, L Cehovin, G Fernandez, ...",
       "publication": "Proceedings of the IEEE international conference on computer vision …, 2015",
       "cited_by": {
-        "value": 1754,
+        "value": 1756,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030672482439802527",
         "serpapi_link": "https://serpapi.com/search.json?cites=5030672482439802527&engine=google_scholar&hl=en",
         "cites_id": "5030672482439802527"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1066,
+        "value": 1067,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -118,7 +118,7 @@
       "authors": "YH Wang, JW Hsieh, PY Chen, MC Chang, HH So, X Li",
       "publication": "Proceedings of the AAAI conference on artificial intelligence 38 (6), 5740-5748, 2024",
       "cited_by": {
-        "value": 208,
+        "value": 209,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1676622857584811586",
         "serpapi_link": "https://serpapi.com/search.json?cites=1676622857584811586&engine=google_scholar&hl=en",
         "cites_id": "1676622857584811586"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10278,
-          "since_2021": 7221
+          "all": 10286,
+          "since_2021": 7228
         }
       },
       {
@@ -386,7 +386,7 @@
       },
       {
         "year": 2021,
-        "citations": 962
+        "citations": 961
       },
       {
         "year": 2022,
@@ -394,11 +394,11 @@
       },
       {
         "year": 2023,
-        "citations": 1129
+        "citations": 1130
       },
       {
         "year": 2024,
-        "citations": 1303
+        "citations": 1304
       },
       {
         "year": 2025,
@@ -406,7 +406,7 @@
       },
       {
         "year": 2026,
-        "citations": 1332
+        "citations": 1338
       }
     ]
   },
@@ -462,15 +462,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v0Qt7BAAAAAJ&citpid=10"
     },
     {
-      "name": "Xin Wang",
-      "link": "https://scholar.google.com/citations?user=jUWx8fcAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=jUWx8fcAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "jUWx8fcAAAAJ",
-      "affiliations": "Assistant Professor, College of Integrated Health Sc | AI Plus Institute, University at Albany SUNY",
-      "email": "Verified email at albany.edu",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUWx8fcAAAAJ&citpid=4"
-    },
-    {
       "name": "Ping-Yang Chen",
       "link": "https://scholar.google.com/citations?user=cGHFHm0AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=cGHFHm0AAAAJ&engine=google_scholar_author&hl=en",
@@ -478,6 +469,15 @@
       "affiliations": "National Yang Ming Chiao Tung University",
       "email": "Verified email at nctu.edu.tw",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cGHFHm0AAAAJ&citpid=1"
+    },
+    {
+      "name": "Xin Wang",
+      "link": "https://scholar.google.com/citations?user=jUWx8fcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jUWx8fcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jUWx8fcAAAAJ",
+      "affiliations": "Assistant Professor, College of Integrated Health Sc | AI Plus Institute, University at Albany SUNY",
+      "email": "Verified email at albany.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUWx8fcAAAAJ&citpid=4"
     },
     {
       "name": "Chih-Fan Hsu",
