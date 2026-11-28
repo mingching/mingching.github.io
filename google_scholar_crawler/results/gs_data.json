@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b08fe14c8816b3d307d82cc",
+    "id": "6b0a4c60e7b2d37d888a3b86",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/xhAVAfTQDrlxHjMYwWQ27bgDAjJZ-ztV3PH8KdLVu5o/6b08fe14c8816b3d307d82cc.json",
-    "markdown_endpoint": "https://serpapi.com/searches/xhAVAfTQDrlxHjMYwWQ27bgDAjJZ-ztV3PH8KdLVu5o/6b08fe14c8816b3d307d82cc.md",
-    "created_at": "2026-11-27 03:50:44 UTC",
-    "processed_at": "2026-11-27 03:50:44 UTC",
+    "json_endpoint": "https://serpapi.com/searches/lgOf7aDnyzZ6JHLs6Ic-wcf_2I6pUC-14mZhxwW6f2A/6b0a4c60e7b2d37d888a3b86.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lgOf7aDnyzZ6JHLs6Ic-wcf_2I6pUC-14mZhxwW6f2A/6b0a4c60e7b2d37d888a3b86.md",
+    "created_at": "2026-11-28 03:37:04 UTC",
+    "processed_at": "2026-11-28 03:37:04 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en&view_op=list_works",
-    "raw_html_file": "https://serpapi.com/searches/xhAVAfTQDrlxHjMYwWQ27bgDAjJZ-ztV3PH8KdLVu5o/6b08fe14c8816b3d307d82cc.html",
-    "total_time_taken": 9.8
+    "raw_html_file": "https://serpapi.com/searches/lgOf7aDnyzZ6JHLs6Ic-wcf_2I6pUC-14mZhxwW6f2A/6b0a4c60e7b2d37d888a3b86.html",
+    "total_time_taken": 0.58
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -48,7 +48,7 @@
       "authors": "Y Li, MC Chang, S Lyu",
       "publication": "2018 IEEE International workshop on information forensics and security (WIFS …, 2018",
       "cited_by": {
-        "value": 1918,
+        "value": 1919,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901795261562998355",
         "serpapi_link": "https://serpapi.com/search.json?cites=5901795261562998355&engine=google_scholar&hl=en",
         "cites_id": "5901795261562998355"
@@ -76,7 +76,7 @@
       "authors": "L Wen, D Du, Z Cai, Z Lei, MC Chang, H Qi, J Lim, MH Yang, S Lyu",
       "publication": "Computer Vision and Image Understanding 193, 102907, 2020",
       "cited_by": {
-        "value": 1070,
+        "value": 1077,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969166342545636460",
         "serpapi_link": "https://serpapi.com/search.json?cites=17969166342545636460&engine=google_scholar&hl=en",
         "cites_id": "17969166342545636460"
@@ -118,7 +118,7 @@
       "authors": "YH Wang, JW Hsieh, PY Chen, MC Chang, HH So, X Li",
       "publication": "Proceedings of the AAAI conference on artificial intelligence 38 (6), 5740-5748, 2024",
       "cited_by": {
-        "value": 209,
+        "value": 210,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1676622857584811586",
         "serpapi_link": "https://serpapi.com/search.json?cites=1676622857584811586&engine=google_scholar&hl=en",
         "cites_id": "1676622857584811586"
@@ -326,8 +326,8 @@
     "table": [
       {
         "citations": {
-          "all": 10304,
-          "since_2021": 7248
+          "all": 10314,
+          "since_2021": 7258
         }
       },
       {
@@ -394,11 +394,11 @@
       },
       {
         "year": 2023,
-        "citations": 1129
+        "citations": 1130
       },
       {
         "year": 2024,
-        "citations": 1302
+        "citations": 1303
       },
       {
         "year": 2025,
@@ -406,7 +406,7 @@
       },
       {
         "year": 2026,
-        "citations": 1355
+        "citations": 1363
       }
     ]
   },
